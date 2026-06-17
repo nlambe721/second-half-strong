@@ -18,6 +18,13 @@ const QUICK_TOPICS = [
   { label: "Mindset", query: "warrior mindset" },
 ];
 
+const MODES = [
+  { href: "/chat?mode=chat",    icon: "💬", label: "Open Chat" },
+  { href: "/chat?mode=case",    icon: "📋", label: "Case Study" },
+  { href: "/chat?mode=ask",     icon: "❓", label: "Ask a Question" },
+  { href: "/chat?mode=program", icon: "🎯", label: "Accountability" },
+];
+
 export default function Sidebar() {
   const pathname = usePathname();
   const router = useRouter();
@@ -35,7 +42,8 @@ export default function Sidebar() {
           <div className="w-10 h-10 rounded-lg bg-orange-500/20 flex items-center justify-center text-xl">💪</div>
           <div>
             <div className="text-white font-bold text-sm leading-tight">Second Half Strong</div>
-            <div className="text-gray-500 text-xs">Men Over 40 AI Coach</div>
+            <div className="text-orange-400 text-xs font-medium">AI Coach</div>
+            <div className="text-gray-500 text-xs leading-tight">Coach · Partner · Guide</div>
           </div>
         </div>
       </div>
@@ -60,8 +68,23 @@ export default function Sidebar() {
           );
         })}
 
-        {/* Quick Topics */}
+        {/* Coaching Modes */}
         <div className="pt-4 pb-1">
+          <div className="text-gray-600 text-xs uppercase tracking-wider px-3 mb-2">Coaching Modes</div>
+          {MODES.map((m) => (
+            <Link
+              key={m.href}
+              href={m.href}
+              className="flex items-center gap-2 px-3 py-2 rounded-lg text-xs text-gray-500 hover:text-orange-400 hover:bg-gray-800 transition-colors"
+            >
+              <span>{m.icon}</span>
+              {m.label}
+            </Link>
+          ))}
+        </div>
+
+        {/* Quick Topics */}
+        <div className="pt-2 pb-1">
           <div className="text-gray-600 text-xs uppercase tracking-wider px-3 mb-2">Quick Topics</div>
           {QUICK_TOPICS.map((t) => (
             <Link

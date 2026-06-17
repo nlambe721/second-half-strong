@@ -149,7 +149,7 @@ export default function Dashboard() {
           <div>
             <h1 className="text-3xl font-bold text-white mb-1">Second Half Strong</h1>
             <p className="text-zinc-400 text-base max-w-2xl">
-              AI coaching for men over 40 — powered by Funk Roberts, the Men Over 40 Health Summit,
+              Coach · Accountability Partner · Guide for Men Over 40 — powered by Funk Roberts, the Men Over 40 Health Summit,
               and {SUMMIT_EXPERTS.length} world-class expert voices across {knowledgeChunks.length} knowledge chunks.
             </p>
             <div className="flex flex-wrap gap-3 mt-5">
