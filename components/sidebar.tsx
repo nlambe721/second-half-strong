@@ -3,30 +3,21 @@ import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { knowledgeChunks } from "@/lib/knowledge-base";
 
-const nav = [
-  { href: "/dashboard", icon: "🏠", label: "Dashboard" },
-  { href: "/chat",      icon: "💬", label: "AI Coach" },
-  { href: "/experts",   icon: "🎤", label: "Experts" },
-  { href: "/programs",  icon: "📚", label: "Programs" },
-];
-
-const QUICK_TOPICS = [
-  { label: "Testosterone", query: "testosterone" },
-  { label: "Training", query: "training over 40" },
-  { label: "Sleep", query: "Alpha Sleep System" },
-  { label: "Nutrition", query: "nutrition men over 40" },
-  { label: "Mindset", query: "warrior mindset" },
-];
-
 const MODES = [
-  { href: "/chat?mode=chat",    icon: "💬", label: "Open Chat" },
-  { href: "/chat?mode=case",    icon: "📋", label: "Case Study" },
-  { href: "/chat?mode=ask",     icon: "❓", label: "Ask a Question" },
-  { href: "/chat?mode=program", icon: "🎯", label: "Accountability" },
+  { href: "/chat?mode=chat",     icon: "💬", label: "Free Chat",     sub: "Ask anything" },
+  { href: "/chat?mode=case",     icon: "📋", label: "Case Study",    sub: "Analyze my full situation" },
+  { href: "/chat?mode=diagnose", icon: "🔍", label: "Diagnose Me",   sub: "Ask me questions first" },
+  { href: "/chat?mode=program",  icon: "🏆", label: "Accountability", sub: "Check-in + progress" },
+];
+
+const QUICK = [
+  { href: "/chat?mode=photo", icon: "📷", label: "Photo Analysis", sub: "Food label · Meal · Blood work" },
 ];
 
 export default function Sidebar() {
   const pathname = usePathname();
+  const searchParams = typeof window !== "undefined" ? new URLSearchParams(window.location.search) : null;
+  const currentMode = searchParams?.get("mode") ?? "";
   const router = useRouter();
 
   async function handleLogout() {
@@ -34,91 +25,109 @@ export default function Sidebar() {
     router.push("/login");
   }
 
+  function isActive(href: string) {
+    const [path, qs] = href.split("?");
+    const mode = new URLSearchParams(qs ?? "").get("mode") ?? "";
+    if (pathname !== path && !pathname.startsWith(path + "/")) return false;
+    if (path === "/chat") return currentMode === mode;
+    return true;
+  }
+
   return (
-    <aside className="w-64 bg-gray-900 border-r border-gray-800 flex flex-col h-full">
+    <aside className="w-60 bg-[#0f1117] border-r border-gray-800/60 flex flex-col h-full flex-shrink-0">
       {/* Brand */}
-      <div className="p-5 border-b border-gray-800">
+      <div className="p-4 border-b border-gray-800/60">
         <div className="flex items-center gap-3">
-          <div className="w-10 h-10 rounded-lg bg-orange-500/20 flex items-center justify-center text-xl">💪</div>
+          <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-amber-600 to-amber-800 flex items-center justify-center shadow-md flex-shrink-0">
+            <span className="text-white font-bold text-xs tracking-wide">SHS</span>
+          </div>
           <div>
-            <div className="text-white font-bold text-sm leading-tight">Second Half Strong</div>
-            <div className="text-orange-400 text-xs font-medium">AI Coach</div>
-            <div className="text-gray-500 text-xs leading-tight">Coach · Partner · Guide</div>
+            <div className="text-white font-bold text-xs uppercase tracking-wide leading-tight">Second Half Strong</div>
+            <div className="text-amber-600/80 text-xs">AI Coach · Men Over 40</div>
           </div>
         </div>
       </div>
 
-      {/* Nav */}
-      <nav className="p-4 flex-1 space-y-1 overflow-y-auto">
-        {nav.map((item) => {
-          const active = pathname === item.href || pathname.startsWith(item.href + "/");
-          return (
-            <Link
-              key={item.href}
-              href={item.href}
-              className={`flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
-                active
-                  ? "bg-orange-500/20 text-orange-400 border border-orange-500/30"
-                  : "text-gray-400 hover:bg-gray-800 hover:text-white"
-              }`}
-            >
-              <span className="text-base">{item.icon}</span>
-              {item.label}
-            </Link>
-          );
-        })}
-
-        {/* Coaching Modes */}
-        <div className="pt-4 pb-1">
-          <div className="text-gray-600 text-xs uppercase tracking-wider px-3 mb-2">Coaching Modes</div>
-          {MODES.map((m) => (
-            <Link
-              key={m.href}
-              href={m.href}
-              className="flex items-center gap-2 px-3 py-2 rounded-lg text-xs text-gray-500 hover:text-orange-400 hover:bg-gray-800 transition-colors"
-            >
-              <span>{m.icon}</span>
-              {m.label}
-            </Link>
-          ))}
+      <nav className="flex-1 overflow-y-auto p-3 space-y-4">
+        {/* Dashboard */}
+        <div>
+          <Link
+            href="/dashboard"
+            className={`flex items-center gap-2.5 px-3 py-2 rounded-lg text-sm transition-colors ${
+              pathname === "/dashboard"
+                ? "bg-amber-700/20 text-amber-500 border border-amber-700/30"
+                : "text-gray-400 hover:text-white hover:bg-gray-800/50"
+            }`}
+          >
+            <span className="text-base">🏠</span>
+            <span className="font-medium">Dashboard</span>
+          </Link>
         </div>
 
-        {/* Quick Topics */}
-        <div className="pt-2 pb-1">
-          <div className="text-gray-600 text-xs uppercase tracking-wider px-3 mb-2">Quick Topics</div>
-          {QUICK_TOPICS.map((t) => (
-            <Link
-              key={t.query}
-              href={`/chat?q=${encodeURIComponent(t.query)}`}
-              className="flex items-center gap-2 px-3 py-2 rounded-lg text-xs text-gray-500 hover:text-gray-300 hover:bg-gray-800 transition-colors"
-            >
-              <span className="w-1.5 h-1.5 rounded-full bg-orange-500/50 flex-shrink-0" />
-              {t.label}
-            </Link>
-          ))}
+        {/* Coaching Modes */}
+        <div>
+          <div className="text-gray-600 text-xs uppercase tracking-widest px-2 mb-2 font-medium">Coaching Modes</div>
+          <div className="space-y-0.5">
+            {MODES.map((m) => {
+              const active = isActive(m.href);
+              return (
+                <Link
+                  key={m.href}
+                  href={m.href}
+                  className={`flex items-start gap-2.5 px-3 py-2.5 rounded-lg transition-colors ${
+                    active
+                      ? "bg-amber-700/25 border border-amber-700/40 text-amber-400"
+                      : "text-gray-400 hover:text-white hover:bg-gray-800/50"
+                  }`}
+                >
+                  <span className="text-base mt-0.5 flex-shrink-0">{m.icon}</span>
+                  <div>
+                    <div className={`text-sm font-medium leading-tight ${active ? "text-white" : ""}`}>{m.label}</div>
+                    <div className={`text-xs mt-0.5 ${active ? "text-amber-600/70" : "text-gray-600"}`}>{m.sub}</div>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
+        </div>
+
+        {/* Quick Analysis */}
+        <div>
+          <div className="text-gray-600 text-xs uppercase tracking-widest px-2 mb-2 font-medium">Quick Analysis</div>
+          <div className="space-y-0.5">
+            {QUICK.map((q) => {
+              const active = isActive(q.href);
+              return (
+                <Link
+                  key={q.href}
+                  href={q.href}
+                  className={`flex items-start gap-2.5 px-3 py-2.5 rounded-lg transition-colors ${
+                    active
+                      ? "bg-amber-700/25 border border-amber-700/40 text-amber-400"
+                      : "text-gray-400 hover:text-white hover:bg-gray-800/50"
+                  }`}
+                >
+                  <span className="text-base mt-0.5 flex-shrink-0">{q.icon}</span>
+                  <div>
+                    <div className={`text-sm font-medium leading-tight ${active ? "text-white" : ""}`}>{q.label}</div>
+                    <div className={`text-xs mt-0.5 ${active ? "text-amber-600/70" : "text-gray-600"}`}>{q.sub}</div>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
         </div>
       </nav>
 
-      {/* Stats + Logout */}
-      <div className="p-4 border-t border-gray-800 space-y-3">
-        <div className="bg-gray-800/50 rounded-lg p-3">
-          <div className="text-gray-500 text-xs mb-1.5">Knowledge Base</div>
-          <div className="grid grid-cols-2 gap-2">
-            <div>
-              <div className="text-orange-400 text-sm font-bold">{knowledgeChunks.length}</div>
-              <div className="text-gray-600 text-xs">Chunks</div>
-            </div>
-            <div>
-              <div className="text-orange-400 text-sm font-bold">43</div>
-              <div className="text-gray-600 text-xs">Experts</div>
-            </div>
-          </div>
-        </div>
+      {/* Footer */}
+      <div className="p-4 border-t border-gray-800/60">
+        <div className="text-gray-600 text-xs mb-1">Beta v1.0 · Member Access</div>
+        <div className="text-gray-500 text-xs mb-3">{knowledgeChunks.length} Expert Knowledge Chunks</div>
         <button
           onClick={handleLogout}
-          className="w-full text-gray-500 hover:text-gray-300 text-xs py-1.5 text-left transition-colors flex items-center gap-2"
+          className="text-gray-600 hover:text-gray-400 text-xs transition-colors"
         >
-          <span>→</span> Sign Out
+          Sign out
         </button>
       </div>
     </aside>
