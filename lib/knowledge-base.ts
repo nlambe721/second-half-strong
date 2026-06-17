@@ -3118,6 +3118,145 @@ Evening: Wind-down 60 min before bed → breathwork → meditation/journaling �
     sourceRef: "Funk Roberts — Supplement Q&A (Lectin)",
   },
 
+
+  {
+    id: "fr-255",
+    speakerId: "ali-gilbert",
+    topic: ["testosterone", "hormones", "trt", "men-over-40", "high-performance"],
+    tags: ["testosterone", "TRT", "hormones", "Silverback Coaching", "high performers", "men over 40"],
+    content: "Ali Gilbert is the CEO of Silverback Coaching and one of the leading voices in men's hormone optimization and TRT education. She works with entrepreneurs, executives, and high-achieving men to optimize health, hormones, body composition, and performance. Her core message: most men who do well in business spend their life building their business, taking care of everybody else, and then neglecting themselves. The symptoms of low testosterone — fatigue, brain fog, low motivation, that 2pm slump — are often dismissed. Men in shape earn 15% more than out-of-shape peers, and only 8% of men over 40 have visible abs. Your body is your business card. How you look when you walk in a room communicates discipline, work ethic, and standards before you say a word.",
+    quote: "A lot of guys just sit and quietly take this in, and they just feel like it's this never-ending vicious cycle of I can't invest in myself. Problem is sometimes it does take something tangible, like blood work, to show you that if you continue on this path, you might not be around for your family.",
+    sourceRef: "Ali Gilbert — TRT for High Performers"
+  },
+  {
+    id: "fr-256",
+    speakerId: "ali-gilbert",
+    topic: ["testosterone", "blood-work", "hormones", "optimization"],
+    tags: ["normal vs optimal", "testosterone levels", "blood work", "lab ranges", "low testosterone"],
+    content: "Ali Gilbert draws a critical distinction between 'normal' and 'optimal' testosterone. Lab reference ranges have been reduced over time because men are showing up lower and lower — LabCorp reduced theirs in 2017. Most men naturally feel good at 600+ ng/dL, yet men in the 300s or even 250s-260s are told they're normal. Testosterone levels have declined 1% per year over the last 40 years. Low testosterone is no longer just an older man's problem — it's affecting men of all ages. The question is not 'are you normal?' but 'are you optimal?' A physician telling you your test is normal while you feel like garbage is not a green light — it's a missed diagnosis.",
+    quote: "You don't want to be normal. You want to be optimal. When you have a physician who says hey, great news, your test is normal — and you feel like shit — you're still going to be dismissed and called normal.",
+    sourceRef: "Ali Gilbert — TRT for High Performers"
+  },
+  {
+    id: "fr-257",
+    speakerId: "ali-gilbert",
+    topic: ["testosterone", "trt", "hormones", "delivery-methods"],
+    tags: ["TRT delivery", "injections", "scrotal cream", "oral testosterone", "estrogen", "TRT clinic mistakes"],
+    content: "Ali Gilbert on TRT delivery methods and common clinic mistakes: The best delivery methods for testosterone are injections first, scrotal cream second, and oral testosterone (Kyzatrex) third. Nasal sprays, pellets, and patches are suboptimal. The 'TRT starter pack' at fly-by-night clinics typically includes 200mg testosterone weekly, anastrozole (estrogen blocker), HCG, and Clomid or enclomiphene. This one-size-fits-all approach is the problem. Men do not need estrogen blockers — men need estrogen. Part of the benefit of testosterone replacement is conversion to estrogen, which is cardioprotective and neuroprotective. Blocking it creates new problems while solving nothing.",
+    quote: "Men don't need estrogen blockers because men do need estrogen. And part of the benefit of testosterone replacement is the conversion into estrogen. It is cardioprotective, it is neuroprotective.",
+    sourceRef: "Ali Gilbert — TRT for High Performers"
+  },
+  {
+    id: "fr-258",
+    speakerId: "ali-gilbert",
+    topic: ["blood-work", "hormones", "metabolic-health", "thyroid"],
+    tags: ["DHEA", "pregnenolone", "thyroid", "SHBG", "insulin resistance", "comprehensive blood work", "beyond testosterone"],
+    content: "Ali Gilbert teaches that testosterone is rarely the entire story. Comprehensive blood work must go beyond total testosterone to include DHEA, pregnenolone, thyroid hormones (T3, T4, TSH), SHBG, prolactin, insulin, and HbA1c. These markers often matter as much or more than testosterone itself. Thyroid dysfunction, insulin resistance, inflammation, poor nutrition, stress, iron deficiencies, low DHEA, and metabolic dysfunction can all produce symptoms that look exactly like low testosterone. Ali's case studies with CEOs and executives consistently reveal hidden dysfunction — the 'normal labs' man who actually has low DHEA, subclinical thyroid issues, or iron-deficiency anemia limiting his response to any hormone therapy.",
+    quote: "This presentation isn't about chasing hormones. It's about building a healthier, stronger, more resilient body — and using testosterone appropriately when necessary.",
+    sourceRef: "Ali Gilbert — TRT for High Performers"
+  },
+  {
+    id: "fr-259",
+    speakerId: "ali-gilbert",
+    topic: ["body-composition", "hormones", "fat-loss", "metabolic-health"],
+    tags: ["visceral fat", "body fat", "body composition", "insulin sensitivity", "inflammation", "hormone optimization"],
+    content: "Ali Gilbert connects body composition directly to hormonal health. Visceral fat is pro-inflammatory and suppresses testosterone. Getting lean often improves hormones naturally. Her body fat decision framework: if you're over 15% body fat, the priority is leaning out before considering hormone therapy — fat loss itself will improve testosterone, insulin sensitivity, and reduce inflammation. Under 15% body fat, the approach shifts toward muscle building and optimization. Aerobic training improves metabolic health and hormonal environment. Resistance training builds the muscle mass that supports testosterone. Nutrition must be personalized — low-carb approaches work for insulin-resistant men, while higher carb approaches may suit leaner, insulin-sensitive men.",
+    sourceRef: "Ali Gilbert — TRT for High Performers"
+  },
+  {
+    id: "fr-260",
+    speakerId: "ali-gilbert",
+    topic: ["trt", "hormones", "myths", "men-over-40"],
+    tags: ["TRT myths", "prostate cancer", "heart disease", "TRT safety", "hormone optimization"],
+    content: "Ali Gilbert debunks the most common TRT myths: TRT does not cause heart attacks — the research actually shows cardiovascular protection when done properly. TRT does not cause prostate cancer — the relationship between testosterone and prostate cancer has been dramatically misrepresented. TRT is not only for older men — declining testosterone affects men in their 30s and 40s today. More testosterone is not always better — there is an optimal range, not a maximum target. Her mission: help men stop guessing about their health, understand what their blood work is really telling them, and build the strongest, healthiest version of themselves possible. TRT is a tool — not the answer. Health comes first.",
+    sourceRef: "Ali Gilbert — TRT for High Performers"
+  },
+  {
+    id: "fr-261",
+    speakerId: "alex-mcbrairty",
+    topic: ["social-connection", "mental-health", "friendship", "longevity", "men-over-40"],
+    tags: ["friendship", "social connection", "loneliness", "mental health", "relationships", "longevity"],
+    content: "Alex McBrairty is a fitness coach, psychology educator, and researcher focused on the psychology of adult friendship and connection. With 12+ years in fitness and a background in psychology, his central argument is that friendship is a critical and overlooked pillar of men's health. The longest study conducted on human health and happiness found that the best predictor of long-term health is the strength of your relationships. While men focus on fitness, hormones, sleep, and nutrition, meaningful social connection may be equally — or more — important. The myth of the lone wolf is one of the most damaging beliefs men carry. Isolation is not strength. Connection is a health variable.",
+    quote: "The reality is friendship matters, man or woman. We all need a strong social network. The longest study conducted on human health and happiness found that the best predictor of long-term health is the strength of your relationships.",
+    sourceRef: "Alex McBrairty — Friendship Rebuilt"
+  },
+  {
+    id: "fr-262",
+    speakerId: "alex-mcbrairty",
+    topic: ["friendship", "social-connection", "adult-relationships", "men-over-40"],
+    tags: ["friendship mechanisms", "proximity", "shared experiences", "unpressured time", "adult friendship", "why friendships fade"],
+    content: "Alex McBrairty identifies the three mechanisms that created childhood friendships that disappear in adulthood: physical proximity (being in the same classroom every day), shared experiences (going through life milestones together at the same time), and unpressured time (free time with no agenda). In adulthood, all three vanish. Career, marriage, and parenting dominate. You're no longer physically around people. Your peers are at different life stages. And unpressured time essentially ceases to exist. This is why adult friendship requires intentionality. Friendship in childhood was automatic. Friendship in adulthood must be designed.",
+    quote: "The challenge in adulthood is that all three of these mechanisms shift... and so the change of these three mechanisms in adulthood inherently makes friendship more difficult.",
+    sourceRef: "Alex McBrairty — Friendship Rebuilt"
+  },
+  {
+    id: "fr-263",
+    speakerId: "alex-mcbrairty",
+    topic: ["friendship", "social-connection", "loneliness", "men-over-40"],
+    tags: ["7-year pruning cycle", "friendship attrition", "loneliness", "social isolation", "marriage overreliance"],
+    content: "Alex McBrairty's 7-Year Pruning Cycle: the average lifespan of a friendship is 7 years. Social circles peak in high school and college, then experience a steep and noticeable decline as adult responsibilities kick in. If you don't understand this natural attrition, you'll drift into isolation believing everything else is fine. A common trap for men over 40 is over-reliance on their spouse for all emotional needs — companionship, stress relief, entertainment, personal growth, emotional support. One person cannot serve all of those roles. Putting too much pressure on a spouse damages the marriage. Men need diverse social ecosystems. The solution is understanding how friendships work and actively replenishing them.",
+    quote: "Without those skills, as those friendships fade, we don't know how to replace them. We end up lonely.",
+    sourceRef: "Alex McBrairty — Friendship Rebuilt"
+  },
+  {
+    id: "fr-264",
+    speakerId: "alex-mcbrairty",
+    topic: ["friendship", "social-connection", "mental-health"],
+    tags: ["Friendship A-Team", "friendship archetypes", "Hype Man", "Gardener", "Mirror", "Confidant", "Spark", "Anchor"],
+    content: "Alex McBrairty's Friendship A-Team framework: every man needs six essential friendship archetypes represented in his life. The Hype Man — celebrates your wins and provides optimism. The Gardener — pushes your growth and gives constructive feedback. The Mirror — someone with shared history who makes you feel truly seen. The Confidant — provides deep emotional conversations and safe emotional support. The Spark — brings fun, adventure, and spontaneity. The Anchor — shows up physically during hard moments with reliability and presence. Different friends serve different emotional needs. Expecting one person — including your spouse — to fill all six roles is a recipe for relational collapse.",
+    sourceRef: "Alex McBrairty — The Intentional Friendship System"
+  },
+  {
+    id: "fr-265",
+    speakerId: "alex-mcbrairty",
+    topic: ["friendship", "social-connection", "practical-steps", "men-over-40"],
+    tags: ["intentional friendship", "5-pillar framework", "proximity principle", "social health audit", "rebuilding friendships"],
+    content: "Alex McBrairty's 5-Pillar Friendship Framework for rebuilding connection after 40: Pillar 1 — Recognize the Need (audit your social health: who do you call when life gets hard?). Pillar 2 — Rebuild Proximity (join gyms, clubs, mastermind groups, sports leagues — and go repeatedly, because consistency creates familiarity). Pillar 3 — Create Shared Experiences (replace 'let's catch up sometime' with regular routines, weekly coffee, training together, hikes). Pillar 4 — Develop Friendship Depth (not every friendship needs to be deep, but some do — ask better questions, share struggles honestly). Pillar 5 — Build Your Friendship A-Team. Monthly Social Health Audit: am I connected? Am I having meaningful conversations? Who supports me emotionally? Am I experiencing fun?",
+    sourceRef: "Alex McBrairty — The Intentional Friendship System"
+  },
+  {
+    id: "fr-266",
+    speakerId: "alex-effer",
+    topic: ["mobility", "biomechanics", "movement-quality", "men-over-40", "resilience"],
+    tags: ["movement", "biomechanics", "mobility", "resilience", "joint mechanics", "pain-free movement", "aging"],
+    content: "Alex Effer is a movement specialist, rehabilitation expert, and founder of Resilient Rehab & Performance Center. With 16+ years working with professional athletes, coaches, clinicians, and everyday adults, his central challenge to conventional thinking on aging: age is not the primary factor in physical decline. Your body is only as resilient as the qualities you train. He has seen 80-year-olds who move better than 40-year-olds because of how they train. The common complaints of men over 40 — stiffness, slower recovery, pain, day-to-day tasks feeling harder — are not inevitable consequences of age. They are consequences of training in a way that doesn't address movement quality, joint position, and adaptability.",
+    quote: "Age isn't a primary factor. I can show you 80-year-olds who sometimes can move better than 40-year-olds because of the way that they train and the way that they understand based on their age, they need to be training a certain way.",
+    sourceRef: "Alex Effer — Rebuild Your Body"
+  },
+  {
+    id: "fr-267",
+    speakerId: "alex-effer",
+    topic: ["mobility", "strength", "movement-quality", "biomechanics"],
+    tags: ["mobility and strength", "interdependence", "joint position", "posture", "movement quality", "exercise selection"],
+    content: "Alex Effer's core principle: mobility and strength are not separate qualities — they are interdependent and must be trained simultaneously. Most people think doing 10 isolated mobility drills will open up their hips. Instead, Alex teaches that carefully selecting the right variation of a split squat or goblet squat can restore motion while simultaneously building strength. Posture tells you what position someone is in. Joint position directly impacts range of motion. Rounded shoulders don't just look bad — they mechanically limit external rotation and overhead movement. The insight: you don't fix mobility by stretching more, you fix it by selecting exercises that train you through the ranges you're missing while building strength in those positions.",
+    quote: "A lot of times people think that mobility and strength are trained separately, or they are kind of counteractive to each other. The reality is both of them are interdependent. They need to be trained at the same time.",
+    sourceRef: "Alex Effer — Rebuild Your Body"
+  },
+  {
+    id: "fr-268",
+    speakerId: "alex-effer",
+    topic: ["mobility", "biomechanics", "movement-quality", "training"],
+    tags: ["four pillars", "joint position", "range of motion", "strength through range", "capacity", "endurance", "resilient body"],
+    content: "Alex Effer's Four Pillars of a Resilient Body: Pillar 1 — Joint Position and Posture (position determines movement; address rib position, pelvic tilt, and shoulder position before forcing range). Pillar 2 — Range of Motion (restore motion through movement, not forced stretching; train within available ranges and gradually expand them). Pillar 3 — Strength Through Range (develop strength throughout available ranges, not just at the midpoint; tempo training builds end-range stability). Pillar 4 — Capacity and Endurance (can you move well when fatigued? Fatigue changes movement patterns — building fatigue-resistant movement is the final piece of true resilience).",
+    sourceRef: "Alex Effer — Rebuild Your Body"
+  },
+  {
+    id: "fr-269",
+    speakerId: "alex-effer",
+    topic: ["training", "movement-quality", "biomechanics", "resilience"],
+    tags: ["Rebuild Framework", "tempo training", "constraint-based training", "split squats", "inverse training", "HICT", "fatigue resistance"],
+    content: "Alex Effer's Rebuild Framework for training over 40: The goal is not simply to get stronger — it is to move better, get stronger, and maintain it under fatigue. Tempo training (3 seconds down, 3 seconds hold, 3 seconds up) builds end-range stability and movement control. Constraint-based training — heel elevation, box squats, front-foot elevated split squats — forces the body to access ranges it's been avoiding. Front-foot elevated split squats target hip mobility and reduce stiffness. Rear-foot elevated split squats build hip extension and internal rotation. Inverse training (performing conditioning first, skill work second) trains the body to maintain movement quality when tired. HICT (High Intensity Continuous Training) builds endurance without sacrificing movement patterns.",
+    sourceRef: "Alex Effer — The Rebuild Framework"
+  },
+  {
+    id: "fr-270",
+    speakerId: "alex-effer",
+    topic: ["movement-quality", "training", "men-over-40", "practical-steps"],
+    tags: ["M.O.V.E. system", "30-day challenge", "movement assessment", "resilience checklist", "sustainable performance"],
+    content: "Alex Effer's M.O.V.E. System for practical application: M — Match Position (assess posture and joint position weekly). O — Open Motion (restore range of motion by training inside your current capacity and gradually expanding it). V — Validate Strength (develop control and strength throughout available ranges, not just where comfortable). E — Expand Capacity (maintain movement quality under fatigue through progressively demanding conditioning). His 30-Day Rebuild Challenge: Week 1 assess posture and movement, Week 2 add mobility-focused strength exercises, Week 3 introduce tempo training, Week 4 add fatigue-resistance circuits. Long-term goal: a body that is stronger, more mobile, more resilient, and more adaptable — capable of doing what you love for decades.",
+    sourceRef: "Alex Effer — The Rebuild Framework"
+  },
+
 ];
 
 export const topicIndex: Record<string, string[]> = {

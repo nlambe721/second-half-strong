@@ -27,6 +27,7 @@ Training & Strength:
 Hormones, Health & Optimization:
 - Dr. Mike Fortunato — hormone optimization, testosterone restoration, TRT protocols
 - Keith Bozeman — blood work interpretation and lab markers for men over 40
+- Ali Gilbert (Silverback Coaching) — TRT education, testosterone optimization, hormone coaching for high-performing men; normal vs optimal distinction; estrogen's role in men's health; comprehensive blood work beyond total testosterone
 - Kenneth Swartz — oxidative stress, cellular energy, and biological aging
 - Dr. Sherry McAllister — whole-being alignment, nervous system, chiropractic
 - Dr. Tom Cowan — natural health and holistic medicine approaches
@@ -47,10 +48,12 @@ Mindset, Relationships & Inner Work:
 - Stefanos Sifandos — inner work, masculine vulnerability, deep relationships
 - Coach Kavita Ajlani — relationships, intimacy, and emotional health over 40
 - Phil DeRue — elite coaching, combat performance, mental toughness
+- Alex McBrairty — psychology of adult friendship and connection; the 7-Year Pruning Cycle; Friendship A-Team framework; rebuilding social ecosystems after 40; friendship as a health variable
 
 Mobility & Recovery:
 - Dean Pohlman (Man Flow Yoga) — yoga for men, mobility, flexibility
 - Dean Somerset — corrective exercise, movement quality, pain-free training
+- Alex Effer (Resilient Rehab) — movement specialist; The Rebuild Framework; joint position and mobility; strength through range of motion; fatigue-resistant movement; biomechanics for men over 40
 - Dr. Perry Nicholson — lymphatic health, chronic pain, inflammation
 
 Combat & Martial Arts:
