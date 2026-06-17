@@ -4030,6 +4030,119 @@ Evening: Wind-down 60 min before bed → breathwork → meditation/journaling �
     sourceRef: "Kettlebell Swing Hacks — Forrest Vance"
   },
 
+
+  // ── Korey Van Wyk ──────────────────────────────────────────────────────────
+  {
+    id: "fr-358",
+    speakerId: "korey-van-wyk",
+    topic: ["supplementation", "nutrition", "longevity", "evidence-based health"],
+    tags: ["supplements", "NAD", "creatine", "marketing hype", "cellular health", "men over 40"],
+    content: "Korey Van Wyk is a supplement industry expert, researcher, and performance nutrition specialist who cuts through the confusion of modern supplementation for men over 40. His central thesis: most popular 'longevity' and 'cellular health' supplements are built on exaggerated interpretations of animal or cell studies — not real human evidence. Trends like NAD, CoQ10, urolithin A, and peptides all center around hard-to-measure cellular processes that sound impressive but whose translation to human outcomes remains five to ten years away from being properly understood. The foundational supplements with genuine broad evidence are: multivitamin, omega-3s, magnesium, vitamin D, and creatine. Nearly everything outside that list is highly situational — meaning it only matters if you have a specific deficiency or condition. Creatine is the unicorn: unlike carnitine or CoQ10, you can actually elevate muscle creatine stores by supplementing, regardless of baseline, making it uniquely effective. The key principle: supplement strategically, not more.",
+    quote: "Creatine is like the unicorn, man — you can actually elevate your muscle creatine stores if you supplement with it. That's just not very common amongst things in our body.",
+    sourceRef: "Korey Van Wyk — Men Over 40 Health Summit, Nutrition & Supplementation Track"
+  },
+  {
+    id: "fr-359",
+    speakerId: "korey-van-wyk",
+    topic: ["supplementation", "nutrition", "critical thinking", "label reading"],
+    tags: ["supplement labels", "proprietary blends", "third-party testing", "underdosed", "branded ingredients", "Examine.com"],
+    content: "Korey Van Wyk teaches men over 40 how to read supplement labels and evaluate claims critically. Key rules: (1) Avoid proprietary blends — they hide individual ingredient dosages behind a combined number, making it impossible to know if you're getting effective amounts. (2) Check that every ingredient lists exact dosage, exact form, and standardized extract information. (3) Look for third-party testing: NSF certification, Informed Choice certification, or branded ingredient sourcing. (4) Research the effective dose — ask 'does this product actually contain enough to matter?' Many store-bought supplements are deliberately underdosed because the effective dose would make the product too expensive to sell at mass retail price. Tools for research: ChatGPT, Examine.com, and Consensus are useful filters to cut through marketing and find actual evidence. The question to always ask before buying: 'What problem am I actually trying to solve — and does research support this for MY specific situation?'",
+    protocol: ["Avoid proprietary blends", "Check exact dosage and form for every ingredient", "Look for NSF / Informed Choice / branded ingredient certification", "Research effective dose using Examine.com or Consensus", "Ask: does this solve a real problem or just promise optimization?"],
+    sourceRef: "Korey Van Wyk — Men Over 40 Health Summit, Supplement Smarter Blueprint"
+  },
+  {
+    id: "fr-360",
+    speakerId: "korey-van-wyk",
+    topic: ["supplementation", "sleep", "stress", "root causes", "nutrition"],
+    tags: ["sleep first", "stress management", "supplement stacking trap", "root causes", "lifestyle before supplements"],
+    content: "Korey Van Wyk's most important message for men over 40: most are not suffering from a lack of supplements. They are suffering from poor recovery, poor sleep, chronic stress, inconsistent nutrition, and confusion created by supplement marketing. Fixing sleep and managing stress will often do more than any supplement stack. The Supplement Stacking Trap: men add more supplements in response to symptoms that are actually caused by sleep deprivation, overtraining, or chronic stress — none of which supplements can fix. Creatine and cognitive health research is emerging — creatine may help buffer cognitive decline under sleep deprivation, but this underscores how sleep is the underlying issue, not a creatine deficiency. The smarter audit: list every supplement you take, ask whether you bought it due to marketing, ask whether sleep/stress/nutrition would address the same issue more effectively, and simplify by 50%. Two emerging areas worth watching for aging men: psyllium husk fiber (cardiovascular and gut health) and cocoa flavanols (cognitive aging support).",
+    protocol: ["Audit current supplement stack — list name, dosage, why you take it, whether you notice benefit", "Fix sleep consistency and duration first", "Address chronic stress before adding supplements", "Consider psyllium husk fiber for gut and cardiovascular health", "Consider cocoa flavanols for cognitive aging support"],
+    sourceRef: "Korey Van Wyk — Men Over 40 Health Summit, Smarter Supplementation Blueprint Implementation Plan"
+  },
+  {
+    id: "fr-361",
+    speakerId: "korey-van-wyk",
+    topic: ["supplementation", "situational supplements", "performance nutrition"],
+    tags: ["situational supplementation", "CoQ10", "carnitine", "beta-alanine", "context-dependent", "deficiency-driven"],
+    content: "Korey Van Wyk explains why most supplements beyond the foundational stack are highly situational and deficiency-driven. CoQ10 example: we know it can reach cells in humans and has confirmed effects — but if you supplement with CoQ10 and you're not depleted, you likely won't feel any different. Carnitine failed as a fat-loss supplement for the same reason: if you're not deficient in carnitine, you can't elevate levels further, so fat burning doesn't increase. This context-dependency is the crux: efficacy depends on the individual and the use case, not on the mechanism alone. For performance supplements: beta-alanine, carnitine, and similar compounds require a specific deficit or context to show benefit. The smarter approach: identify the specific problem (sleep, recovery, cholesterol, stress, muscle retention, cognitive performance, digestion, training performance) and then ask whether research supports that supplement for YOUR situation. Supplements should support the foundation — not replace it. The best supplement strategy for men over 40 is simpler, more intentional, more evidence-based, and more lifestyle-supported than most people think.",
+    sourceRef: "Korey Van Wyk — Men Over 40 Health Summit, Nutrition & Supplementation Track"
+  },
+
+  // ── Lee Boyce ──────────────────────────────────────────────────────────────
+  {
+    id: "fr-362",
+    speakerId: "lee-boyce",
+    topic: ["training", "longevity", "sustainable training", "mindset"],
+    tags: ["training after 40", "ego lifting", "sustainable", "relationship with training", "longevity", "bro culture"],
+    content: "Lee Boyce is a veteran strength coach and biomechanics expert who teaches men over 40 the single most important shift they need to make: stop training like you're still 25. The core issue: most men carry the same training mentality they had in their 20s and 30s — chasing PRs, heavy weights, and old performance standards — leading to chronic pain, joint issues, breakdown, overuse injuries, burnout, and unsustainable habits. When you stop a man in his 60s who looks exceptional and moves well and ask what he's been doing all these years, the answer is almost never 'heavy squats and deadlifts.' It's almost always a focus on cardio, VO2, mobility, flexibility, recovery, nutrition, sleep, and manual care (chiropractic, massage, physiotherapy). The bro culture mentality — training through pain, chasing numbers, refusing to take the memo — is what leads to chronic breakdown. The men who last are those who gave their body the medicine it needs, not just the loads it can temporarily survive.",
+    quote: "Nine times out of ten, when you ask a man in his 60s who looks exceptional what he's been doing all these years — the answer is not what most people would expect. It's the cardio, the VO2, the mobility, the flexibility, the recovery, the nutrition.",
+    sourceRef: "Lee Boyce — Men Over 40 Health Summit, Training & Strength Track"
+  },
+  {
+    id: "fr-363",
+    speakerId: "lee-boyce",
+    topic: ["training", "body type", "biomechanics", "exercise selection"],
+    tags: ["body type", "limb length", "biomechanics", "tall lifter", "exercise modifications", "leverage", "squat deadlift press"],
+    content: "Lee Boyce specializes in body-type-specific training for men over 40. Key principle: not all bodies are built for the same lifts or movement patterns. Factors that determine appropriate exercise selection include limb length, torso length, mobility, injury history, and recovery capacity. The Tall Lifter Problem: taller lifters perform significantly more mechanical work per rep than shorter lifters — greater range of motion means more time under tension, which means higher recovery demands. This changes both exercise selection and recovery planning. Squat modifications by body type: Olympic lifting shoes, front squats, safety bar squats, or goblet squats to reduce spinal stress. Pressing modifications: dumbbells over barbell, incline pressing, pin presses, grip adjustments, elbow position changes — because pain is feedback, not a badge of honor. Deadlift modifications: trap bar deadlifts, rack pulls, medium sumo stance, straps when grip becomes the limiting factor. The goal of all modifications: maintain strength training benefits while reducing unnecessary joint wear.",
+    protocol: ["Assess limb length, torso length, and mobility before selecting primary lifts", "Tall lifters: consider Olympic shoes, front squats, safety bar for squatting", "Pressing pain: switch to dumbbells, incline, or pin presses", "Deadlift alternatives: trap bar, rack pulls, sumo stance", "Pain is feedback — modify before injury forces you to"],
+    sourceRef: "Lee Boyce — Men Over 40 Health Summit, Train Smarter After 40 Blueprint"
+  },
+  {
+    id: "fr-364",
+    speakerId: "lee-boyce",
+    topic: ["training", "movement quality", "posterior chain", "recovery management"],
+    tags: ["movement quality", "posterior chain", "tempo training", "RPE", "overtraining signs", "grip strength", "recovery markers"],
+    content: "Lee Boyce on training quality and recovery management after 40. Make lighter weight feel heavy: use slower eccentrics, paused reps, and better execution rather than automatically increasing load. Tempo, pauses, positioning, tension, control, and range of motion — these variables create stimulus without the injury risk of ego-driven loading. Posterior chain priority: glutes, hamstrings, upper back, spinal stability, and posture muscles are the foundation of a durable body after 40. Add glute-ham raises, carries, rows, hinges, reverse hypers, and pulling volume. Recovery intensity management: target 7-8/10 RPE for most sessions. Overtraining warning signs: poor recovery, constant soreness, declining grip strength, lower performance, elevated fatigue, elevated resting heart rate, lack of motivation. Grip strength decline is one of the most reliable early indicators that the body is under-recovered. Recovery tools that matter most after 40: sleep, hydration, mobility, walking, cardio, and stress management.",
+    protocol: ["Use tempo, pauses, and control before increasing load", "Prioritize posterior chain: glutes, hamstrings, upper back, spinal stability", "Target RPE 7-8/10 for most training sessions", "Monitor grip strength as an early overtraining signal", "Recovery toolkit: sleep, hydration, mobility, walking, zone 2 cardio, stress management"],
+    sourceRef: "Lee Boyce — Men Over 40 Health Summit, Train Smarter After 40 Blueprint"
+  },
+  {
+    id: "fr-365",
+    speakerId: "lee-boyce",
+    topic: ["training", "longevity", "injury history", "sustainable training", "life performance"],
+    tags: ["new standards", "injury recalibration", "life performance", "double knee reconstruction", "relative strength", "sustainability"],
+    content: "Lee Boyce on redefining success after 40 and aligning training with life. After a double knee reconstruction at age 30 from basketball, Lee rebuilt his training from a completely different framework — rethinking what 'real strength' actually means. Absolute PRs from the past become irrelevant once injury history enters the picture. A paused squat at 365 pounds is harder to execute and represents a more honest expression of true strength than a heavier bounce-rep. New standards: set performance benchmarks that reflect your current body, injury history, and actual life goals — not comparisons to your 25-year-old self. Training for life performance: the question is not 'can I lift more?' but 'can my body actually DO things well — not just lift things well?' Expand your definition of fitness beyond strength and muscle to include cardio, flexibility, muscular endurance, balance, coordination, and movement quality. The strongest, healthiest men after 40 are not the most extreme or most ego-driven — they are the most consistent, most intelligent, most adaptable, and most sustainable.",
+    quote: "We have to divorce ourselves from the idea that we should be comparing our current selves to age 25. Set new standards for yourself — ones that are more realistic and more attuned to where you are in life.",
+    sourceRef: "Lee Boyce — Men Over 40 Health Summit, Training & Strength Track"
+  },
+
+  // ── Bryan Krahn ────────────────────────────────────────────────────────────
+  {
+    id: "fr-366",
+    speakerId: "bryan-krahn",
+    topic: ["training", "longevity", "muscle building after 50", "sustainable training"],
+    tags: ["muscle after 50", "training after 40", "trickiest decade", "under the hood changes", "burnout", "respecting your body"],
+    content: "Bryan Krahn is a physique coach, fitness writer, and author of Muscle After 40 who specializes in helping men build lean muscle and strong physiques in their 40s, 50s, 60s and beyond. His personal story is the foundation of his philosophy: at age 40 he was training six days a week, doing martial arts, photo shoots — everything looked fine. But the 'under the hood' changes in recovery and hormones were already occurring. By 45-46 he was so beaten up that training stopped being fun. Everything hurt. He was doing rehabby movements just to get through sessions. The turning point: he stopped fighting his body and started respecting the stage of life he was in. The mileage accumulates. Recovery slows. Priorities change. Training that doesn't account for this creates breakdown — not progress. Age 40 is the pinnacle of body composition capability for many men, but it's also the moment when invisible changes begin. Men who respect that reality and adjust early avoid the breakdown that hits others in their late 40s.",
+    quote: "I realized I wasn't respecting my body. I wasn't respecting the stage of life that I was in. I had all this mileage and even though I still looked okay, my body was changing.",
+    sourceRef: "Bryan Krahn — Men Over 40 Health Summit, Building Muscle After 50"
+  },
+  {
+    id: "fr-367",
+    speakerId: "bryan-krahn",
+    topic: ["training", "programming", "consistency", "recovery", "bodybuilding"],
+    tags: ["consistency beats perfection", "bodybuilding principles", "controlled reps", "recovery-friendly", "training frequency", "3-4 days"],
+    content: "Bryan Krahn's core training philosophy for men over 40 and 50: the best workout program is the one you can consistently recover from and stick to long term — not the most optimal one. Most men overestimate how much training they actually need. Key principle: consistency beats perfection, always. Bodybuilding-style training is actually ideal for aging men: controlled reps, quality movement, muscle stimulation, lower injury risk, and sustainable progression — no maximal effort ego lifts, no excessive volume, no constant PRs. Structure: 3-4 days per week consistently before adding more. Incorporate machines, cables, dumbbells, controlled hypertrophy work, unilateral exercises, and structural balance training. Avoid ego lifting, excessive volume, and constant max-effort training. Workout structure options: full body, upper/lower splits — what matters is recovery management and avoiding breakdown, not which template is theoretically superior. Bryan's old mistake: he scheduled workouts first and fitted life around them. The shift: weave fitness into your life rather than structuring your entire existence around training.",
+    protocol: ["Train 3-4 days per week consistently before adding more", "Use bodybuilding-style controlled reps and moderate volume", "Incorporate machines, cables, and dumbbells for joint-friendly stimulus", "Schedule life first — build workouts around real responsibilities", "Consistency > perfection > optimal"],
+    sourceRef: "Bryan Krahn — Men Over 40 Health Summit, Bryan Krahn Blueprint for Men Over 40"
+  },
+  {
+    id: "fr-368",
+    speakerId: "bryan-krahn",
+    topic: ["recovery", "sleep", "testosterone", "training", "stress management"],
+    tags: ["recovery as performance", "testosterone decline", "nervous system overload", "sleep quality", "stress", "walking", "zone 2"],
+    content: "Bryan Krahn on recovery, sleep, testosterone, and cardiovascular health after 40. Recovery is now a performance tool — not a luxury. Testosterone decline, stress accumulation, nervous system overload, and reduced sleep quality all combine to make recovery the most critical variable in an older man's training equation. Aggressive recovery protection: prioritize sleep, stress management, recovery days, mobility, walking, and nervous system recovery. Cardiovascular health is non-negotiable: daily walking, zone 2 cardio, short high-intensity conditioning sessions, and movement throughout the day. Walking is underrated as a health and recovery tool — it manages stress, supports metabolic health, and aids nervous system recovery without adding training load. Overtraining warning signs: poor recovery, constant soreness, declining grip strength, lower performance, elevated fatigue, elevated resting heart rate, and lack of motivation. Nutrition simplified: hitting daily protein goals, calorie awareness, meal consistency, and hydration — works far better than restrictive diets and obsessive macro tracking.",
+    protocol: ["Treat recovery as a performance tool, not an afterthought", "Prioritize sleep quality and duration above all", "Include daily walking and zone 2 cardio in weekly structure", "Simplify nutrition: protein + calories + consistency + hydration", "Watch for grip strength decline as an early overtraining signal"],
+    sourceRef: "Bryan Krahn — Men Over 40 Health Summit, Building Muscle After 50"
+  },
+  {
+    id: "fr-369",
+    speakerId: "bryan-krahn",
+    topic: ["training", "identity", "purpose", "longevity", "mindset"],
+    tags: ["identity", "purpose", "father husband mentor", "fitness lifestyle", "long-term success", "muscle after 50", "sustainable physique"],
+    content: "Bryan Krahn on identity, purpose, and long-term success after 50. The mindset shift that matters most: fitness must align with your life, family, and purpose — not compete with it. Bryan's training became more meaningful and more consistent once it aligned with his role as a father, husband, coach, and mentor. Identity drives consistency. The Flexible Fitness Lifestyle: have gym workouts, backup home workouts, walking routines, and mobility sessions — make fitness adaptable instead of rigid. Smarter training principles: pain is feedback, not a badge of honor; movement quality over load; posterior chain priority (glutes, hamstrings, upper back, spinal stability); train for longevity, capability, resilience, and sustainable performance. The most important question: 'Why do I want to be healthy? Who am I becoming? What kind of father, husband, and man do I want to be?' The empowering truth: men absolutely can continue building muscle, improving health, and transforming their physique after 50 — but only if they stop trying to train like they're still 22, and approach fitness with wisdom, patience, and sustainability.",
+    quote: "Your body is no longer asking 'how much can you survive?' It is asking 'how well can you continue to perform for life?'",
+    sourceRef: "Bryan Krahn — Men Over 40 Health Summit, Bryan Krahn Blueprint for Men Over 40"
+  },
 ];
 
 export const topicIndex: Record<string, string[]> = {
