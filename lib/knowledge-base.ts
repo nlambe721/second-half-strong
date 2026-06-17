@@ -4360,6 +4360,78 @@ Evening: Wind-down 60 min before bed → breathwork → meditation/journaling �
     quote: "I'm becoming that man again.",
     sourceRef: "Travis Stoetzel — Men Over 40 Health Summit"
   },
+
+  // === ZACH EVEN-ESH ===
+  {
+    id: "fr-394",
+    speakerId: "zach-even-esh",
+    topic: ["strength training", "identity", "fatherhood", "leadership", "men over 40"],
+    tags: ["dad strong", "identity", "discipline", "emotional leadership", "strength as duty"],
+    content: "Zach Even-Esh, founder of Underground Strength Gym with 30+ years of coaching experience, introduces the Dad Strong philosophy — a paradigm shift in how men over 40 think about strength. Dad Strong is not about looking good at the beach. It is about becoming the strongest version of yourself so you can show up fully as a father, husband, and leader. Strength that transcends the gym means emotional control, calm under pressure, discipline at home, and presence with your family. Zach trains at 50 years old with no TRT, proving that consistent fundamentals outperform pharmaceutical shortcuts. His core message: men do not decline after 40 because of biology alone — they decline because they lose discipline, stop prioritizing themselves, and accept a defeated identity. The most dangerous thing a man over 40 can say is I am just an older guy now. That identity shift is the real killer. Strength training is not vanity — it is a duty and obligation to the people who depend on you.",
+    quote: "When I don't train, I'm not as good of a father or husband. Strength training is for the soul, not just the body.",
+    sourceRef: "Zach Even-Esh — Men Over 40 Health Summit transcript"
+  },
+  {
+    id: "fr-395",
+    speakerId: "zach-even-esh",
+    topic: ["training simplicity", "consistency", "men over 40", "programming", "minimum effective dose"],
+    tags: ["simplicity", "consistency", "3 days per week", "30 minutes", "full body", "basics"],
+    content: "Zach Even-Esh argues that the biggest training mistake men over 40 make is chasing complexity when what works is radical simplicity done consistently. Basic compound movements performed three days per week for a minimum of 30 minutes will outperform elaborate periodization schemes that are never actually followed. His approach centers on full-body training every session: push, pull, legs, and core covered each workout. Strength must be non-negotiable — scheduled like a business appointment, not squeezed in when life permits. Zach emphasizes that the men who train in their 50s and 60s looking and feeling great are not using exotic protocols — they are doing the basics with obsessive consistency. The training is simple; the discipline is the hard part. Complex programs create complexity addicts. Simple programs followed for years create strong men. Start with what you will actually do, then gradually raise the standard over time.",
+    sourceRef: "Zach Even-Esh — Men Over 40 Health Summit transcript"
+  },
+  {
+    id: "fr-396",
+    speakerId: "zach-even-esh",
+    topic: ["home gym", "family culture", "training environment", "kids", "role modeling"],
+    tags: ["home gym", "family training", "kids", "environment design", "role modeling", "culture"],
+    content: "Zach Even-Esh identifies environment design as the single highest-leverage action a Dad Strong man can take. A home gym eliminates the single largest excuse — time and logistics. A kettlebell, resistance bands, and a pull-up option are sufficient to build genuine strength without ever leaving the house. But beyond eliminating excuses, training at home or involving your children in your fitness culture creates a legacy. Kids do not do what you say — they copy what you do. When children grow up watching their father prioritize training, maintain discipline, and pursue strength, that becomes their baseline expectation for how adults live. Brotherhood and accountability are equally critical: the men who sustain lifelong fitness consistently have a tribe — training partners, online communities, accountability relationships — that reinforce the identity of a Dad Strong man. Zach also stresses simple nutrition: 3 to 5 go-to meals the whole family eats, prep twice per week, whole single-ingredient foods as the foundation.",
+    sourceRef: "Zach Even-Esh — Men Over 40 Health Summit transcript"
+  },
+  {
+    id: "fr-397",
+    speakerId: "zach-even-esh",
+    topic: ["implementation", "action plan", "training system", "morning routine", "habits"],
+    tags: ["dad strong plan", "implementation", "10-step system", "morning routine", "habit stacking", "accountability"],
+    content: "Zach Even-Esh's Dad Strong Implementation Plan provides a 10-step system for men over 40 to rebuild their identity and lifestyle around strength: Step 1 — Identity first: claim I am a Dad Strong man before changing a single behavior; Step 2 — Build the environment: set up a home gym with kettlebell, bands, and a pull-up option; Step 3 — Lock in training: commit to 3 days per week, 30 minutes minimum, full-body sessions covering push/pull/legs/core plus conditioning; Step 4 — Daily movement: walk daily and practice grease-the-groove with bodyweight movements throughout the day; Step 5 — Nutrition system: establish 3 to 5 go-to family meals, prep twice per week, eliminate ultra-processed foods; Step 6 — Morning routine: anchor the day with a non-negotiable practice before the chaos begins; Step 7 — Involve the kids: train in front of them or with them to build family culture; Step 8 — Build brotherhood: find at least one accountability partner or community; Step 9 — Track consistency over performance: checkmarks on a calendar matter more than PRs; Step 10 — Upgrade standards in month two and beyond: once baseline habits are locked, gradually raise intensity, volume, and complexity.",
+    protocol: ["Step 1: Claim the Dad Strong identity before changing behavior", "Step 2: Build home gym (kettlebell, bands, pull-up option)", "Step 3: 3 days/week, 30 min, full-body (push/pull/legs/core + conditioning)", "Step 4: Daily walk + grease-the-groove bodyweight movements", "Step 5: 3–5 go-to family meals, prep 2x/week, whole foods only", "Step 6: Morning routine anchored before daily chaos", "Step 7: Train in front of or with your kids", "Step 8: Find one accountability partner or community", "Step 9: Track consistency (calendar checkmarks over PRs)", "Step 10: Raise standards in month 2+ once baseline is locked"],
+    sourceRef: "Zach Even-Esh — Men Over 40 Health Summit transcript"
+  },
+
+  // === WADE LIGHTHEART ===
+  {
+    id: "fr-398",
+    speakerId: "wade-lightheart",
+    topic: ["magnesium", "supplements", "nutrition", "recovery", "men over 40"],
+    tags: ["magnesium", "miracle mineral", "deficiency", "300 processes", "vasodilator", "muscle relaxation"],
+    content: "Wade Lightheart, co-founder of BIOptimizers and three-time natural bodybuilding champion who won open and grand masters divisions at the INBA Ironman International at age 50 then ran a marathon six months later, presents magnesium as the most under-appreciated performance and longevity mineral available. Magnesium is involved in over 300 enzymatic processes in the human body. It functions as a vasodilator (opening blood vessels), a natural relaxant, a calcium antagonist (preventing calcification of soft tissue), a blood sugar regulator, and a critical co-factor for heart rhythm regulation. Most critically for training men: magnesium is what relaxes the antagonist muscle group when you contract the prime mover — without adequate magnesium, full muscle relaxation and recovery are mechanically impossible. Wade's credentials make this more than theory: drug-free, plant-based for over 20 years, competing and winning at the highest natural bodybuilding levels at 50 demonstrates that intelligent supplementation and lifestyle optimization can outperform hormonal interventions.",
+    quote: "Magnesium is involved in over 300 body processes. Most men are deficient and don't know it — and it's wrecking their sleep, recovery, and testosterone.",
+    sourceRef: "Wade Lightheart — Men Over 40 Health Summit transcript"
+  },
+  {
+    id: "fr-399",
+    speakerId: "wade-lightheart",
+    topic: ["magnesium deficiency", "modern lifestyle", "soil depletion", "stress", "symptoms"],
+    tags: ["deficiency", "soil depletion", "cortisol", "caffeine", "blue light", "EMF", "symptoms", "sleep", "cramps"],
+    content: "Wade Lightheart explains why magnesium deficiency is epidemic among modern men despite technically adequate caloric intake. The problem begins in the soil: monocultural industrial farming over the past 67+ years has systematically stripped magnesium from agricultural soil, meaning foods that historically were rich in magnesium now deliver a fraction of what they once did. Compounding the dietary deficit are four major modern lifestyle magnesium drains: chronic stress and elevated cortisol (which directly depletes magnesium at the cellular level), excessive caffeine consumption, blue light exposure from screens especially in the evening, and EMF (electromagnetic field) exposure. Sixty percent or more of the population is estimated to be clinically deficient — and the real number is likely higher because standard blood testing measures serum magnesium, which is not a reliable indicator of intracellular magnesium status. Signs of deficiency that men over 40 commonly misattribute to aging: poor sleep quality, night-time muscle cramps and general tightness, persistent headaches, low mood and irritability, and unstable blood sugar throughout the day.",
+    sourceRef: "Wade Lightheart — Men Over 40 Health Summit transcript"
+  },
+  {
+    id: "fr-400",
+    speakerId: "wade-lightheart",
+    topic: ["magnesium forms", "supplementation", "absorption", "dosage", "testosterone", "sleep"],
+    tags: ["magnesium forms", "absorption", "elemental magnesium", "citrate", "dosage", "testosterone", "LH pulses", "deep sleep"],
+    content: "Wade Lightheart addresses the critical distinction between magnesium supplement forms and why most people who try magnesium fail to notice results. There is no single best form — a full-spectrum magnesium approach covering multiple forms is necessary for systemic balance, as different forms have different tissue targets and absorption characteristics. Magnesium citrate is widely available but commonly causes digestive issues and loose stools at effective doses, meaning many people discontinue it. What matters most is elemental magnesium content and actual absorption, not the milligram number on the label — most labels reflect the total salt weight, not the bioavailable magnesium. For working, training men over 40, the RDA (Recommended Daily Allowance) is insufficient: the RDA was established to prevent disease in sedentary populations, not to optimize performance and recovery in active men. Effective dosing for this population: 350 to 500mg of elemental magnesium per day, split across morning, afternoon, and evening doses for sustained tissue saturation. Magnesium supports testosterone production indirectly but powerfully: deep sleep is when the pituitary gland releases LH (luteinizing hormone) pulses that trigger testosterone production in the testes, and magnesium is essential to achieving and sustaining the deep sleep stages required.",
+    sourceRef: "Wade Lightheart — Men Over 40 Health Summit transcript"
+  },
+  {
+    id: "fr-401",
+    speakerId: "wade-lightheart",
+    topic: ["implementation", "protocol", "30-day plan", "sleep optimization", "testosterone", "lifestyle"],
+    tags: ["30-day protocol", "magnesium optimization", "sleep tracking", "testosterone", "lifestyle", "phase system"],
+    content: "Wade Lightheart's 30-Day Magnesium Optimization Protocol provides a phased implementation system for men who want to systematically restore magnesium status and feel the compounding benefits: Phase 1 (Days 1 to 10) — Identify and eliminate deficiency: begin full-spectrum magnesium supplementation at 350 to 500mg elemental per day split into doses; simultaneously reduce the four major magnesium killers (excess caffeine, late-night screen exposure, chronic unmanaged stress, and EMF where controllable); Phase 2 (Days 11 to 20) — Optimize recovery and sleep: shift the largest magnesium dose to 60 to 90 minutes before bed to leverage its relaxant effect; begin tracking sleep quality objectively using Oura Ring, Whoop, or Apple Watch to measure deep sleep percentage and recovery scores; refine the evening routine to eliminate blue light 90 minutes before sleep, lower room temperature, and create genuine darkness; Phase 3 (Days 21 to 30) — Build the full optimization system: with sleep and recovery now improving, layer in testosterone-supporting lifestyle habits including dialing in protein and overall nutrition quality, continuing progressive strength training, and connecting with a brotherhood of like-minded men for accountability. Wade emphasizes that most men who complete this 30-day protocol report better sleep within 7 to 10 days and notice measurable mood, energy, and performance improvements by day 21.",
+    protocol: ["Phase 1 (Days 1–10): Start full-spectrum magnesium 350–500mg elemental/day split doses; reduce caffeine, late screens, chronic stress, EMF", "Phase 2 (Days 11–20): Largest dose 60–90 min before bed; track sleep (Oura/Whoop/Apple Watch); optimize evening routine (no blue light, cool dark room)", "Phase 3 (Days 21–30): Layer testosterone-supporting habits — dial in nutrition, maintain strength training, build accountability brotherhood"],
+    sourceRef: "Wade Lightheart — Men Over 40 Health Summit transcript"
+  },
 ];
 
 export const topicIndex: Record<string, string[]> = {
