@@ -3771,6 +3771,154 @@ Evening: Wind-down 60 min before bed → breathwork → meditation/journaling �
     sourceRef: "The Synergy Performance System — Eric Bach Summit Session"
   },
 
+
+  // ── Garrett Salpeter ──────────────────────────────────────────────
+  {
+    id: "fr-330",
+    speakerId: "garrett-salpeter",
+    topic: ["nervous system", "pain science", "hardware vs software", "injury"],
+    tags: ["nervous system", "hardware", "software", "pain", "injury", "NEUFIT", "men over 40"],
+    content: "Garrett Salpeter — founder of NEUFIT and creator of the NEUBIE (Neuro-Bio-Electric Stimulator) — challenges the traditional hardware-only model of pain and injury. His central distinction: hardware problems are actual tissue damage — torn ligaments, fractured bones, degenerated discs. Software problems are nervous system dysfunction — the brain and spinal cord remaining stuck in protective patterns long after the original injury healed. Most chronic pain in men over 40 is a software problem masquerading as a hardware problem. When the nervous system perceives threat, it activates what Garrett calls the Three Horsemen of Protection: Guarding (muscles tightening around the area), Inhibition (muscles shutting down to prevent further damage), and Pain (a protective output from the brain, not a reliable report of tissue damage). Pain does NOT equal damage. Pain is the brain's best guess about threat. Two men can have identical MRI findings — one is in agony, the other has no symptoms — because the brain's threat assessment differs. Traditional RICE (rest, ice, compression, elevation) is a hardware-based approach. It manages symptoms without addressing the software.",
+    quote: "Pain is not a report from the tissues. It's the brain's best guess about threat. Change the threat assessment, change the pain.",
+    sourceRef: "Training Hard Without Paying For It — Garrett Salpeter Summit Session"
+  },
+  {
+    id: "fr-331",
+    speakerId: "garrett-salpeter",
+    topic: ["stress bucket", "chronic pain", "autonomic nervous system", "biopsychosocial"],
+    tags: ["stress bucket", "chronic pain", "autonomic", "sympathetic", "parasympathetic", "recovery", "men over 40"],
+    content: "Garrett Salpeter's Stress Bucket concept explains why pain thresholds fluctuate. The nervous system has a total load it can manage — biological stress (inflammation, poor sleep, injury), psychological stress (anxiety, fear, overwhelm), and social stress (work pressure, relationship strain, financial worry) all fill the same bucket. When the bucket overflows, pain tolerance drops and injury risk rises. This is why the same training session that felt fine last month now causes a flare-up — the training load hasn't changed but the total bucket has. The autonomic nervous system is the master regulator: chronic sympathetic dominance (fight-or-flight) suppresses healing, amplifies pain signals, and reduces recovery capacity. Shifting toward parasympathetic (rest-and-digest) — through breathing, walking, recovery work, sunlight, relaxation — literally lowers pain perception and accelerates healing. The implication: reducing total stress load is a legitimate pain management and performance enhancement strategy, not just a lifestyle recommendation.",
+    quote: "The training load didn't change. The bucket filled up. That's why it hurts this time.",
+    sourceRef: "Training Hard Without Paying For It — Garrett Salpeter Summit Session"
+  },
+  {
+    id: "fr-332",
+    speakerId: "garrett-salpeter",
+    topic: ["NEUBIE", "direct current", "digital weight", "muscle activation"],
+    tags: ["NEUBIE", "direct current", "muscle activation", "digital weight", "joint-friendly", "neuroplasticity", "men over 40"],
+    content: "Garrett Salpeter's NEUBIE device uses direct current (DC) electrical stimulation — not traditional alternating current (AC) like a TENS unit. AC stimulation creates a buzzing sensation that masks pain (an electronic aspirin). DC stimulation matches the body's own electrical language and can map where the nervous system is guarding or inhibiting muscles, then re-educate those muscles to fire correctly. The Digital Weight Concept: you can increase muscle activation — and therefore the training stimulus — without increasing the external load on joints. More activation with the same or less weight means more muscle development with less joint wear. This gives men over 40 a way to train intensely without the joint cost of heavy loading. Garrett's Nervous System Resilience System is a 5-pillar framework: (1) Reduce Threat — lower the nervous system's perceived danger through lifestyle and movement safety; (2) Restore Movement — healthy movement accelerates healing; 20-45 min of low-threat movement daily; (3) Improve Activation — weakness is often a signaling problem, not a muscle problem; (4) Build Joint-Friendly Strength — stimulate muscle without destroying joints using controlled tempo, moderate loads, isometrics; (5) Train for Longevity — consistency beats occasional intensity.",
+    quote: "Weakness is not always a muscle problem. Sometimes it's a signaling problem. Fix the signal and the strength often returns.",
+    sourceRef: "Training Hard Without Paying For It — Garrett Salpeter Summit Session"
+  },
+  {
+    id: "fr-333",
+    speakerId: "garrett-salpeter",
+    topic: ["pain reframe", "movement as medicine", "recovery", "longevity training"],
+    tags: ["pain reframe", "movement", "recovery", "longevity", "neuroplasticity", "men over 40"],
+    content: "Garrett Salpeter's Pain Reframe System shifts men from catastrophizing to problem-solving: instead of 'My body is broken' → 'My nervous system may be overprotective.' Instead of 'I need complete rest' → 'I need smart movement.' Movement is medicine — healthy movement increases circulation, improves neurological signaling, accelerates healing, and restores confidence in the body. Complete inactivity teaches the nervous system that the area is dangerous, reinforcing protective patterns. Garrett's Daily Nervous System Reset: morning (5 min deep breathing + mobility); midday (10-20 min walk); post-workout (parasympathetic downregulation: breathing, stretching, walking); evening (low light, recovery breathing, reduced screen exposure). The longevity training rules: recovery drives adaptation; pain does not always equal damage; stress changes recovery capacity; movement should improve life; sustainability beats intensity. His case study: Ross — an executive with chronic pain who had failed PT, chiropractic, yoga, and functional fitness — rebuilt his capacity through nervous system-based training, gained muscle, achieved pain-free movement, and returned to basketball, tennis, and golf with his kids.",
+    quote: "Complete rest teaches the nervous system the area is dangerous. Smart movement teaches it the area is safe.",
+    sourceRef: "Nervous System Resilience System — Garrett Salpeter"
+  },
+
+  // ── Gary Walker ──────────────────────────────────────────────────
+  {
+    id: "fr-334",
+    speakerId: "gary-walker",
+    topic: ["Tricon Training", "origin", "sarcopenia", "joint health"],
+    tags: ["Tricon Training", "sarcopenia", "joint health", "burnout", "hypertrophy", "men over 40"],
+    content: "Gary Walker is a veteran fitness coach with 30+ years of coaching experience, founder of Walker Fit Muscle, and creator of the Tricon Training System. Gary competed in 12 NPC bodybuilding competitions and coached thousands of men over 40, but his most important credential is his personal breaking point: burnout, depression, chronic pain, overtraining, and physical decline while managing family, business, and fatherhood. Heavy barbell training under high life stress destroyed his joints and recovery. That crisis forced him to discover a smarter approach — applying rehabilitation principles to hypertrophy training — and Tricon was born. The science behind why men over 40 need a different approach: sarcopenia (3-8% muscle loss per decade beginning in the 30s) accelerates after 40; joint wear and tear accumulates from decades of training and daily activity; CNS recovery capacity declines — the nervous system no longer bounces back as fast; heavy training in the sub-5-rep max range overstimulates the CNS and degrades cartilage, ligaments, and tendons unnecessarily. The key mindset shift: stop thinking 'heavier is always better' and start asking 'how can I create maximum muscular tension with minimum unnecessary joint stress?'",
+    quote: "Muscles grow from tension, time under tension, effort, and intelligent overload. Not just heavy weight.",
+    sourceRef: "Train Smarter After 40 — Gary Walker Summit Session"
+  },
+  {
+    id: "fr-335",
+    speakerId: "gary-walker",
+    topic: ["Tricon formula", "triple contraction", "isometric holds", "hypertrophy"],
+    tags: ["Tricon", "triple contraction", "isometric", "explosive", "slow reps", "tempo", "men over 40"],
+    content: "Tricon Training is Gary Walker's triple contraction hypertrophy system. Every Tricon set contains 9 total reps in three phases: Phase 1 — Explosive Reps (3 reps): controlled lowering at 3-4 seconds, explosive concentric lift. Phase 2 — Isometric Holds (3 reps): hold in the peak contracted or loaded position for 3-10 seconds per rep; actively contract the target muscle during each hold. Phase 3 — Slow Tension Reps (3 reps): 3-4 second eccentric, 3-4 second concentric, maximal tension throughout. The weight selection principle: choose a load that challenges you, creates fatigue, and brings you close to failure by rep 9 — but does NOT compromise technique, destroy joints, or require momentum. Mind-muscle connection is critical: during every isometric hold, actively contract the target muscle with intent (chest press → squeeze pecs together; curls → rotate pinkies upward; rows → drive elbows back; hamstring curls → drive heels toward glutes). Range of motion: full controlled range always. Strength must exist in stretched, mid-range, and contracted positions — not just partial ranges driven by ego.",
+    quote: "The hold is where the magic happens. Not passive rest — active maximal contraction. That's what builds the muscle.",
+    sourceRef: "Tricon Training Blueprint — Gary Walker"
+  },
+  {
+    id: "fr-336",
+    speakerId: "gary-walker",
+    topic: ["Tricon variations", "progressive overload", "joint resilience", "weekly structure"],
+    tags: ["Tricon X", "Tricon S", "progressive overload", "joint resilience", "weekly structure", "men over 40"],
+    content: "Gary Walker's three Tricon variations serve different goals: Standard Tricon (all 9 reps): best for hypertrophy, longevity, and joint-friendly training. Tricon X (removes the 3 slow reps): best for power and athletic performance with slightly heavier loading. Tricon S (holds occur in stretched positions): best for mobility, loaded stretching, and hypertrophy variation. Progressive overload in Tricon is done differently than traditional loading: longer holds (progression example: weeks 1-2 = 3-sec holds; weeks 3-4 = 5-sec; weeks 5-6 = 7-sec; weeks 7-8 = 10-sec), better control, slightly more weight, improved range of motion, stronger contractions. The joint health benefits of isometric holds: reduced external load, improved tendon integrity, improved ligament strength, better joint control, improved movement awareness, reduced CNS fatigue. Sample weekly structure: Day 1 upper body (1-2 Tricon movements + accessories); Day 2 lower body (1-2 Tricon movements + mobility); Day 3 pull/back focus; Day 4 full body / recovery focus with lighter Tricon work. Gary's personal mission: build men capable of playing with grandchildren, staying active for family, and creating a body that lasts decades — not just one that survives the next workout.",
+    sourceRef: "Tricon Training Blueprint — Gary Walker"
+  },
+  {
+    id: "fr-337",
+    speakerId: "gary-walker",
+    topic: ["quick start", "longevity priorities", "training mindset", "hypertrophy after 40"],
+    tags: ["quick start", "longevity", "joint health", "muscle building", "mindset", "men over 40"],
+    content: "Gary Walker's Quick Start Tricon Plan: Week 1 — add one Tricon movement per workout; focus on learning tempo, hold positions, and mind-muscle connection; recommended starter exercises: machine chest press, leg extensions, hamstring curls, cable rows, dumbbell curls, shoulder raises. Weeks 2-4 — add longer holds, slightly more load, improved control. Week 5+ — integrate Tricon X, Tricon S, and advanced intensifiers. Gary's Longevity Priority Stack for men over 40: (1) Joint health above all — if training degrades joints, it fails the primary test; (2) Recovery — schedule it, protect it; (3) Movement quality — how you move matters as much as what you lift; (4) Hypertrophy — build muscle intelligently within the above constraints; (5) Consistency — the 30-year plan beats the 6-week plan every time; (6) Sustainability. The biggest takeaway Gary leaves men with: you do NOT need to stop training hard, stop building muscle, or accept physical decline. You need to train smarter. The goal is to build muscle, protect joints, improve movement, recover better, and create a body capable of lasting decades. Identify the exercise that consistently irritates your joints — that is the first thing to address with Tricon principles.",
+    quote: "You don't need to stop training hard or accept decline. You need to train smarter. Build a body that lasts decades.",
+    sourceRef: "Tricon Training Blueprint — Gary Walker"
+  },
+
+  // ── Gareth Sapstead ──────────────────────────────────────────────
+  {
+    id: "fr-338",
+    speakerId: "gareth-sapstead",
+    topic: ["anti-fragile", "fragility", "training philosophy", "resilience"],
+    tags: ["anti-fragile", "fragility", "resilience", "systems", "longevity", "men over 40"],
+    content: "Gareth Sapstead — strength coach, author, and founder of the Anti-Fragile Performance Program — frames the problem for men over 40 with precision: the problem is not your age, it is fragility. Most men do not need more motivation, more random workouts, or more punishment-based training. They need better systems, smarter exercise selection, more strategic programming, and a long-term focus on capability. Anti-fragile means more than resilient: a fragile system breaks under stress; a resilient system survives stress; an anti-fragile system actually gets stronger from it. For men over 40 this means training in a way that reduces injury risk, maintains power, preserves athleticism, improves movement quality, and continues to build capacity as the years accumulate. Power declines 17-23% per decade after age 35 on average — even in trained populations it declines, just at a slower rate. If a man never trains velocity-based or explosive work, he will progressively become slower, less athletic, less capable. This is visible in everyday life: the 80-year-old who can barely walk fast was once a man who gradually stopped training speed. The decline doesn't happen overnight — it accumulates over decades of missing one thing.",
+    quote: "The problem is not your age. The problem is fragility. You don't need more motivation — you need a better system.",
+    sourceRef: "The Anti-Fragile Man — Gareth Sapstead Summit Session"
+  },
+  {
+    id: "fr-339",
+    speakerId: "gareth-sapstead",
+    topic: ["power training", "athleticism", "MAP warm-up", "explosive work"],
+    tags: ["power", "athleticism", "MAP", "warm-up", "kettlebell swing", "rotational throw", "men over 40"],
+    content: "Gareth Sapstead's first two principles for anti-fragile training: Tip 1 — Include More Power Work. Power can be added via two routes: (a) as part of the MAP warm-up structure (Mobilize → Activate → Prime/Potentiate) — the priming phase serves double duty as warm-up and power development; (b) as a superset with your key indicator lift — e.g., heavy deadlift followed minutes later by a heavy kettlebell swing, so the strength movement potentiates the power movement. Power exercises accessible to men over 40 without high injury risk: kettlebell swings (explosive hip power), rotational scoop tosses (rotational hip power), landmine push press (hip-to-shoulder power transfer). Tip 2 — Microdose Athleticism. Most men over 40 rarely sidestep, sprint, throw, or change direction rapidly. When life demands it — playing with kids, a pickup basketball game, avoiding a fall — the body fails because the skill wasn't maintained. Microdosing means small consistent doses of athletic movement embedded in regular training: sprint intervals, lateral shuffles, sled work, skater jumps, skipping drills. The goal is not becoming an athlete again — it is maintaining the neuromuscular qualities that keep movement capable and safe.",
+    sourceRef: "The Anti-Fragile Man — Gareth Sapstead Summit Session"
+  },
+  {
+    id: "fr-340",
+    speakerId: "gareth-sapstead",
+    topic: ["pull more than push", "shoulder health", "structural balance", "posture"],
+    tags: ["pull", "push", "structural balance", "posture", "shoulder", "upper back", "face pulls", "men over 40"],
+    content: "Gareth Sapstead's Tips 3-8 for anti-fragile training: Tip 3 — Pull More Than You Push. Most men's training is push-dominant. The upper back (mid and lower traps, rhomboids, rotator cuff) becomes weak relative to the chest and anterior shoulders, creating forward posture, shoulder impingement risk, and reduced pressing performance. A stronger upper back actually improves pressing strength. Structural balance fix: 2:1 ratio of pulling to pushing volume. Tip 4 — Do Hamstring Curls Before Squats. Pre-activating the hamstrings creates better knee stability, improves structural balance at the knee joint, and dramatically reduces squat-related knee discomfort. Tip 5 — Train Core Before Deadlifts. Core activation before heavy hinging improves intra-abdominal pressure and spinal positioning, reducing back pain during deadlift variations. Tip 6 — Include More Single-Leg Training. Real-world movement is unilateral. Split squats, step-ups, and single-leg RDLs build the balance, stability, and lateral strength that bilateral squatting neglects. Tip 7 — Use Specialist Bars. Finding your 'trainable menu' — exercises your structure can handle — matters more than forcing standard barbell movements onto your anatomy. Trap bars, Swiss bars, and safety squat bars allow men to load the patterns without joint compromise. Tip 8 — Do Face Pulls for Shoulder Health: external rotation under load builds the shoulder resilience that pressing destroys over time.",
+    sourceRef: "The Anti-Fragile Man — Gareth Sapstead Summit Session"
+  },
+  {
+    id: "fr-341",
+    speakerId: "gareth-sapstead",
+    topic: ["shoulder pressing", "scapular movement", "overhead pressing", "push-ups"],
+    tags: ["overhead press", "shoulder impingement", "scapula", "push-ups", "landmine press", "shoulder health", "men over 40"],
+    content: "Gareth Sapstead's Tips 9-10 complete the anti-fragile system: Tip 9 — Stop Overhead Pressing Directly Overhead. Traditional vertical barbell overhead pressing forces the shoulder into impingement-prone positions, especially in men with limited thoracic extension or tight posterior capsules. The fix is not to stop pressing overhead — it is to change the angle: landmine pressing, neutral-grip pressing, and slightly forward-inclined pressing angles allow the shoulder to move through a natural arc without impingement. Tip 10 — Unglue Your Shoulder Blades. Men who train on machines and fixed bars never allow their scapulae to move freely. The shoulder blades should protract, retract, elevate, and depress through natural movement. Push-ups are underrated precisely because they allow full scapular movement — the scapula tracks with the arm rather than being locked against a bench. This maintains the natural shoulder mechanics that prevent long-term impingement and rotator cuff deterioration. The anti-fragile philosophy in one line: build capability for life — not the ability to survive the next workout, but the structural resilience, athleticism, and movement quality to perform well for decades. Systems matter more than motivation. Longevity matters more than ego.",
+    quote: "Build capability for life. Not the ability to survive the next workout — the resilience to perform well for decades.",
+    sourceRef: "The Anti-Fragile Man — Gareth Sapstead Summit Session"
+  },
+
+  // ── Eric Dagati ──────────────────────────────────────────────────
+  {
+    id: "fr-342",
+    speakerId: "eric-dagati",
+    topic: ["ageless athlete", "healthspan", "rear view vs windshield", "performance"],
+    tags: ["ageless athlete", "healthspan", "lifespan", "performance", "identity", "men over 40"],
+    content: "Eric Dagati — fitness professional with 27+ years of experience, founder of Eternal Athletics and creator of the Ageless Athlete Blueprint — spent decades training elite athletes across every sport from high school to professional level. Over time his population shifted: former athletes returning in their 40s and 50s, breaking down, wanting to stay competitive and capable. Dagati recognized two psychological traps men over 40 fall into: the Rear View — living in the nostalgia of who they were physically (Al Bundy syndrome — four touchdowns in the state championship), mourning the younger body; and the Windshield — watching parents and peers age ungracefully and living in fear of becoming that. Both traps create stress and confusion about where to fit in. Dagati's reframe: the goal is not to be 25 again and not to accept decline — the goal is healthspan. Lifespan is how many years you live. Healthspan is how much life is in those years: how long you are actually healthy, vibrant, capable, and free from debilitating limitation. Cardiovascular fitness is one of the strongest predictors of longevity — 4x difference in mortality between highest and lowest VO2 max categories. Grip strength, push-up capacity, and ability to get up off the floor all predict mortality independently.",
+    quote: "Lifespan is how many years you live. Healthspan is how much life is in those years. Train for healthspan.",
+    sourceRef: "Becoming an Ageless Athlete — Eric Dagati Summit Session"
+  },
+  {
+    id: "fr-343",
+    speakerId: "eric-dagati",
+    topic: ["muscle loss", "power decline", "hormonal changes", "aging physiology"],
+    tags: ["sarcopenia", "power", "type II fibers", "testosterone", "cortisol", "tendon elasticity", "men over 40"],
+    content: "Eric Dagati's data on what changes in the male body after 40: Muscle and Strength — 1% muscle loss per year; 3-5% strength decline per year; atrophy hits Type II fast-twitch fibers hardest; reduced motor unit recruitment. Power and Speed — declines at more than double the rate of strength; nearly 10% speed and explosiveness loss per year without countermeasures; expected 40% speed loss by age 70 without intervention. Internal changes — bone density declining; reduced tendon elasticity (explains why Achilles tears and rotator cuff tears spike in this population); general joint degeneration; hormonal shifts. Testosterone — 1-2% decline per year after 30, accelerating noticibly in the 40s. High cortisol compounds testosterone decline and blocks recovery. Heavy compound lifts can partially offset testosterone decline. The key insight: you do not have to experience average decline. The average is measured across a sedentary population. Men who train intelligently, manage stress, sleep well, and maintain hormonal health decline at a fraction of the average rate. 50% of US adults have some musculoskeletal condition — over 75% have mobility restrictions in hips, ankles, or trunk. These numbers reflect neglect, not inevitability.",
+    sourceRef: "Becoming an Ageless Athlete — Eric Dagati Summit Session"
+  },
+  {
+    id: "fr-344",
+    speakerId: "eric-dagati",
+    topic: ["lifestyle factors", "old workouts", "stress", "recovery"],
+    tags: ["lifestyle", "stress", "recovery", "sleep", "cortisol", "hormones", "training load", "men over 40"],
+    content: "Eric Dagati identifies why the workouts that worked at 25 fail at 40: the training hasn't changed but everything else has. Family demands consume time, energy, and focus. Career complexity increases cognitive and emotional load. Accumulated injuries create movement limitations. Sitting in offices and commuting creates postural and mobility restrictions. Sleep quality has declined — 30% of adults have some level of sleep disorder. Chronic stress elevates cortisol and suppresses recovery. Nutrition habits deteriorate under higher time demands. Medications — increasingly common after 40 — can affect cardiovascular health, musculoskeletal health, and hormonal function. Social dynamics shift — the training partners and competitive environments that drove intensity at 25 are gone. The result: the same workout volume and intensity that was manageable at 25 now exceeds the recovery capacity available at 40. The formula is not 'train less.' The formula is 'train smarter with full accounting of lifestyle stress.' A high-performing man with a demanding career, young kids, limited sleep, and relationship stress has a dramatically different recovery budget than his 25-year-old self — even if his desire to train is identical.",
+    sourceRef: "Becoming an Ageless Athlete — Eric Dagati Summit Session"
+  },
+  {
+    id: "fr-345",
+    speakerId: "eric-dagati",
+    topic: ["Ageless Athlete Blueprint", "Eternal Athletics", "training principles", "longevity"],
+    tags: ["Ageless Athlete Blueprint", "Eternal Athletics", "VO2 max", "functional movement", "longevity", "men over 40"],
+    content: "Eric Dagati's Ageless Athlete Blueprint through Eternal Athletics addresses the four training pillars men over 40 must focus on: (1) Cardiovascular Fitness — VO2 max is the single most powerful predictor of longevity; zone 2 cardio, progressive aerobic conditioning, and sport-specific conditioning all serve this. (2) Functional Movement — certain movements are direct mortality predictors: ability to get up from the floor without hands, sit-to-stand, overhead reach. Move well before moving often. (3) Muscular Strength and Endurance — grip strength, push-up capacity, and local muscular endurance all correlate independently with healthspan. (4) Power and Speed — the fastest-declining quality after 40; must be deliberately trained with plyometrics, explosive lifts, and velocity-based work. Dagati's programming principles for the ageless athlete: train 3-4x per week with full recovery between sessions; prioritize movement quality before load; integrate one power session weekly minimum; include zone 2 cardio 2-3x weekly; manage the total stress bucket by accounting for life load in training volume decisions; and never compare current performance to a 25-year-old version — compare it to the best version of yourself at this age, maintained for decades.",
+    quote: "Stop comparing yourself to who you were at 25. Become the best version of yourself at this age — and maintain it for decades.",
+    sourceRef: "Becoming an Ageless Athlete — Eric Dagati Summit Session"
+  },
+
 ];
 
 export const topicIndex: Record<string, string[]> = {
