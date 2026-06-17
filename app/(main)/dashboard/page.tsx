@@ -14,7 +14,58 @@ const TOPICS = [
   { label: "Breathwork", query: "breathwork" },
   { label: "Hormones", query: "hormones" },
   { label: "Gut Health", query: "gut" },
-  { label: "Sprinting", query: "sprint" },
+  { label: "Mitochondria", query: "mitochondria" },
+  { label: "Leadership", query: "leadership" },
+  { label: "Resilience", query: "resilience" },
+];
+
+const SUMMIT_EXPERTS = [
+  // Original Funk Roberts & Core
+  "Funk Roberts",
+  "Navin Khan",
+  // Summit Experts A-D
+  "Dr. Anthony Balduzzi",
+  "Ben Greenfield",
+  "Ben Pakulski",
+  "Bill Maeda",
+  "Bryan Krahn",
+  "Chris Lopez",
+  "Clark Bartram",
+  "Coach Kavita Ajlani",
+  "Dan John",
+  "Dean Pohlman",
+  "Dean Somerset",
+  // Summit Experts E-K
+  "Eddie Panting",
+  "Firas Zahabi",
+  "Frank Rich",
+  "Gregory Dzemaili",
+  "Jason Brown",
+  "Joe DeFranco",
+  "Joyce Somers",
+  "Dr. Justin Farnsworth",
+  "Keith Bozeman",
+  "Kelsey Dunbar & Marc Rogala",
+  "Kenneth Swartz",
+  "Kevin Carr",
+  // Summit Experts L-R
+  "Lance Short",
+  "Luka Hocevar",
+  "Marc Rodriguez",
+  "Mike Ranfone",
+  "Mollie Eastman",
+  "Dr. Mike Fortunato",
+  "Dr. Mike T. Nelson",
+  "Dr. Perry Nicholson",
+  "Phil DeRue",
+  "Robert Linkel",
+  "Roderick Lambert",
+  "Rustin Webb",
+  // Summit Experts S-T
+  "Stefanos Sifandos",
+  "Dr. Sherry McAllister",
+  "Tricon Training (Nick)",
+  "Dr. Tom Cowan",
 ];
 
 const WAVES = [
@@ -39,18 +90,6 @@ const WAVES = [
   { n: 19, label: "Supplements for Men Over 40" },
 ];
 
-const SUMMIT_EXPERTS = [
-  "Dr. Anthony Balduzzi", "Ben Pakulski", "Ben Greenfield", "Bill Maeda",
-  "Chris Lopez", "Clark Bartram", "Dean Pohlman", "Dean Somerset",
-  "Firas Zahabi", "Bryan Krahn", "Gregory Dzemaili", "Dan John",
-  "Dr. Sherry McAllister", "Coach Kavita", "Kenneth Swartz", "Kevin Carr",
-  "Phil DeRue", "Stefanos Sifandos", "Kelsey Dunbar & Marc Rogala",
-  "Jason Brown", "Joe DeFranco", "Joyce Somers", "Dr. Justin Farnsworth",
-  "Keith Bozeman", "Luka Hocevar", "Tricon Training", "Dr. Mike Fortunato",
-  "Dr. Perry Nicholson", "Rustin Webb", "Dr. Mike T. Nelson", "Dr. Tom Cowan",
-  "Navin Khan", "Funk Roberts",
-];
-
 export default function Dashboard() {
   return (
     <div className="p-6 max-w-5xl mx-auto space-y-8">
@@ -59,7 +98,7 @@ export default function Dashboard() {
         <h1 className="text-3xl font-bold text-white mb-2">Second Half Strong</h1>
         <p className="text-zinc-400 text-lg max-w-2xl">
           AI coaching for men over 40 — powered by Funk Roberts, the Men Over 40
-          Health Summit, and 33 world-class expert interviews.
+          Health Summit, and {SUMMIT_EXPERTS.length} world-class expert voices.
         </p>
         <Link
           href="/chat"
@@ -81,7 +120,7 @@ export default function Dashboard() {
         </div>
         <div className="bg-zinc-900 border border-zinc-800 rounded-xl p-5 text-center">
           <div className="text-3xl font-bold text-orange-400">{SUMMIT_EXPERTS.length}</div>
-          <div className="text-zinc-400 text-sm mt-1">Summit Experts</div>
+          <div className="text-zinc-400 text-sm mt-1">Expert Voices</div>
         </div>
       </div>
 
@@ -103,14 +142,16 @@ export default function Dashboard() {
 
       {/* Summit Experts Grid */}
       <div>
-        <h2 className="text-lg font-semibold text-white mb-3">Summit Expert Roster</h2>
+        <h2 className="text-lg font-semibold text-white mb-3">
+          Summit Expert Roster <span className="text-zinc-500 text-sm font-normal">({SUMMIT_EXPERTS.length} experts)</span>
+        </h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
           {SUMMIT_EXPERTS.map((name) => (
             <div
               key={name}
               className="bg-zinc-900 border border-zinc-800 rounded-lg p-3 flex items-center gap-2"
             >
-              <span className="text-orange-500 text-xs">●</span>
+              <span className="text-orange-500 text-xs flex-shrink-0">●</span>
               <span className="text-zinc-300 text-sm">{name}</span>
             </div>
           ))}
