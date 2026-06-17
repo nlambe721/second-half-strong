@@ -1627,6 +1627,760 @@ SENSORY WELLNESS INSIGHT: Smell is tied directly to the limbic system — the br
     ],
     sourceRef: "Men Over 40 Health Summit – Marcello, Niche Fragrance Collector Masterclass",
   },
+
+  {
+    id: "fr-147",
+    speakerId: "funk-roberts",
+    topic: ["sleep", "recovery", "hormones", "testosterone"],
+    tags: ["Alpha Sleep Philosophy", "sleep rules", "circadian rhythm", "testosterone", "deep sleep", "REM", "men over 40"],
+    content: `THE ALPHA SLEEP PHILOSOPHY — Over 40 Alpha Sleep Challenge (Funk Roberts)
+
+CORE PHILOSOPHY PILLARS:
+1. SLEEP IS YOUR #1 RECOVERY WEAPON: Sleep is the absolute foundation for fat loss, testosterone production, and overall health. You cannot out-train, out-eat, or out-supplement poor sleep. If your sleep is broken, your testosterone is broken.
+
+2. DEEP SLEEP IS THE ANABOLIC HORMONE SUPERCHARGER: ~90% of daily testosterone is produced during deep and REM sleep (first 3-5 sleep cycles). This is when the body releases Growth Hormone, DHEA, and Luteinizing Hormone (LH) to rebuild muscle, burn belly fat, and restore drive.
+
+3. SLEEP IS A RELATIONSHIP, NOT A TRANSACTION: Great sleep is the natural outcome of how you structure your day, your light exposure, and your nervous system regulation — not willpower.
+
+4. RHYTHM IS RECOVERY: The body thrives on a predictable 24-hour circadian rhythm. Consistency is far more important than perfection. When your body knows exactly when to power up and wind down, you build natural sleep pressure that produces deep rest.
+
+5. AIM FOR RESTORATIVE SLEEP: Men over 40 should achieve 3-4 hours of restorative sleep (Deep + REM) within 7-9 hours total. Quality over quantity.
+
+THE 9 FUNK ROBERTS ALPHA SLEEP RULES:
+Rule 1 — Anchor Your Wake Time & Morning Light: Pick a wake time and keep it within 30-minute variation. Get 5-10 minutes of natural sunlight within 30-60 minutes of waking to anchor circadian rhythm.
+
+Rule 2 — Stimulus Control: The bed is for sleep and sex ONLY. Never scroll, email, or watch TV in bed.
+
+Rule 3 — The 20-Minute Rule: If awake and frustrated for 20 minutes, get up. Go to a low-light calm zone (read fiction or deep breathe) and only return when sleepy.
+
+Rule 4 — Master the Alpha Wind-Down Routine: Sleep starts 30-60 minutes before your head hits the pillow. Shut down all screens and blue light 60 minutes before bed. Switch to dim lamps or red lights.
+
+Rule 5 — Optimize Thermal & Light Environment: Keep bedroom at 60-67°F (16-19°C). Make the room pitch black. Eliminate all electronics and LED lights.
+
+Rule 6 — Time Your Nutrition & Caffeine: Cut off ALL caffeine by 1-2 PM. Finish last large meal 2-3 hours before bed. If needed, small protein + healthy fat snack (Greek yogurt, walnuts) to stabilize blood sugar.
+
+Rule 7 — Use the 4-2-6-2 Breathing Protocol: Activate parasympathetic system before bed. For 5-10 minutes: Inhale 4 sec → Hold 2 sec → Exhale 6 sec → Hold 2 sec. Lowers cortisol, boosts melatonin.
+
+Rule 8 — Stop Trying to Sleep (Paradoxical Intention): Remove sleep performance anxiety. Instead, gently aim to stay awake in a relaxed state. Tell yourself: 'I give myself permission to rest.'
+
+Rule 9 — Bad Night Bounce-Back Protocol: Do NOT sleep in, do NOT over-caffeinate, do NOT take long naps. Wake at normal time, get morning sunlight, limit naps to 15-20 min before 2 PM, resume normal rhythm.`,
+    quote: `Sleep is your #1 recovery weapon. You cannot out-train, out-eat, or out-supplement poor sleep. If your sleep is broken, your testosterone is broken.`,
+    protocol: [
+      `Anchor wake time daily within 30-minute variation — no exceptions`,
+      `Get 5-10 min natural sunlight within 60 min of waking — anchors circadian rhythm`,
+      `Shut down screens and blue light 60 min before bed — switch to dim/red light`,
+      `Keep bedroom 60-67°F, pitch black, zero electronics`,
+      `Cut all caffeine by 1-2 PM`,
+      `Do 4-2-6-2 nasal breathing for 5-10 min before sleep (4 in, 2 hold, 6 out, 2 hold)`,
+      `If awake 20+ min in bed, get up — calm zone only until sleepy`,
+      `After bad night: wake at normal time, get sunlight, max 20 min nap before 2 PM`,
+    ],
+    sourceRef: "Funk Roberts — Over 40 Alpha Sleep Challenge Program",
+  },
+  {
+    id: "fr-148",
+    speakerId: "funk-roberts",
+    topic: ["sleep", "recovery", "protocols"],
+    tags: ["sleep reset", "7 minute protocol", "wake up at night", "cortisol", "men over 40 sleep"],
+    content: `THE 7-MINUTE SLEEP RESET PROTOCOL — For Men Over 40 Who Wake Up at Night
+
+WHY MEN WAKE UP AND CAN'T FALL BACK ASLEEP:
+• Cortisol Spike — stress hormone wakes you and keeps mind racing
+• Blood Sugar Drop — low blood sugar triggers adrenaline release
+• Poor Sleep Environment — light, temperature, or discomfort disrupts deep sleep
+• Overthinking & Anxiety — brain stays in problem-solving mode
+
+THE 7-MINUTE SLEEP RESET PROTOCOL:
+
+Step 1 (0-10 sec) — STOP Looking at the Clock: Looking at the clock triggers stress. Accept you woke up and move into reset mode. Mindset: 'It's okay — I'm going to use this time to get even deeper sleep.'
+
+Step 2 (1 min) — 4-7-8 Breathing Method: Inhale 4 sec, Hold 7 sec, Exhale 8 sec. Shifts nervous system into relaxation mode. Activates parasympathetic system (rest & digest).
+
+Step 3 (1 min) — Full-Body Relaxation Scan: Mentally scan head to toe releasing tension. Focus on relaxing jaw, shoulders, and lower back first. Breathe slowly.
+
+Step 4 (2 min) — Legs-Up Pose: Lay on back, legs up against wall. Hold 2 min with slow breathing. Reduces blood flow to brain — lowers anxiety and cortisol. Forces nervous system shift from fight-or-flight.
+
+Step 5 (2 min) — Reverse Sleep Countdown: Count backward from 100 slowly. Imagine sinking into bed with each number. If mind drifts, gently return to counting. Distracts brain from overthinking, slows brain wave activity.
+
+BONUS — Sleep Reset Drink (if woke from hunger/blood sugar drop):
+Mix: Warm water + tart cherry juice (1 oz) + magnesium powder (200-400mg) + pinch of sea salt. Tart cherry naturally boosts melatonin; magnesium relaxes muscles and nervous system; salt stabilizes blood sugar.`,
+    quote: `The 7-Minute Sleep Reset guides you back into deep sleep within minutes by calming the nervous system, resetting melatonin, and shifting from fight-or-flight to rest mode.`,
+    protocol: [
+      `STOP: Do not look at clock — accept wakeup, shift to reset mode`,
+      `BREATHE: 4-7-8 method — 4 inhale, 7 hold, 8 exhale for 1 minute`,
+      `SCAN: Full-body tension release head to toe, 1 minute`,
+      `LEGS-UP: Back on floor, legs up wall for 2 minutes — reduces cortisol`,
+      `COUNTDOWN: Count backward from 100 slowly, sinking into bed`,
+      `IF HUNGRY: Warm water + tart cherry juice + magnesium powder + sea salt`,
+    ],
+    sourceRef: "Funk Roberts — The 7-Minute Sleep Reset Protocol",
+  },
+  {
+    id: "fr-149",
+    speakerId: "funk-roberts",
+    topic: ["sleep", "recovery", "nutrition", "cortisol"],
+    tags: ["bad night sleep", "fix sleep", "bounce back", "fat burning", "cortisol", "circadian reset"],
+    content: `HOW TO FIX SLEEP AFTER A BAD NIGHT & STILL BURN FAT — 6-Step Protocol
+
+WHAT A BAD NIGHT OF SLEEP DOES:
+Spikes cortisol (stress hormone), slows metabolism, increases sugar/carb cravings, lowers testosterone and recovery, disrupts fat-burning rhythm. One bad night won't ruin progress — unless you let it spiral.
+
+THE 6 STEPS:
+
+Step 1 — WAKE UP ON SCHEDULE (No Sleeping In): Stick to your usual wake-up time even after 4-5 hours. Sleeping in delays circadian rhythm, throws off melatonin, makes next night worse. Immediately open curtains or go outside — sunlight in eyes resets sleep-wake cycle.
+
+Step 2 — MOVE FIRST THING: 5-10 min of walking, mobility, or light stretching. Add deep nasal breathing to lower cortisol. Bonus: go barefoot outside (grounding). Shakes off sleep inertia and improves fat metabolism even when tired.
+
+Step 3 — HYDRATE & STABILIZE BLOOD SUGAR: After poor sleep, body becomes more insulin resistant and craves carbs. Drink 16-24 oz water with electrolytes or pink salt. Eat protein + healthy fat breakfast (eggs + avocado, protein shake + almond butter). Avoid sugary coffee, toast, cereal, or high-carb meals.
+
+Step 4 — PRIORITIZE FAT-BURNING, NOT EXHAUSTING WORKOUTS: Avoid high-intensity HIIT or heavy lifting (further spikes cortisol). Instead do fat-burning metabolic circuit, recovery band session, or walk.
+
+Step 5 — STRATEGIC NAPPING (Optional): 10-20 min power nap before 2 PM ONLY. Any later disrupts nighttime sleep. Do NOT nap if you have insomnia — it reduces sleep pressure needed to sleep at night.
+
+Step 6 — PREPARE BETTER SLEEP TONIGHT: Cut caffeine after 12 PM. Extra magnesium (400-500mg glycinate). Begin wind-down 90 min earlier. Room to 65°F. Do 10 min 4-7-8 breathing before sleep.`,
+    protocol: [
+      `Wake at normal time regardless of hours slept — no sleeping in`,
+      `Get sunlight immediately upon waking to reset circadian rhythm`,
+      `5-10 min gentle movement first thing: walk, mobility, or stretch`,
+      `Drink 16-24 oz water + electrolytes; eat protein + fat breakfast`,
+      `Avoid HIIT and heavy lifting after bad sleep — fat-burn walk or mobility instead`,
+      `Power nap: 10-20 min ONLY before 2 PM if needed`,
+      `Tonight: cut caffeine after noon, take extra magnesium, begin wind-down 90 min earlier`,
+    ],
+    sourceRef: "Funk Roberts — 6 Steps to Fix Sleep After a Bad Night",
+  },
+  {
+    id: "fr-150",
+    speakerId: "funk-roberts",
+    topic: ["sleep", "hormones", "testosterone", "recovery"],
+    tags: ["restorative sleep", "deep sleep", "REM sleep", "testosterone production", "growth hormone", "sleep quality"],
+    content: `RESTORATIVE SLEEP: WHY QUALITY BEATS QUANTITY FOR MEN OVER 40
+(Funk Roberts — Over 40 Alpha Podcast Episode 192)
+
+THE CORE TRUTH: You can sleep 8 hours and wake up exhausted. Hours alone don't matter — the type of sleep does. For men over 40, the goal is achieving 3-4 hours of RESTORATIVE sleep (Deep Sleep + REM) within a 7-9 hour window.
+
+WHAT RESTORATIVE SLEEP DOES:
+• Repairs muscle tissue and releases Growth Hormone
+• Regulates and produces testosterone
+• Burns fat during deep sleep stages
+• Strengthens immune system
+• Processes memories and regulates emotions
+• Cleans waste products (including amyloid plaques) from the brain
+
+THE TWO CRITICAL STAGES:
+
+DEEP SLEEP (Slow Wave Sleep): The physically restorative stage. This is when Growth Hormone is released, muscle is rebuilt, immune function is restored, and blood pressure drops. Men over 40 naturally get less deep sleep — and this is why they feel older.
+
+REM SLEEP (Rapid Eye Movement): The mentally restorative stage. Processes emotions, consolidates memory, regulates mood and testosterone. Most men are chronically REM-deficient without knowing it.
+
+HOW SLEEP DEPRIVATION DESTROYS MEN OVER 40:
+• Just 1 week of sleep deprivation = testosterone levels of a man 10-15 years older
+• Poor sleep raises cortisol → cortisol kills testosterone and causes belly fat storage
+• Disrupts ghrelin (hunger up) and leptin (fullness down) — impossible to lose weight
+• Impairs glucose control → more fat storage, especially visceral abdominal fat
+
+HOW TO MAXIMIZE RESTORATIVE SLEEP:
+1. Protect your first 90-minute sleep cycle (deepest sleep) — go to bed at the same time nightly
+2. Avoid alcohol within 3 hours of bed — it kills REM sleep even if it makes you drowsy
+3. Keep bedroom cold (60-67°F) — core temp drop triggers deep sleep
+4. Magnesium glycinate (400mg) before bed enhances deep sleep quality
+5. Don't exercise intensely within 2-3 hours of bed — raises core temp
+6. Track your sleep quality, not just duration — use HRV or sleep score apps`,
+    quote: `Not all sleep is created equal. For men over 40, quality matters even more than quantity — specifically, the restorative deep sleep and REM stages where testosterone, growth hormone, and recovery happen.`,
+    protocol: [
+      `Target 3-4 hours of restorative (Deep + REM) sleep within 7-9 hours total`,
+      `Consistent bedtime protects the critical first 90-min deep sleep cycle`,
+      `No alcohol within 3 hours of bed — it destroys REM sleep`,
+      `Bedroom at 60-67°F — core temp drop is the trigger for deep sleep`,
+      `Magnesium glycinate 400mg before bed to enhance deep sleep quality`,
+      `Track sleep quality (not just hours) using HRV or sleep score`,
+    ],
+    sourceRef: "Funk Roberts — Over 40 Alpha Podcast Episode 192: Restorative Sleep",
+  },
+  {
+    id: "fr-151",
+    speakerId: "funk-roberts",
+    topic: ["breathwork", "stress", "recovery", "mindset"],
+    tags: ["21-day breathwork challenge", "breathing techniques", "diaphragmatic breathing", "cortisol reduction", "men over 40"],
+    content: `21-DAY ALPHA BREATHWORK CHALLENGE — Complete Program Guide
+By Funk Roberts & Over 40 Alpha
+
+PROGRAM PURPOSE: A 21-day step-by-step breathwork program for men over 40, 50, 60, and 70. Reduce anxiety, stress, and cortisol; improve relaxation, focus, and concentration; potentially increase testosterone levels. Master 7 powerful breathwork techniques and build a daily practice.
+
+WHY BREATHWORK IS ESSENTIAL AFTER 40:
+• Reduces Anxiety & Stress: Activates parasympathetic nervous system — calms the mind
+• Improves Relaxation: Allows recovery from the pressures of daily life
+• Decreases Cortisol: High cortisol from chronic stress is the testosterone killer — breathwork lowers it
+• Boosts Energy: Improved oxygenation = more mitochondrial energy production
+• Enhances Focus: Better oxygen delivery to the brain = sharper mental clarity
+• Supports Hormones: Lower cortisol = higher testosterone — the connection is direct
+
+THE 7 BREATHING TECHNIQUES IN THE 21-DAY CHALLENGE:
+
+1. DIAPHRAGMATIC BREATHING (Days 1-3): Deep belly breathing that activates the vagus nerve. Inhale fully into the belly (not chest), hold briefly, exhale slowly. 5-10 min daily.
+
+2. BOX BREATHING (Days 4-6): Inhale 4 sec, Hold 4 sec, Exhale 4 sec, Hold 4 sec. Used by Navy SEALs for stress management and focus under pressure.
+
+3. 4-7-8 BREATHING (Days 7-9): Inhale 4 sec, Hold 7 sec, Exhale 8 sec. Powerful for sleep onset and anxiety reduction.
+
+4. TACTICAL BREATHING (Days 10-12): Combat breathing to lower heart rate rapidly. Inhale 4 sec, Hold 4 sec, Exhale 4 sec. Used before high-performance situations.
+
+5. WIM HOF POWER BREATHING (Days 13-15): 30-40 rapid deep breaths, then exhale and hold. Increases oxygen, alkalizes blood, reduces inflammation, boosts energy.
+
+6. COHERENCE BREATHING (Days 16-18): 5 seconds in, 5 seconds out. Creates heart-rate variability coherence between heart and brain — the ideal recovery state.
+
+7. INTEGRATED DAILY PRACTICE (Days 19-21): Combine techniques — morning power breathing, afternoon box breathing, evening 4-7-8 for sleep.`,
+    quote: `Breathwork may be one of the most underutilized tools for men over 40. It directly reduces cortisol, improves testosterone, and gives you a recovery tool that requires no equipment and zero cost.`,
+    protocol: [
+      `Day 1-3: Diaphragmatic breathing — 5-10 min of deep belly breathing daily`,
+      `Day 4-6: Box breathing — 4 sec in, 4 hold, 4 out, 4 hold for stress/focus`,
+      `Day 7-9: 4-7-8 breathing — 4 in, 7 hold, 8 out — best for sleep and anxiety`,
+      `Day 10-12: Tactical breathing — inhale 4, hold 4, exhale 4 — before pressure situations`,
+      `Day 13-15: Wim Hof — 30-40 rapid deep breaths then hold exhale`,
+      `Day 16-18: Coherence breathing — 5 sec in, 5 sec out — for HRV and recovery`,
+      `Day 19-21: Integrate all — morning power, afternoon box, evening 4-7-8`,
+      `Minimum daily: 5 minutes of breathwork — the ROI is enormous`,
+    ],
+    sourceRef: "Funk Roberts — 21-Day Alpha Breathwork Challenge Program Guide",
+  },
+  {
+    id: "fr-152",
+    speakerId: "funk-roberts",
+    topic: ["breathwork", "recovery", "performance", "mindset"],
+    tags: ["Wim Hof", "power breathing", "oxygen", "cold exposure", "energy", "inflammation", "men over 40"],
+    content: `WIM HOF POWER BREATHING FOR MEN OVER 40
+
+BACKGROUND: The Wim Hof Method, developed by Dutch extreme athlete Wim Hof, uses cycles of deep inhalations followed by passive exhalations, ending with breath holds. This is one of the most powerful performance and recovery tools available to men over 40.
+
+PHYSICAL BENEFITS:
+• Increased Oxygen: Deep breathing significantly increases O2 levels — enhances performance and endurance
+• Enhanced Energy: Oxygen boost reduces fatigue
+• Improved Circulation: Increased blood flow improves cardiovascular health
+• Pain Reduction: Endorphin release reduces pain perception
+• Reduced Inflammation: Alkalizes the blood, reducing chronic systemic inflammation
+
+MENTAL BENEFITS:
+• Reduced Stress and Anxiety: Activates PNS (parasympathetic nervous system)
+• Improved Mental Clarity: Better oxygen delivery to the brain
+• Increased Willpower and Discipline: Mastering cold exposure builds mental toughness
+• Better Mood: Triggers endorphin and dopamine release
+
+THE WIM HOF POWER BREATHING PROTOCOL:
+
+ROUND 1-3 (repeat for 3-4 rounds):
+1. Inhale FULLY through the nose/mouth — expand chest and belly completely
+2. Exhale PASSIVELY — just release, no forced exhale
+3. Repeat rapidly 30-40 times
+4. After last exhale — HOLD the exhale (lungs empty) as long as comfortable
+5. When you need to breathe — take one big recovery breath, hold 15 sec
+6. Exhale, rest 30 sec — then begin next round
+
+IMPORTANT SAFETY: Always practice seated or lying down. NEVER near water. You may feel tingling, light-headedness, or euphoria — this is normal.
+
+COLD EXPOSURE COMBINATION: After Wim Hof breathing, the body is primed for cold exposure. End showers with 30-90 seconds cold. This combination maximally activates the sympathetic nervous system then parasympathetic recovery — the ultimate performance cycle.
+
+RESOURCES (Funk Roberts' Over 40 Alpha):
+• Video: Wim Hof Power Breathing Guided Session
+• Audio: Power Breathing Guided Session
+• Bonus: Power Breathing Benefits for Men Over 40 (mp3)`,
+    protocol: [
+      `Sit or lie down — NEVER stand or near water`,
+      `Take 30-40 rapid, full breaths — in through nose, passive exhale`,
+      `After last exhale — hold breath (empty lungs) as long as comfortable`,
+      `Recovery breath: inhale fully, hold 15 sec, then exhale`,
+      `Repeat for 3-4 rounds total`,
+      `Combine with 30-90 sec cold shower after breathing for maximum benefit`,
+      `Practice 3-4x per week — morning is ideal`,
+    ],
+    sourceRef: "Funk Roberts — Wim Hof Power Breathing for Men Over 40",
+  },
+  {
+    id: "fr-153",
+    speakerId: "funk-roberts",
+    topic: ["stress", "cortisol", "breathwork", "recovery", "testosterone"],
+    tags: ["stress reduction pillar", "cortisol", "fight or flight", "nervous system", "4-2-6-2 breathing", "cold therapy", "journaling"],
+    content: `THE STRESS REDUCTION PILLAR — Calm the Nervous System, Lower Cortisol, Reclaim Control
+
+THE PROBLEM: Most men over 40 are living in constant 'fight or flight' mode. Work pressure, financial responsibilities, family obligations, poor sleep, social media keep the body in chronic stress. When stress remains elevated too long:
+• Cortisol increases → Testosterone decreases
+• Belly fat increases → Recovery suffers
+• Sleep quality declines → Energy drops
+• Motivation decreases → Anxiety and irritability rise
+
+THE SOLUTION: Not to eliminate stress — but to manage and RECOVER from it.
+
+THE STRESS REDUCTION PILLAR RULES:
+
+Rule #1 — PRACTICE BREATHWORK DAILY: Breathwork is the fastest way to shift from stressed to relaxed.
+Daily Minimum: 5 minutes. Protocol: 4-2-6-2 Breathing:
+• Inhale through nose 4 sec → Hold 2 sec → Exhale through nose 6 sec → Hold 2 sec
+
+Rule #2 — COLD THERAPY (1-3x per week): Cold showers or cold water immersion activate the vagus nerve, reduce inflammation, and teach the nervous system to tolerate stress. Start with 30-60 sec cold at end of shower.
+
+Rule #3 — LIMIT SCREEN/NEWS EXPOSURE: Set phone-free periods. No news first 30 min of morning. No screens 60 min before bed. Constant digital input keeps the nervous system activated.
+
+Rule #4 — JOURNALING (5-10 min daily): Brain dump thoughts before bed — offloads mental load from the prefrontal cortex. Write 3 things you're grateful for + 1 intention for tomorrow.
+
+Rule #5 — NATURE & MOVEMENT: Walking in nature (even 10-15 min) lowers cortisol measurably. Combine with grounding (barefoot on grass/earth).
+
+Rule #6 — CONNECTION & COMMUNITY: Isolation is a cortisol driver. Regular connection with purpose-aligned men, brotherhood, and meaningful relationships is physiologically protective.`,
+    protocol: [
+      `Daily: 5 min 4-2-6-2 breathing (4 in, 2 hold, 6 out, 2 hold)`,
+      `1-3x/week: Cold shower 30-60 sec at end — activates vagus nerve`,
+      `No phone/news for first 30 min of morning — protect your nervous system`,
+      `No screens 60 min before bed`,
+      `5-10 min journaling before bed: brain dump + 3 gratitudes + 1 tomorrow intention`,
+      `10-15 min nature walk — measurably lowers cortisol`,
+      `Maintain brotherhood and meaningful male connection`,
+    ],
+    sourceRef: "Funk Roberts — Stress Reduction Pillar Rules",
+  },
+  {
+    id: "fr-154",
+    speakerId: "funk-roberts",
+    topic: ["supplements", "vitamins", "nutrition", "hormones"],
+    tags: ["vitamins men over 40", "essential vitamins", "magnesium", "vitamin D", "zinc", "omega-3", "B vitamins"],
+    content: `BEST VITAMINS FOR MEN OVER 40 — Complete Guide
+(Funk Roberts — Over 40 Alpha Podcast Episode 188)
+
+THE NON-NEGOTIABLE VITAMIN FOUNDATION FOR MEN OVER 40:
+
+1. VITAMIN D3 + K2 (5,000-10,000 IU D3 with 100-200mcg K2):
+Critical for testosterone production, bone density, immune function, mood, and cardiovascular health. Most men over 40 are severely deficient. D3 without K2 can cause calcium to deposit in arteries — always pair them. Test your levels annually (optimal: 60-80 ng/mL).
+
+2. MAGNESIUM GLYCINATE (400-500mg before bed):
+The mineral almost every man is deficient in. Required for 300+ enzymatic reactions. Directly involved in testosterone production. Magnesium glycinate is the most bioavailable form — better absorbed, doesn't cause digestive issues. Also improves sleep quality dramatically.
+
+3. OMEGA-3 FISH OIL (2-4g EPA/DHA daily):
+Reduces systemic inflammation (the root cause of most age-related decline), supports brain function, reduces triglycerides, improves joint health, and enhances heart health. Take with meals containing fat.
+
+4. ZINC (25-40mg daily):
+Essential for testosterone synthesis — zinc deficiency directly causes testosterone drop. Also critical for immune function, wound healing, and prostate health. Zinc picolinate or gluconate are best absorbed forms. Take with food to prevent nausea.
+
+5. B-COMPLEX VITAMINS:
+B12 (especially methylcobalamin), B6, and folate are critical for energy metabolism, nervous system, and red blood cell production. B12 absorption declines significantly with age. Many men are functionally deficient even with normal blood tests. Methylated forms (methylcobalamin, methylfolate) bypass MTHFR gene variants that prevent conversion.
+
+6. VITAMIN C (500-1,000mg):
+Reduces cortisol response post-exercise, supports immune function, collagen synthesis for joint health, and acts as an antioxidant protecting testosterone-producing Leydig cells.
+
+7. ASHWAGANDHA (300-600mg KSM-66 extract):
+The most evidence-backed adaptogen for men over 40. Reduces cortisol by 25-30%, directly supports testosterone production, improves sleep quality, and builds stress resilience.
+
+8. CREATINE MONOHYDRATE (3-5g daily):
+One of the most researched and proven supplements. Builds strength and muscle, supports brain health, improves power output, and helps counter age-related muscle loss (sarcopenia).`,
+    quote: `Most men over 40 are walking around vitamin D, magnesium, zinc, and omega-3 deficient — and wondering why they feel like crap, have low testosterone, and can't sleep.`,
+    protocol: [
+      `Vitamin D3 (5,000-10,000 IU) + K2 (100-200mcg) — take with fat-containing meal`,
+      `Magnesium Glycinate (400-500mg) — before bed for sleep and testosterone`,
+      `Omega-3 Fish Oil (2-4g EPA/DHA) — with meals`,
+      `Zinc Picolinate (25-40mg) — with food to prevent nausea`,
+      `B-Complex with methylated forms (methylcobalamin B12, methylfolate) — morning`,
+      `Vitamin C (500-1,000mg) — post-workout to lower cortisol`,
+      `Ashwagandha KSM-66 (300-600mg) — morning or before bed`,
+      `Creatine Monohydrate (3-5g daily) — any time, consistency matters most`,
+    ],
+    sourceRef: "Funk Roberts — Podcast Episode 188: Best Vitamins for Men Over 40",
+  },
+  {
+    id: "fr-155",
+    speakerId: "navin-khan",
+    topic: ["supplements", "nutrition", "performance", "hormones", "recovery"],
+    tags: ["supplement stacks", "foundational supplements", "testosterone supplements", "muscle supplements", "fat loss supplements", "Navin Khan", "Rocktomic"],
+    content: `COMPLETE SUPPLEMENT STACK GUIDE FOR MEN OVER 40
+By Navin Khan — Sports Nutritionist, Exercise Physiologist, Head of R&D at Rocktomic Labs
+
+THE CORE STRUGGLES SUPPLEMENTS ADDRESS AFTER 40:
+• Energy crashes from declining testosterone, hydration issues, poor nutrient absorption
+• Muscle loss (sarcopenia) — ~1% muscle loss per year after 40 if not actively countered
+• Slower recovery — nagging injuries, longer soreness, reduced protein synthesis
+• Hormonal shifts — testosterone drops, cortisol rises, insulin sensitivity worsens
+• Digestive health — gut function and nutrient absorption decline
+• Inflammation & joint pain — stiffness, aches, reduced mobility
+
+THE 5 STACK CATEGORIES:
+
+1. FOUNDATIONAL HEALTH STACK (The Base):
+Multivitamin + Vitamin D3K2 + Magnesium → Replaces nutrient gaps that directly impact testosterone, energy, and immune function. Without these cofactors, testosterone production and recovery slow down.
+Omega-3s → Fight systemic inflammation, lower triglycerides, keep arteries flexible, enhance hormone receptor function.
+Electrolytes/Hydration → Sodium-potassium balance critical for nerve conduction, muscle contraction, blood pressure.
+
+2. HORMONE & TESTOSTERONE STACK:
+Ashwagandha KSM-66 (600mg) — reduces cortisol 25-30%, boosts testosterone naturally
+Zinc (25-40mg) + Magnesium — direct precursors to testosterone synthesis
+Vitamin D3K2 (5,000+ IU) — testosterone production requires adequate Vitamin D
+Tongkat Ali (200-400mg) — increases free testosterone by binding SHBG
+Fenugreek (500mg) — reduces SHBG, increases free testosterone bioavailability
+
+3. MUSCLE & PERFORMANCE STACK:
+Creatine Monohydrate (5g daily) — #1 evidence-backed supplement for strength and muscle
+Whey Protein (25-40g post-workout) — complete amino acid profile for muscle protein synthesis
+HMB (3g daily) — reduces muscle breakdown, preserves mass during cutting
+Beta-Alanine (3.2g) — improves muscular endurance
+
+4. RECOVERY & JOINT STACK:
+Collagen Peptides (10-15g) + Vitamin C — joint repair and tendon health
+Turmeric/Curcumin (500-1,000mg with piperine) — systemic anti-inflammatory
+Glucosamine/Chondroitin — joint cartilage support
+MSM (1,000-2,000mg) — reduces joint pain and inflammation
+
+5. FAT LOSS & METABOLIC STACK:
+Berberine (500mg 3x daily) — blood sugar regulation, insulin sensitivity (as effective as metformin)
+CLA (3g daily) — reduces body fat, preserves lean muscle
+Green Tea Extract/EGCG — mild thermogenic, antioxidant protection
+Fiber (psyllium husk, 10g) — reduces hunger, stabilizes blood sugar, gut health`,
+    protocol: [
+      `MORNING: D3K2 + Magnesium + Omega-3 + B-Complex + Ashwagandha`,
+      `PRE-WORKOUT: Creatine + Electrolytes`,
+      `POST-WORKOUT: Whey Protein (25-40g) + Vitamin C`,
+      `WITH DINNER: Zinc + Turmeric/Curcumin + Omega-3`,
+      `BEFORE BED: Magnesium Glycinate (400mg) + Collagen Peptides`,
+      `DAILY: Berberine with meals if targeting fat loss or blood sugar`,
+      `WEEKLY: Audit how you feel — adjust based on energy, recovery, sleep quality`,
+    ],
+    sourceRef: "Navin Khan / Rocktomic Labs — Over 40 Supplement Coaching Guide",
+  },
+  {
+    id: "fr-156",
+    speakerId: "funk-roberts",
+    topic: ["supplements", "nutrition", "protein", "muscle"],
+    tags: ["protein powder", "whey protein", "Alpha Whey Armor", "clean protein", "muscle building supplements", "soy lecithin"],
+    content: `PROTEIN POWDER & CLEAN SUPPLEMENT GUIDE FOR MEN OVER 40
+(Funk Roberts — Over 40 Alpha Supplements)
+
+WHY PROTEIN IS THE #1 SUPPLEMENT PRIORITY AFTER 40:
+After 40, muscle protein synthesis declines and the anabolic response to protein weakens. To preserve and build muscle you need higher protein intake — 0.8-1.2g per pound of bodyweight daily. Most men don't hit this through food alone. Protein powder fills the gap.
+
+WHAT TO LOOK FOR IN A CLEAN PROTEIN POWDER:
+✓ Whey protein isolate or concentrate from grass-fed cows
+✓ 25-30g protein per serving
+✓ Minimal ingredients — ideally under 10
+✓ No artificial sweeteners (sucralose, aspartame, acesulfame K)
+✓ No fillers, gums, or unnecessary additives
+✓ Digestive enzymes (lactase, protease) for better absorption
+
+WHAT TO AVOID:
+✗ Soy lecithin — processed additive with no muscle/recovery benefit, can cause digestive issues
+✗ Proprietary blends — hide cheap protein amounts
+✗ Mass-market powders with artificial colors and flavors
+✗ Cheap protein blends (collagen counted as protein)
+
+FUNK'S ALPHA WHEY ARMOR APPROACH:
+Designed specifically for men over 40: cleaner formulation, easier to digest, built for lean muscle, recovery, and hormonal performance. No soy lecithin, no artificial sweeteners, enzyme-enhanced.
+
+SUPPLEMENT Q&A — SOY LECITHIN:
+Soy lecithin is added to improve texture and mixability, NOT for health benefit. While it's not highly harmful, it's a processing additive. The concern: many powders containing soy lecithin also have artificial sweeteners and fillers. Men with soy sensitivity should avoid.
+
+PROTEIN TIMING FOR MEN OVER 40:
+• 30-40g within 30-60 min post-workout (the muscle protein synthesis window is blunted after 40 — don't skip this)
+• Morning: 30-40g at breakfast to stop overnight muscle catabolism
+• Before bed: 20-30g casein protein to provide slow-release amino acids overnight`,
+    protocol: [
+      `Target 0.8-1.2g protein per pound bodyweight daily`,
+      `Post-workout: 30-40g whey protein within 30-60 min`,
+      `Morning: 30-40g protein at breakfast — stops overnight catabolism`,
+      `Pre-sleep: 20-30g casein protein for overnight muscle repair`,
+      `Choose protein powders with <10 ingredients, no artificial sweeteners`,
+      `Look for digestive enzymes in formula — critical for men over 40's absorption`,
+      `Avoid powders with soy lecithin, artificial colors, or proprietary blends`,
+    ],
+    sourceRef: "Funk Roberts — Protein Powder & Over 40 Alpha Supplement Guide",
+  },
+  {
+    id: "fr-157",
+    speakerId: "navin-khan",
+    topic: ["supplements", "nutrition", "testosterone", "fat loss", "sleep", "joints"],
+    tags: ["supplement stacks by problem", "top 10 struggles men over 40", "low testosterone stack", "belly fat stack", "joint pain stack", "brain fog stack"],
+    content: `OVER 40 ALPHA SUPPLEMENT STACKS — BY PROBLEM
+(Navin Khan / Rocktomic Labs for Funk Roberts)
+
+TOP 10 STRUGGLES MEN OVER 40 FACE WITH TARGETED SUPPLEMENT STACKS:
+
+1. LOW TESTOSTERONE & HORMONAL IMBALANCE
+Stack: Natural testosterone booster (herbs + minerals), Vitamin D3K2, Zinc, Magnesium, Ashwagandha, Tongkat Ali
+Goal: Reignite manhood, energy, and confidence
+
+2. LOW ENERGY & CHRONIC FATIGUE
+Stack: Adaptogens (Ashwagandha, Rhodiola), B-Complex, CoQ10, Greens/Superfood powder
+Goal: Fight fatigue, get all-day energy without coffee crashes
+
+3. BELLY FAT & WEIGHT GAIN
+Stack: Omega-3 fish oil, Berberine (blood sugar support), CLA, Thermogenic fat-burner
+Goal: Burn stubborn belly fat, improve insulin sensitivity, get leaner
+
+4. POOR SLEEP & RECOVERY
+Stack: Magnesium Glycinate, Glycine, GABA, L-Theanine, Melatonin (0.5-1mg low dose)
+Goal: Deep restorative sleep for more energy, muscle, and better mornings
+
+5. JOINT PAIN, ACHES & LOSS OF MOBILITY
+Stack: Collagen peptides + Vitamin C, Turmeric/Curcumin, MSM, Glucosamine, Omega-3
+Goal: Relieve joint pain and move like you did 20 years ago
+
+6. MUSCLE LOSS & STRENGTH (Sarcopenia)
+Stack: Whey Protein, Creatine Monohydrate, HMB, Leucine-rich aminos
+Goal: Rebuild lost muscle and feel strong again
+
+7. BRAIN FOG & LACK OF FOCUS
+Stack: Lion's Mane mushroom, Alpha-GPC, Bacopa, Omega-3 DHA, Ginkgo Biloba
+Goal: Boost focus, memory, and mental energy
+
+8. INFLAMMATION & IMMUNE WEAKNESS
+Stack: Turmeric/Curcumin (high dose), Vitamin C, Vitamin D3, Quercetin, Zinc
+Goal: Reduce systemic inflammation — the root of most age-related decline
+
+9. DIGESTIVE HEALTH & GUT ISSUES
+Stack: Probiotic (multi-strain), Prebiotic fiber, Digestive enzymes, L-Glutamine
+Goal: Restore gut health — the foundation of nutrient absorption and immunity
+
+10. STRESS & ANXIETY
+Stack: Ashwagandha (KSM-66), Rhodiola Rosea, L-Theanine, Magnesium, Phosphatidylserine
+Goal: Lower cortisol, regulate stress response, improve mental resilience`,
+    protocol: [
+      `Identify your #1 struggle first — address it with a targeted 3-4 supplement stack`,
+      `Start foundational stack first (D3K2 + Magnesium + Omega-3 + Zinc) before adding targeted`,
+      `Low T: Add Ashwagandha KSM-66 + Tongkat Ali + Zinc to foundation`,
+      `Sleep issues: Add Magnesium Glycinate + L-Theanine + low-dose melatonin (0.5-1mg)`,
+      `Joint pain: Add Collagen + Vitamin C + Turmeric/Curcumin + MSM`,
+      `Brain fog: Add Lion's Mane + Alpha-GPC + Omega-3 DHA`,
+      `Give any new supplement 4-8 weeks to assess effectiveness`,
+    ],
+    sourceRef: "Navin Khan / Rocktomic Labs — Over 40 Alpha Supplement Stacks Guide",
+  },
+  {
+    id: "fr-158",
+    speakerId: "funk-roberts",
+    topic: ["meditation", "mindset", "stress", "recovery"],
+    tags: ["meditation for men", "how to meditate", "meditation benefits", "cortisol", "testosterone", "5 minute meditation"],
+    content: `MEDITATION FOR MEN OVER 40 — The Complete Framework
+
+WHY MEDITATION IS A PERFORMANCE TOOL FOR MEN:
+Meditation isn't mystical or spiritual fluff — it's brain training. Just as lifting weights builds muscle, meditation builds the mental muscle of focus, self-regulation, and stress resilience. For men over 40, it directly lowers cortisol, which means directly supporting testosterone.
+
+THE SCIENCE OF MEDITATION AND MEN'S HEALTH:
+• Reduces cortisol and chronic stress response
+• Increases gray matter density in the prefrontal cortex (decision-making, focus)
+• Decreases amygdala reactivity (fear, anxiety, emotional overreaction)
+• Improves heart rate variability — the key marker of recovery capacity
+• Reduces systemic inflammation markers (CRP, IL-6)
+• Improves sleep quality and testosterone production
+
+5 MYTHS ABOUT MEDITATION (BUSTED):
+Myth 1: 'You have to empty your mind' — WRONG. The practice IS noticing thoughts and returning attention. Every redirect is a mental rep.
+Myth 2: 'It takes hours a day' — WRONG. 5-10 minutes daily produces measurable brain changes.
+Myth 3: 'It's only for spiritual people' — WRONG. Elite athletes, military operators, and CEOs use it.
+Myth 4: 'I'm too busy' — WRONG. Men who meditate report getting MORE done with LESS stress.
+Myth 5: 'If I fall asleep, I'm doing it wrong' — WRONG. Rest is part of the practice.
+
+THE 5-MINUTE MEDITATION PROTOCOL FOR BUSY MEN:
+1. Set a timer for 5 minutes — remove time pressure
+2. Sit upright (don't lie down) — alert relaxation
+3. Close eyes, take 3 deep breaths to transition
+4. Focus on the sensation of breathing at the nostrils or chest
+5. When thoughts arise (they will), notice without judgment and return to breath
+6. At timer — open eyes, take 1 intentional breath before moving
+
+WHEN TO MEDITATE:
+• Morning: Sets calm, focused tone for the day — reduces cortisol spike after waking
+• Pre-workout: 5 min focused breathing improves performance and mind-muscle connection
+• Post-workout: Accelerates parasympathetic recovery
+• Before bed: Most powerful — lowers cortisol, raises melatonin, improves sleep quality`,
+    quote: `Meditation is not about becoming a different person. It's about training your awareness and gaining a healthier perspective on yourself. For men over 40, it's the performance tool that makes all other tools work better.`,
+    protocol: [
+      `Start with 5 minutes daily — morning is ideal`,
+      `Sit upright, set a timer, close eyes, take 3 deep breaths`,
+      `Focus on breath sensation — nostrils, chest, or belly`,
+      `When thoughts arise: notice, don't judge, return to breath (each return IS the practice)`,
+      `Build to 10-15 min over 4 weeks`,
+      `Pre-bed meditation: specifically lowers cortisol and raises melatonin`,
+      `Track consistency for 21 days — the habit forms by day 21`,
+    ],
+    sourceRef: "Funk Roberts — Meditation for Men Over 40 Framework",
+  },
+  {
+    id: "fr-159",
+    speakerId: "funk-roberts",
+    topic: ["meditation", "mindset", "recovery", "stress"],
+    tags: ["REAL Alpha meditation", "21-day meditation challenge", "loving kindness", "self inquiry", "surrender meditation", "gratitude meditation"],
+    content: `THE REAL ALPHA MEDITATION PROGRAMS — Complete Suite
+
+THE 21-DAY ALPHA MEDITATION CHALLENGE:
+Funk Roberts' structured 21-day program to build a daily meditation habit. Covers 7 different meditation styles over 3 weeks, building from foundation to mastery.
+
+WEEK 1 — Foundation (Days 1-7): Focused attention meditation. Learning to use the breath as an anchor. 5-10 min sessions. Goal: build the daily habit and understand the basic technique.
+
+WEEK 2 — Deepening (Days 8-14): Body scan meditation + loving-kindness meditation. Releases held tension in the body. Builds self-compassion and reduces emotional reactivity.
+
+WEEK 3 — Integration (Days 15-21): Visualization + gratitude meditation + open awareness. Using meditation to connect with purpose, vision, and gratitude for life in the second half.
+
+LOVING-KINDNESS MEDITATION PROTOCOL:
+1. Close eyes, take 3 deep breaths
+2. Bring to mind someone you love easily — feel that warmth
+3. Direct these phrases to them: 'May you be happy. May you be healthy. May you be safe. May you live with ease.'
+4. Expand to yourself: 'May I be happy. May I be healthy. May I be safe. May I live with ease.'
+5. Expand to neutral people, then difficult people, then all beings
+Result: Reduces cortisol, increases oxytocin, improves heart health and relationship quality.
+
+SELF-INQUIRY MEDITATION:
+Sit quietly and ask: 'Who am I beyond my roles and responsibilities?' Notice the witness behind all thoughts. This practice builds identity stability — crucial for men over 40 navigating life transitions.
+
+SURRENDER MEDITATION:
+Actively release control of outcomes during meditation. Breathe in acceptance, breathe out resistance. Statement: 'I release what I cannot control. I act on what I can. I trust the process.'
+
+GRATITUDE MEDITATION:
+Spend 5 min mentally reviewing 3 specific things you're grateful for — vivid and detailed, not generic. Gratitude activates the prefrontal cortex and reduces the brain's default threat-detection mode.
+
+POSITIVE PSYCHOLOGY MODULE (Funk Roberts):
+8-week framework covering: optimism training, resilience building, strength identification, positive relationships, mindfulness and flow, finding meaning and purpose in the second half of life.`,
+    protocol: [
+      `21-Day Challenge: 5-10 min daily — track every session`,
+      `Week 1: Focused attention on breath (5-10 min)`,
+      `Week 2: Body scan + loving-kindness meditation`,
+      `Week 3: Visualization + gratitude + open awareness`,
+      `Loving-kindness: 5 min — expand warmth from loved one → self → all`,
+      `Gratitude meditation: 3 specific vivid gratitudes for 5 min daily`,
+      `Surrender meditation: breathe in acceptance, breathe out resistance`,
+    ],
+    sourceRef: "Funk Roberts — 21-Day REAL Alpha Meditation Challenge",
+  },
+  {
+    id: "fr-160",
+    speakerId: "funk-roberts",
+    topic: ["mindset", "meditation", "gratitude", "resilience", "leadership"],
+    tags: ["positive psychology", "gratitude practice", "resilience", "optimism", "purpose", "second half of life", "meaning"],
+    content: `POSITIVE PSYCHOLOGY & GRATITUDE FOR MEN OVER 40
+
+WHY POSITIVE PSYCHOLOGY MATTERS IN THE SECOND HALF:
+Men over 40 often operate from a deficit mindset — focusing on what's lost (youth, hormones, speed, opportunity). Positive psychology retrains the brain to scan for resources, strengths, and possibilities. This isn't toxic positivity — it's neurological reprogramming.
+
+THE SCIENCE:
+• Gratitude practice activates the prefrontal cortex — the same region responsible for discipline and decision-making
+• Regular gratitude reduces cortisol by up to 23%
+• Optimistic men have better cardiovascular outcomes, stronger immune function, and live longer
+• Resilience is trainable — it's a skill, not a personality trait
+
+THE 8-WEEK POSITIVE PSYCHOLOGY MODULE:
+Week 1: Introduction to positive psychology + personal happiness/wellbeing assessment
+Week 2: The science of optimism — cognitive restructuring, reframing negative scenarios
+Week 3: Resilience — strategies for bouncing back from adversity; analyze past challenges
+Week 4: The Happiness Advantage — using positive emotions to improve performance
+Week 5: Strengths and virtues — identify personal strengths, apply in daily life
+Week 6: Positive relationships — build and maintain meaningful connections
+Week 7: Mindfulness and flow — find your flow activities and daily mindfulness practice
+Week 8: Meaning and purpose — craft your personal mission statement for the second half
+
+DAILY GRATITUDE PROTOCOL:
+Morning: Write 3 specific things you're grateful for (vivid, not generic). 'I'm grateful for my health' is weak. 'I'm grateful for the fact that I woke up today and my legs work and I can train' is powerful.
+
+Evening: Write 1 thing that went well today + what you did to make it happen. This trains the brain to attribute good outcomes to your actions (internal locus of control).
+
+THE RESILIENCE FRAMEWORK:
+1. Acknowledge the difficulty — don't minimize it
+2. Identify what you can control vs. what you can't
+3. Find the growth opportunity in the challenge
+4. Take one concrete action forward
+5. Seek support — resilience is not done alone`,
+    protocol: [
+      `Morning: Write 3 specific, vivid gratitudes — not generic`,
+      `Evening: 1 thing that went well + what YOU did to make it happen`,
+      `Weekly: Identify your top 3 personal strengths and how you used them`,
+      `Monthly: Review and update your personal mission statement`,
+      `Daily: Reframe one negative situation — what is it teaching you?`,
+      `Build positive male relationships — schedule connection intentionally`,
+    ],
+    sourceRef: "Funk Roberts — Positive Psychology & Gratitude for Men Over 40",
+  },
+  {
+    id: "fr-161",
+    speakerId: "funk-roberts",
+    topic: ["sleep", "hormones", "nutrition", "recovery", "testosterone"],
+    tags: ["sleep science", "testosterone and sleep", "cortisol sleep", "glucose control sleep", "ghrelin leptin", "sleep deprivation effects"],
+    content: `SLEEP SCIENCE FOR MEN OVER 40 — How Sleep Deprivation Destroys Your Body
+
+THE FOUR HORMONAL DISASTERS FROM POOR SLEEP:
+
+1. TESTOSTERONE COLLAPSE:
+Research shows that just ONE WEEK of sleep deprivation leaves men with testosterone levels equivalent to a man 10-15 years older. This isn't gradual — it's rapid and severe. Without optimal testosterone, it becomes harder to stay lean, build muscle, and maintain drive and motivation.
+
+2. IMPAIRED GLUCOSE CONTROL:
+Poor sleep destroys how your body handles glucose. With good glucose control, carbs go into muscle tissue for repair and energy. With poor sleep-induced insulin resistance, the same carbs go straight to body fat — especially VISCERAL (belly) fat around the organs. This is why many men gain fat rapidly when they're sleep-deprived despite not changing their diet.
+
+3. ELEVATED CORTISOL:
+Sleep deprivation directly spikes cortisol — the tissue-breaking, muscle-destroying, fat-storing stress hormone. High cortisol means: muscle loss, belly fat accumulation, testosterone suppression, and impaired recovery. The more you train without adequate sleep, the more cortisol dominates.
+
+4. GHRELIN & LEPTIN DISRUPTION:
+Ghrelin (hunger hormone) rises without adequate sleep — you eat more. Leptin (fullness hormone) falls — you don't feel satisfied. The result: uncontrollable hunger, carb cravings, and weight gain that feels impossible to stop.
+
+WHAT 7+ HOURS DOES FOR MEN OVER 40:
+• Maximizes testosterone production (90% produced during sleep)
+• Maintains insulin sensitivity — carbs fuel muscle, not fat
+• Normalizes cortisol — allows recovery and muscle building
+• Regulates appetite hormones — makes healthy eating easier
+• Releases Growth Hormone — the anti-aging, fat-burning, muscle-building hormone
+• Clears amyloid plaques from the brain — reduces Alzheimer's risk`,
+    quote: `One week of sleep deprivation leaves men with testosterone levels equivalent to a man 10-15 years older. Sleep is not optional — it's the foundation of your hormonal health.`,
+    sourceRef: "Funk Roberts — Sleep & Recovery Science (Pillar 2)",
+  },
+  {
+    id: "fr-162",
+    speakerId: "funk-roberts",
+    topic: ["training", "nutrition", "sleep", "mindset", "supplements", "lifestyle"],
+    tags: ["implementation plan", "Alpha system", "complete program", "men over 40 system", "all pillars", "Second Half Strong"],
+    content: `THE SECOND HALF STRONG IMPLEMENTATION PLAN — Complete System Overview
+(Funk Roberts — Over 40 Alpha)
+
+THE COMPLETE MEN OVER 40 HEALTH OPERATING SYSTEM:
+This is the full integration of all pillars for men who are serious about the second half of their life.
+
+PILLAR 1 — TRAINING:
+• Resistance Training: 3-4x per week, compound movements, moderate weight, higher reps (10-15)
+• HIIT/Metabolic Training: 2x per week, 20-30 min sessions with full recovery between
+• Mobility Work: Daily, 10-15 min — non-negotiable for men over 40
+• Key principle: Train smarter, not harder. Consistency over intensity.
+
+PILLAR 2 — NUTRITION:
+• Protein: 0.8-1.2g per pound bodyweight — the non-negotiable foundation
+• Anti-inflammatory base: whole foods, minimal processed, eliminate seed oils
+• Intermittent fasting optional: 16:8 window works well for many men over 40
+• Carb timing: cluster carbs around training
+• Key principle: Eat to perform, recover, and support hormones — not just for weight
+
+PILLAR 3 — SLEEP:
+• Target: 7-9 hours total, 3-4 hours restorative (deep + REM)
+• Consistent wake time every day
+• Alpha Wind-Down Routine: screens off 60 min before bed, 4-2-6-2 breathing
+
+PILLAR 4 — STRESS MANAGEMENT:
+• Daily breathwork: 5 min minimum
+• Daily meditation: 5-10 min
+• Cold therapy: 1-3x per week
+• Journaling: 5 min evening gratitude + brain dump
+
+PILLAR 5 — SUPPLEMENTS:
+• Foundation: D3K2 + Magnesium + Omega-3 + Zinc + B-Complex
+• Protein: 30-40g whey post-workout and morning
+• Performance: Creatine 5g daily
+• Testosterone: Ashwagandha + Tongkat Ali (if needed)
+
+PILLAR 6 — MINDSET (REAL Alpha):
+• Radical Ownership of all outcomes
+• Evolution: constant growth mindset
+• Alignment: mind, body, purpose unified
+• Leadership: lead yourself and family first
+
+THE DAILY ALPHA ROUTINE:
+Morning: Wake anchor time → sunlight → movement → hydrate → protein breakfast → supplements
+Midday: Training → post-workout protein → refuel
+Evening: Wind-down 60 min before bed → breathwork → meditation/journaling → sleep 10 PM-7 AM target`,
+    protocol: [
+      `Train 3-4x strength + 2x metabolic per week + daily 10-15 min mobility`,
+      `Protein: 0.8-1.2g per pound bodyweight daily`,
+      `Sleep: 7-9 hours, consistent wake time, 60-min screen-free wind-down`,
+      `Daily: 5 min breathwork + 5 min meditation + evening journaling`,
+      `Foundation supplements: D3K2 + Magnesium + Omega-3 + Zinc + B-Complex daily`,
+      `Creatine 5g daily + Whey 25-40g post-workout`,
+      `REAL Alpha: Radical Ownership → Evolution → Alignment → Leadership`,
+    ],
+    sourceRef: "Funk Roberts — Second Half Strong Complete Implementation Plan",
+  },
 ];
 
 export const topicIndex: Record<string, string[]> = {
