@@ -138,7 +138,7 @@ Always provide actionable advice. When you have specific protocols from the know
       try {
         const anthropicStream = await client.messages.create({
           model: "claude-opus-4-5",
-          max_tokens: 2048,
+          max_tokens: 4096,
           system: systemPrompt,
           messages: messages ?? [],
           stream: true,
@@ -149,8 +149,16 @@ Always provide actionable advice. When you have specific protocols from the know
           }
         }
       } catch (e) {
-        console.error(e);
-        controller.enqueue(encoder.encode("I encountered an error. Please try again."));
+        console.error("Claude API error:", e);
+        const errDetail = e instanceof Error ? e.message : String(e);
+        const msg = errDetail.includes("Could not process image") || errDetail.includes("media_type")
+          ? "Image could not be processed — please try a different format or a clearer photo."
+          : errDetail.includes("too large") || errDetail.includes("size")
+          ? "The image is too large. Please use a smaller photo and try again."
+          : errDetail.includes("credit") || errDetail.includes("billing")
+          ? "API billing issue. Please contact support."
+          : "Something went wrong. Please try again.";
+        controller.enqueue(encoder.encode(msg));
       } finally {
         controller.close();
       }

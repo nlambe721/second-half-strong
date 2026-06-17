@@ -5,7 +5,9 @@ import { useSearchParams } from "next/navigation";
 interface Message {
   role: "user" | "assistant";
   content: string;
-  image?: string; // preview URL
+  image?: string;       // preview data URL (display only)
+  imageData?: string;   // raw base64 for API call
+  imageMediaType?: string; // actual MIME type (image/jpeg, image/png, etc.)
 }
 
 interface Source {
@@ -152,6 +154,35 @@ const QUICK_STARTS: Record<Mode, { icon: string; title: string; sub: string; que
   ],
 };
 
+// Compress an image to stay within Claude API limits (~5MB base64 safe)
+async function compressImage(file: File): Promise<{ base64: string; mediaType: string }> {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    const url = URL.createObjectURL(file);
+    img.onload = () => {
+      URL.revokeObjectURL(url);
+      const canvas = document.createElement("canvas");
+      // Max dimension 1600px — keeps detail for blood work / labels
+      const MAX = 1600;
+      let { width, height } = img;
+      if (width > MAX || height > MAX) {
+        if (width > height) { height = Math.round((height * MAX) / width); width = MAX; }
+        else { width = Math.round((width * MAX) / height); height = MAX; }
+      }
+      canvas.width = width;
+      canvas.height = height;
+      const ctx = canvas.getContext("2d")!;
+      ctx.drawImage(img, 0, 0, width, height);
+      // Always output as JPEG for consistency and smaller size
+      const dataUrl = canvas.toDataURL("image/jpeg", 0.88);
+      const base64 = dataUrl.split(",")[1];
+      resolve({ base64, mediaType: "image/jpeg" });
+    };
+    img.onerror = reject;
+    img.src = url;
+  });
+}
+
 function SourcesPanel({ sources }: { sources: Source[] }) {
   return (
     <div className="w-52 bg-[#0f1117] border-l border-gray-800/60 flex flex-col flex-shrink-0 overflow-hidden">
@@ -198,7 +229,8 @@ function ChatInner() {
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
   const [sources, setSources] = useState<Source[]>([]);
-  const [pendingFile, setPendingFile] = useState<{ data: string; mediaType: string; preview: string; isPdf: boolean } | null>(null);
+  const [pendingFile, setPendingFile] = useState<{ base64: string; mediaType: string; preview: string; isPdf: boolean; rawData?: string } | null>(null);
+  const [processingFile, setProcessingFile] = useState(false);
   const bottomRef = useRef<HTMLDivElement>(null);
   const fileRef = useRef<HTMLInputElement>(null);
   const cameraRef = useRef<HTMLInputElement>(null);
@@ -224,15 +256,31 @@ function ChatInner() {
     bottomRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages, loading]);
 
-  function handleFile(file: File) {
+  async function handleFile(file: File) {
     const isPdf = file.type === "application/pdf";
-    const reader = new FileReader();
-    reader.onload = (ev) => {
-      const result = ev.target?.result as string;
-      const base64 = result.split(",")[1];
-      setPendingFile({ data: base64, mediaType: file.type, preview: isPdf ? "" : result, isPdf });
-    };
-    reader.readAsDataURL(file);
+    setProcessingFile(true);
+    try {
+      if (isPdf) {
+        // PDFs — read as base64 directly
+        const reader = new FileReader();
+        reader.onload = (ev) => {
+          const result = ev.target?.result as string;
+          const base64 = result.split(",")[1];
+          setPendingFile({ base64, mediaType: "application/pdf", preview: "", isPdf: true });
+          setProcessingFile(false);
+        };
+        reader.onerror = () => setProcessingFile(false);
+        reader.readAsDataURL(file);
+      } else {
+        // Images — compress first to ensure compatibility + size limits
+        const { base64, mediaType } = await compressImage(file);
+        const preview = `data:${mediaType};base64,${base64}`;
+        setPendingFile({ base64, mediaType, preview, isPdf: false });
+        setProcessingFile(false);
+      }
+    } catch {
+      setProcessingFile(false);
+    }
   }
 
   async function updateSources(query: string) {
@@ -254,7 +302,12 @@ function ChatInner() {
     const userMsg: Message = {
       role: "user",
       content: content || (file?.isPdf ? "Please analyze this PDF document." : "Please analyze this image."),
-      ...(file && !file.isPdf ? { image: file.preview } : {}),
+      // Store all three: preview URL (display), raw base64 (API), media type (API)
+      ...(file && !file.isPdf ? {
+        image: file.preview,
+        imageData: file.base64,
+        imageMediaType: file.mediaType,
+      } : {}),
     };
 
     const newMessages = [...messages, userMsg];
@@ -270,13 +323,20 @@ function ChatInner() {
     setMessages((prev) => [...prev, assistantMsg]);
 
     try {
-      // Build API messages (exclude preview fields)
+      // Build API messages — use stored imageData/imageMediaType (not re-parsed from preview URL)
       const apiMessages = newMessages.map((m) => {
-        if (m.image) {
+        if (m.imageData && m.imageMediaType) {
           return {
             role: m.role,
             content: [
-              { type: "image", source: { type: "base64", media_type: "image/jpeg", data: m.image.split(",")[1] ?? "" } },
+              {
+                type: "image",
+                source: {
+                  type: "base64",
+                  media_type: m.imageMediaType,
+                  data: m.imageData,
+                },
+              },
               { type: "text", text: m.content },
             ],
           };
@@ -284,13 +344,20 @@ function ChatInner() {
         return { role: m.role, content: m.content };
       });
 
-      // If PDF, attach to last message
+      // If pending PDF, attach to the last message
       if (file?.isPdf) {
         const last = apiMessages[apiMessages.length - 1];
         apiMessages[apiMessages.length - 1] = {
           ...last,
           content: [
-            { type: "document", source: { type: "base64", media_type: "application/pdf", data: file.data } },
+            {
+              type: "document",
+              source: {
+                type: "base64",
+                media_type: "application/pdf",
+                data: file.base64,
+              },
+            },
             { type: "text", text: typeof last.content === "string" ? last.content : "" },
           ],
         };
@@ -301,6 +368,11 @@ function ChatInner() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ query: content, messages: apiMessages, mode }),
       });
+
+      if (!res.ok) {
+        const errText = await res.text();
+        throw new Error(`API error ${res.status}: ${errText}`);
+      }
 
       if (!res.body) throw new Error("No stream");
       const reader = res.body.getReader();
@@ -317,10 +389,14 @@ function ChatInner() {
         });
       }
     } catch (e) {
-      console.error(e);
+      console.error("Chat error:", e);
+      const errMsg = e instanceof Error ? e.message : "Unknown error";
       setMessages((prev) => {
         const updated = [...prev];
-        updated[updated.length - 1] = { role: "assistant", content: "Something went wrong. Please try again." };
+        updated[updated.length - 1] = {
+          role: "assistant",
+          content: `Something went wrong — please try again. ${errMsg.includes("API error") ? `(${errMsg})` : ""}`,
+        };
         return updated;
       });
     } finally {
@@ -434,7 +510,13 @@ function ChatInner() {
 
         {/* Input */}
         <div className="border-t border-gray-800/60 bg-[#0f1117] px-4 py-3 flex-shrink-0">
-          {pendingFile && (
+          {processingFile && (
+            <div className="flex items-center gap-2 mb-2 px-1">
+              <div className="h-10 w-10 rounded-lg bg-gray-800 border border-gray-700 flex items-center justify-center text-xs text-gray-400 animate-pulse">...</div>
+              <span className="text-gray-500 text-xs">Processing image...</span>
+            </div>
+          )}
+          {pendingFile && !processingFile && (
             <div className="flex items-center gap-2 mb-2 px-1">
               {pendingFile.isPdf ? (
                 <div className="h-10 w-10 rounded-lg bg-red-900/40 border border-red-800/40 flex items-center justify-center text-xs text-red-400 flex-shrink-0">PDF</div>
@@ -447,13 +529,34 @@ function ChatInner() {
           )}
           <div className="flex gap-2 items-end">
             {/* File attachment */}
-            <input ref={fileRef} type="file" accept="image/*,application/pdf" className="hidden" onChange={(e) => { const f = e.target.files?.[0]; if (f) handleFile(f); e.target.value = ""; }} />
-            <button onClick={() => fileRef.current?.click()} title="Attach file (image or PDF)" className="w-9 h-9 rounded-xl bg-gray-800 hover:bg-gray-700 border border-gray-700 flex items-center justify-center text-gray-400 hover:text-white transition-colors flex-shrink-0">
+            <input
+              ref={fileRef}
+              type="file"
+              accept="image/*,application/pdf"
+              className="hidden"
+              onChange={(e) => { const f = e.target.files?.[0]; if (f) handleFile(f); e.target.value = ""; }}
+            />
+            <button
+              onClick={() => fileRef.current?.click()}
+              title="Attach file (image or PDF)"
+              className="w-9 h-9 rounded-xl bg-gray-800 hover:bg-gray-700 border border-gray-700 flex items-center justify-center text-gray-400 hover:text-white transition-colors flex-shrink-0"
+            >
               📎
             </button>
             {/* Camera */}
-            <input ref={cameraRef} type="file" accept="image/*" capture="environment" className="hidden" onChange={(e) => { const f = e.target.files?.[0]; if (f) handleFile(f); e.target.value = ""; }} />
-            <button onClick={() => cameraRef.current?.click()} title="Take photo" className="w-9 h-9 rounded-xl bg-amber-800/60 hover:bg-amber-700/60 border border-amber-700/40 flex items-center justify-center text-amber-400 hover:text-amber-300 transition-colors flex-shrink-0">
+            <input
+              ref={cameraRef}
+              type="file"
+              accept="image/*"
+              capture="environment"
+              className="hidden"
+              onChange={(e) => { const f = e.target.files?.[0]; if (f) handleFile(f); e.target.value = ""; }}
+            />
+            <button
+              onClick={() => cameraRef.current?.click()}
+              title="Take photo"
+              className="w-9 h-9 rounded-xl bg-amber-800/60 hover:bg-amber-700/60 border border-amber-700/40 flex items-center justify-center text-amber-400 hover:text-amber-300 transition-colors flex-shrink-0"
+            >
               📷
             </button>
             <input
@@ -467,7 +570,7 @@ function ChatInner() {
             />
             <button
               onClick={() => sendMessage(input)}
-              disabled={loading || (!input.trim() && !pendingFile)}
+              disabled={loading || (!input.trim() && !pendingFile) || processingFile}
               className="w-9 h-9 rounded-xl bg-amber-700 hover:bg-amber-600 disabled:bg-gray-800 disabled:cursor-not-allowed flex items-center justify-center transition-colors flex-shrink-0"
             >
               <svg className="w-4 h-4 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
