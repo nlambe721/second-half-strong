@@ -5,7 +5,7 @@ const MODES = [
   {
     id: "chat",
     icon: "💬",
-    label: "FREE CHAT",
+    label: "CHAT / ASK",
     labelColor: "text-amber-500",
     title: "Ask Me Anything",
     desc: "Open conversation with your AI Coach. Ask any health question, share what you're dealing with, or explore any topic — testosterone, sleep, fat loss, mindset, nutrition, training, or recovery.",
@@ -29,7 +29,7 @@ const MODES = [
   {
     id: "diagnose",
     icon: "🔍",
-    label: "DIAGNOSE ME",
+    label: "PERSONAL ANALYSIS",
     labelColor: "text-green-400",
     title: "Ask Me Questions First",
     desc: "Your AI Coach interviews you with targeted questions before giving recommendations. This is the highest-precision format — the coach builds your full picture before delivering a protocol built just for you.",

@@ -4,9 +4,9 @@ import { usePathname, useRouter } from "next/navigation";
 import { knowledgeChunks } from "@/lib/knowledge-base";
 
 const MODES = [
-  { href: "/chat?mode=chat",     icon: "💬", label: "Free Chat",     sub: "Ask anything" },
+  { href: "/chat?mode=chat",     icon: "💬", label: "Chat / Ask Questions",     sub: "Ask any question" },
   { href: "/chat?mode=case",     icon: "📋", label: "Case Study",    sub: "Analyze my full situation" },
-  { href: "/chat?mode=diagnose", icon: "🔍", label: "Diagnose Me",   sub: "Ask me questions first" },
+  { href: "/chat?mode=diagnose", icon: "🔍", label: "Personal Analysis",   sub: "Deep personal analysis" },
   { href: "/chat?mode=program",  icon: "🏆", label: "Accountability", sub: "Check-in + progress" },
 ];
 

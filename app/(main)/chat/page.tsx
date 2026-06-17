@@ -30,9 +30,9 @@ function stripMarkdown(text: string): string {
 }
 
 const MODE_META: Record<Mode, { icon: string; title: string; sub: string; placeholder: string }> = {
-  chat:     { icon: "💬", title: "Free Chat",               sub: "Ask anything — open coaching conversation",              placeholder: "Type your question or situation here..." },
+  chat:     { icon: "💬", title: "Chat / Ask Questions",               sub: "Ask anything — get coached on any topic",              placeholder: "Type your question or situation here..." },
   case:     { icon: "📋", title: "Case Study Analysis",     sub: "Share your full picture — get a structured analysis",    placeholder: "Describe your situation — age, markers, symptoms, what you've tried..." },
-  diagnose: { icon: "🔍", title: "Diagnose Me",             sub: "The coach interviews you before giving recommendations",  placeholder: 'Type "Start" to begin, or describe what you want to diagnose...' },
+  diagnose: { icon: "🔍", title: "Personal Analysis",             sub: "Deep personal analysis — the coach interviews you first",  placeholder: 'Type "Start" to begin your personal analysis...' },
   program:  { icon: "🏆", title: "Accountability Check-In", sub: "Progress report · What broke down · Recalibrated plan",  placeholder: "Share your check-in — wins, breakdowns, this week's stats..." },
   photo:    { icon: "📷", title: "Photo & Document Analysis", sub: "Upload an image or PDF — analyzed with M40 context",  placeholder: "Attach a photo or file, or describe what you'd like analyzed..." },
 };
@@ -57,7 +57,7 @@ const MODE_INTRO: Record<Mode, React.ReactNode> = {
   ),
   diagnose: (
     <div className="text-sm leading-relaxed space-y-3">
-      <p>Welcome to your Diagnose Me session.</p>
+      <p>Welcome to your Personal Analysis session.</p>
       <p className="text-gray-300">I ask the questions, you answer them. This is the highest-precision format — I need your full picture before making recommendations.</p>
       <p className="text-gray-300">I will cover hormonal signals, sleep quality, energy patterns, training history, nutrition, stress load, and what you have already tried.</p>
       <p className="text-green-400">Type Start to begin and I will ask your first question.</p>
