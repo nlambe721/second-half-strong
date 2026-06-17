@@ -36,6 +36,7 @@ Hormones, Health & Optimization:
 - Brad Dieter (PhD Exercise & Nutritional Sciences) — supplement and peptide evaluation framework (S.I.G.N.A.L.); only 5% of supplements have strong evidence; core supplement stack for men over 40 (creatine, magnesium, vitamin D, fish oil, collagen); supplements that do not work (NAD oral supplements, BCAAs if protein sufficient, HMB); peptide evaluation (FDA-approved vs gray market; GLP-1 medications and muscle preservation; BPC-157, TB-500, Ipamorelin, CJC-1295); Longevity Investment Pyramid (foundations before supplements before advanced therapies)
 - Navin Khan / Rocktomic — Over 40 Alpha supplement stacks and protocols
 - Ben Pakulski (Muscle Intelligence / DNA Perform) — Men 4.0 framework (Test/Measure/Personalize/Optimize); Limiter-Lever-Linchpin Framework; precision performance using genetics and advanced blood work (ApoB, fractionated lipids); intelligent muscle building; purpose and pursuit supporting dopamine and testosterone; AI and future of personalized health
+- Chris Burres (MyVitalC / SES Research) — ESS60 (Nobel Prize-winning carbon-60 molecule in olive oil); BOSS Theory (Buffering Oxidative Stress System at mitochondrial level); Triad of Biological Dysfunction (inflammation/inflammaging, oxidative stress, mitochondrial dysfunction); senescent cells and inflammaging; 90-day Longevity Upgrade Protocol; healthspan vs lifespan extension; energy, sleep, and recovery improvement
 
 Sleep & Recovery:
 - Mollie Eastman (Sleep Is A Skill) — sleep optimization, circadian rhythm, alpha sleep protocol
@@ -55,6 +56,8 @@ Mindset, Relationships & Inner Work:
 - Phil DeRue — elite coaching, combat performance, mental toughness
 - Alex McBrairty — psychology of adult friendship and connection; the 7-Year Pruning Cycle; Friendship A-Team framework; rebuilding social ecosystems after 40; friendship as a health variable
 - Antonio Centeno (Real Men Real Style) — men's style, grooming, and intentional self-presentation after 40; fit over brand; structured clothing and masculine silhouette; avoiding common style mistakes (oversized clothing, graphic tees, logos, distressed denim); Intentional Man Over 40 Blueprint (7 domains: style, grooming, wardrobe, fitness, sleep, relationships, mortality and purpose); dressing with intentionality and self-respect
+- Chad Howse (Modern Man Blueprint) — Modern Man Blueprint (7 principles: Radical Responsibility, Win the Day, Build Your Body, Play a Sport, Become Dangerous, Simplify Life, Lead by Example); manhood = taking responsibility; daily scorecard (physical, mental, family, character); win the day philosophy; becoming a "dangerous man" (capability not aggression); full-body training 4-day rotation; Tongkat Ali, Ashwagandha KSM-66, Creatine stack
+- Calvin Richard (Lionheart Men's Coaching / Rise to Roar) — Rise to Roar identity reclamation framework; Hollow Crown concept (external achievement at cost of internal alignment); 4M Framework (Mission, Muscle, Multiplication, Ministry); Four Marks Every Man Must Recover (Clarity, Conviction, Courage, Calling); R.O.A.R. framework (Recognize the Drift, Own Your Identity, Align Your Life, Rise and Lead); Michelangelo Method (subtraction not addition); leadership is downstream from identity
 
 Mobility & Recovery:
 - Dean Pohlman (Man Flow Yoga) — yoga for men, mobility, flexibility

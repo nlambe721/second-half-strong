@@ -3480,6 +3480,92 @@ Evening: Wind-down 60 min before bed → breathwork → meditation/journaling �
     sourceRef: "Brad Dieter — Supplements & Peptides for Men Over 40"
   },
 
+
+  {
+    id: "fr-297",
+    speakerId: "chad-howse",
+    topic: ["mindset", "men-over-40", "purpose", "responsibility"],
+    tags: ["Chad Howse", "manhood", "masculinity", "responsibility", "discipline", "virtues", "modern man", "present moment"],
+    content: "Chad Howse is a writer, speaker, and one of the most direct voices on modern masculinity and masculine virtues for men over 40. His definition of manhood is deliberately stripped of complexity: a man takes responsibility for everything — his actions, his family, his decisions, and his circumstances. Not status, not money, not followers, not power. Responsibility is the foundation from which everything else is built. His core message for men over 40: the challenge isn't becoming someone new. The challenge is learning to become fully present in the life you already have. Fulfillment isn't found through achieving some distant goal. It's found through consistently living well today. His Modern Man Blueprint: take radical responsibility, win the day, build your body, play a sport again, become capable of protecting others, simplify your life, and lead by example.",
+    quote: "Stress lives in the future. Regret lives in the past. Peace lives in the present.",
+    sourceRef: "Chad Howse — The Modern Man After 40"
+  },
+  {
+    id: "fr-298",
+    speakerId: "chad-howse",
+    topic: ["mindset", "purpose", "habits", "men-over-40"],
+    tags: ["present moment", "daily habits", "task stacking", "fulfillment", "comparison trap", "discipline", "simplicity", "win the day"],
+    content: "Chad Howse on why men over 40 feel lost: many men have careers, families, homes, and financial stability — yet still feel empty. The trap is comparing where they are to where they think they should be. This comparison creates constant dissatisfaction. Chad's antidote: confine life to a day. You're trying to get work done, be present for family, do your workout, handle your responsibilities. That's it. It doesn't sound grand, but you can go to sleep knowing you lived a good day. Then do it again. Extraordinary lives are built through ordinary actions repeated consistently. Don't wonder whether what you're doing is big enough — it's never big enough if you're chasing the feeling of big. The simple tasks, stacked daily, compound into a life. Stop worrying about your place in the world and start executing what's in front of you.",
+    sourceRef: "Chad Howse — The Modern Man After 40"
+  },
+  {
+    id: "fr-299",
+    speakerId: "chad-howse",
+    topic: ["training", "mindset", "men-over-40", "habits"],
+    tags: ["training philosophy", "full body", "push pull", "sports", "conditioning", "supplements", "tongkat ali", "creatine", "masculine virtues"],
+    content: "Chad Howse's training approach after 40: strength training 4 sessions weekly on a full-body push/pull rotation. Conditioning 3 sessions per week using air bike, road bike, or running. One full recovery day. He strongly advocates playing a sport again — sports combine competition, community, fun, and athleticism in a way most workouts cannot replicate. Choose from hockey, soccer, basketball, martial arts, BJJ, pickleball, or volleyball. His supplement stack: Tongkat Ali, Ashwagandha (KSM-66), Creatine, Carnitine, Beta-Alanine, Betaine, Spirulina, Minerals, and Vitamins. Supplements support health but cannot replace proper nutrition and lifestyle habits. Daily scorecard: physical (workout, walk, quality food), mental (focused on today's tasks, limited distractions, practiced presence), family (meaningful conversation, quality time, led by example), and character (took responsibility, kept word, stayed calm under pressure).",
+    sourceRef: "Chad Howse — The Modern Man Blueprint"
+  },
+  {
+    id: "fr-300",
+    speakerId: "chad-howse",
+    topic: ["mindset", "masculinity", "men-over-40", "purpose"],
+    tags: ["dangerous men", "capability", "protection", "combat sports", "masculinity", "toxic masculinity", "fatherhood", "raising children", "responsibility"],
+    content: "Chad Howse on dangerous men and masculine capability: good men should be capable of being dangerous — not aggressive, not violent, but capable. Every man should possess the ability to protect himself, his family, and his community. Strength creates confidence. Confidence creates calmness. Calmness creates compassion. A dangerous man who chooses restraint is far safer than a weak man who lacks options. Combat sports — boxing, martial arts, BJJ — teach humility, self-control, confidence, and emotional regulation; they often make men calmer and less aggressive, not more. On fatherhood: his role is not to add stress to the home. His role is to absorb it. Manage stress with a calm, relaxed demeanor so as not to put any stress on anyone else. What he wants to teach his son: self-reliance, work ethic, hunger, initiative, and personal responsibility. Struggle builds capability — remove too much difficulty and you create dependence.",
+    quote: "A dangerous man who chooses restraint is far safer than a weak man who lacks options.",
+    sourceRef: "Chad Howse — The Modern Man After 40"
+  },
+  {
+    id: "fr-301",
+    speakerId: "chris-burres",
+    topic: ["longevity", "optimization", "supplements", "men-over-40"],
+    tags: ["Chris Burres", "ESS60", "MyVitalC", "Nobel Prize", "longevity", "healthspan", "lifespan", "90% lifespan increase", "carbon nanomaterials"],
+    content: "Chris Burres is a research engineer, scientist, and entrepreneur, co-founder of SES Research (first company to manufacture commercial quantities of carbon nanomaterials) and MyVitalC. He has worked with the molecule ESS60 since 1991 — a Nobel Prize-winning molecule that gained global attention after a landmark study showed a 90% increase in lifespan in test subjects (rats). His reframe for men reluctant to pursue longevity: if you could have the same mental capacity and physical capacity you have today, would you want to live longer? Almost universally the answer becomes yes. His distinction: we want to extend healthspan, not just lifespan — your energy, strength, mental clarity, and vitality as you age. Aging is not just time. It is cellular damage. Fix the cells and you improve the man.",
+    quote: "If you could have the same mental capacity and physical capacity that you have today, would you then be interested in living longer?",
+    sourceRef: "Chris Burres — The Longevity Breakthrough: ESS60"
+  },
+  {
+    id: "fr-302",
+    speakerId: "chris-burres",
+    topic: ["longevity", "optimization", "mitochondria", "men-over-40"],
+    tags: ["triad of biological dysfunction", "inflammation", "inflammaging", "oxidative stress", "mitochondrial dysfunction", "senescent cells", "reactive oxygen species", "glutathione", "mitophagy"],
+    content: "Chris Burres on the Triad of Biological Dysfunction — what drives aging: First, inflammation (inflammaging): senescent cells are cells that stop doing their job but stay in the body, releasing inflammatory signals that accelerate aging. The immune system malfunctions as it ages (immunosenescence). Second, oxidative stress: mitochondria produce more reactive oxygen species (ROS) as we age. Glutathione, the master defense antioxidant, depletes. ROS corrodes DNA, lipids (cell membranes), and proteins, accelerating the entire aging process. Third, mitochondrial dysfunction: ATP production drops. Mitochondria that stop working are not cleared efficiently (mitophagy declines). All three interconnect and cascade into each other. ESS60 is theorized to address all three simultaneously through its BOSS Theory — Buffering Oxidative Stress inside cells at the mitochondrial level.",
+    sourceRef: "Chris Burres — The Longevity Breakthrough: ESS60"
+  },
+  {
+    id: "fr-303",
+    speakerId: "chris-burres",
+    topic: ["longevity", "supplements", "men-over-40", "mitochondria"],
+    tags: ["ESS60", "BOSS Theory", "antioxidant", "olive oil", "bioavailability", "sleep improvement", "HRV", "recovery", "energy", "90-day protocol"],
+    content: "Chris Burres on ESS60 and the BOSS Theory: ESS60 is a carbon-60 molecule (Buckminsterfullerene) dissolved in olive oil for bioavailability. The BOSS Theory — Buffering Oxidative Stress System — describes how ESS60 works as a super antioxidant at the subcellular mitochondrial level, absorbing reactive oxygen species rather than being consumed by them. Reported benefits for men over 40: better energy (typically Month 1), deeper sleep and improved recovery (Month 2), reduced inflammation, higher vitality, testosterone support (Month 3). It is taken once daily, morning preferred, paired with existing routine. The 90-day tracking protocol: measure energy, sleep quality, mood, and recovery at baseline and at monthly intervals — what gets tracked improves. Modern life stressors (EMFs, poor sleep, stress, processed food) destroy cell integrity faster than ever, making mitochondrial protection more relevant today.",
+    sourceRef: "Chris Burres — The Longevity Upgrade Protocol"
+  },
+  {
+    id: "fr-304",
+    speakerId: "calvin-richard",
+    topic: ["mindset", "purpose", "identity", "men-over-40"],
+    tags: ["Calvin Richard", "Lionheart", "Rise to Roar", "identity drift", "Hollow Crown", "men over 40", "integrative life coach", "Kingmaker Architect", "purpose"],
+    content: "Calvin Go Hard Richard is an integrative life coach and Kingmaker Architect, founder of Lionheart men's coaching company. Former head strength and conditioning coach at the University of New Orleans, personal trainer, and studio owner for 16 years — sold his studio in 2023 to go all-in on men's coaching. Lionheart was born out of personal pain: his mentor, a man of faith, prestige, and resources, died by suicide in 2020 after a prolonged health decline — a moment that crystallized Calvin's calling to work with men. His core insight: most men do not have business problems. They have personal problems that show up in their business. It is not a performance issue. It is an identity issue. A self-concept problem. The man who is not performing as needed is usually struggling with purpose and presence, not tactics and strategies.",
+    sourceRef: "Calvin Richard — Rise to Roar"
+  },
+  {
+    id: "fr-305",
+    speakerId: "calvin-richard",
+    topic: ["mindset", "identity", "purpose", "men-over-40"],
+    tags: ["Hollow Crown", "identity drift", "success", "fulfillment", "alignment", "double-minded man", "mechanics of drift", "leadership", "self-concept"],
+    content: "Calvin Richard's Rise to Roar framework: The Hollow Crown is the central concept — the idea that external achievement can come at the cost of internal alignment. A man can appear successful while quietly struggling with exhaustion, disconnection, loneliness, and a fading sense of purpose. Men don't lose themselves overnight. They drift. One compromise. One distraction. One season of neglect at a time. The Mechanics of Drift: small compromises compound over time. The Double-Minded Man: internal conflict creates instability. The man everyone sees versus the man nobody knows. Leadership is downstream from identity — change at the identity level is the only durable change. Identity drives leadership, which drives behavior, which drives results. Most men try to change at the behavior level when they need to change at the identity level. The question to ask: am I successful, or am I aligned?",
+    quote: "Most men don't have business problems. They have personal problems that show up in their business.",
+    sourceRef: "Calvin Richard — Rise to Roar"
+  },
+  {
+    id: "fr-306",
+    speakerId: "calvin-richard",
+    topic: ["mindset", "purpose", "identity", "men-over-40"],
+    tags: ["4M Framework", "Four Marks", "Rise to Roar Reset", "R.O.A.R.", "Michelangelo Method", "brotherhood", "Lionhearted Daily Standard", "mission", "calling", "clarity", "conviction", "courage"],
+    content: "Calvin Richard's frameworks for reclaiming edge: The Four Marks Every Man Must Recover — Clarity (direction, vision, focus), Conviction (purpose, passion, standards), Courage (action, vulnerability, growth), Calling (meaning, legacy, contribution). The 4M Framework: Mission (your purpose and calling), Muscle (physical, mental, and emotional fitness), Multiplication (wealth, stewardship, and influence), Ministry (the people you are called to love, lead, and serve). The R.O.A.R. framework: Recognize the drift, Own your identity, Align your life, Rise and lead. The Michelangelo Method: instead of asking what do I need to add, ask what do I need to remove — distractions, toxic habits, limiting beliefs, draining relationships, misaligned commitments. The Lionhearted Daily Standard: move your body, review your mission, connect with one person intentionally, express gratitude, reflect on alignment, take one courageous action. Brotherhood is the antidote to isolation — isolation is one of the greatest threats to men.",
+    sourceRef: "Calvin Richard — The Rise to Roar Reset"
+  },
+
 ];
 
 export const topicIndex: Record<string, string[]> = {
