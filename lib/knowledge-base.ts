@@ -3658,6 +3658,119 @@ Evening: Wind-down 60 min before bed → breathwork → meditation/journaling �
     sourceRef: "Dr. Izzy Justice — The 10 Hertz Performance Protocol"
   },
 
+
+  // ── Dr. Jon Mike ──────────────────────────────────────────────────
+  {
+    id: "fr-318",
+    speakerId: "dr-jon-mike",
+    topic: ["power training", "strength", "aging", "fast-twitch muscle"],
+    tags: ["power", "strength", "type II fibers", "neuromuscular", "longevity", "men over 40"],
+    content: "Dr. Jon Mike is an exercise scientist whose central thesis is Power Is the New Longevity. After 40, power declines faster than strength — and that gap is what kills men. Strength is your capacity: how much force you can produce. Power is your expression: how fast you can produce it. Type II fast-twitch muscle fibers begin declining rapidly after 35 — they're the first to go and the hardest to rebuild. Neuromuscular contractile speed — the speed of the signal from brain to muscle — slows significantly. You can be strong on the bench press and still fall in a parking lot because you can't generate force fast enough to catch yourself. Power is what keeps you alive, functional, and dominant past 40. Training for strength alone is necessary but insufficient. Men who only lift heavy and slow are building a car with a big engine and no transmission.",
+    quote: "Strength is your capacity. Power is your expression. After 40, the gap between the two is what kills men.",
+    sourceRef: "Power Is the New Longevity — Dr. Jon Mike Summit Session"
+  },
+  {
+    id: "fr-319",
+    speakerId: "dr-jon-mike",
+    topic: ["rotational power", "transverse plane", "movement", "training"],
+    tags: ["rotation", "transverse plane", "sagittal", "frontal", "mobility", "stability", "men over 40"],
+    content: "The most neglected area of power training for men over 40 is rotational power in the transverse plane. Men train almost exclusively in the sagittal plane — forward and backward (squats, deadlifts, presses, rows). They occasionally work the frontal plane — side to side. But they almost never train the transverse plane — rotation. Real life is rotational: throwing luggage overhead, turning to avoid a collision, reaching across the body, recovering balance on uneven ground. Without rotational training, the body becomes brittle in the plane where life actually happens. Dr. Jon Mike's Four Pillars of Rotational Power address this gap: (1) Mobility — the hip and thoracic spine must be able to move through rotation; (2) Stability — the core must resist unwanted movement while allowing rotation; (3) Rotation — the nervous system must be trained to coordinate rotational patterns; (4) Power — explosive rotational force must be developed under load and speed.",
+    sourceRef: "Power Is the New Longevity — Dr. Jon Mike Summit Session"
+  },
+  {
+    id: "fr-320",
+    speakerId: "dr-jon-mike",
+    topic: ["R.O.T.A.T.E. framework", "programming", "power training", "protocol"],
+    tags: ["R.O.T.A.T.E.", "framework", "programming", "power", "protocol", "men over 40"],
+    content: "Dr. Jon Mike's R.O.T.A.T.E. Framework gives men a systematic approach to developing rotational power: R — Restore mobility in the hips and thoracic spine before loading any rotational pattern. O — Own your stability by training anti-rotation first (Pallof Press, dead bugs, plank variations). T — Train the rotational pattern with bodyweight and light load before adding resistance. A — Amplify the pattern under moderate load using cables, landmines, and medicine balls. T — Transfer power to explosive movements (med ball throws, rotational jumps, reactive drills). E — Embed rotation into daily movement so the nervous system defaults to it under pressure. Programming principles: train power fresh — never at the end of a session when fatigued; use high intent with low volume (3-5 reps of maximal effort beats 15 reps of half-effort); 2-3 sessions per week; always anchor power work before heavy strength work.",
+    quote: "Train power fresh. High intent, low volume. The nervous system learns speed when it's not drowning in fatigue.",
+    sourceRef: "Power Is the New Longevity — Dr. Jon Mike Summit Session"
+  },
+  {
+    id: "fr-321",
+    speakerId: "dr-jon-mike",
+    topic: ["Power After 40 Blueprint", "exercises", "programming", "phase training"],
+    tags: ["Power After 40 Blueprint", "exercises", "phases", "hip airplanes", "Pallof press", "landmine", "men over 40"],
+    content: "Dr. Jon Mike's Power After 40 Blueprint is a 6-week phased program: Phase 1 (Mobilize, weeks 1-2): Hip Airplanes, 90/90 hip stretches, thoracic rotation drills, cat-cow with rotation — rebuilding range of motion before adding load. Phase 2 (Stabilize, weeks 2-3): Pallof Press, single-leg stance work, dead bugs, side planks with reach — teaching the core to resist rotation so it can express it safely. Phase 3 (Rotate, weeks 3-4): Cable rotational presses, medicine ball chest passes, band pull-aparts with rotation — grooving the rotational pattern under light load. Phase 4 (Explode, weeks 5-6): Landmine rotations, single-leg KB swings, med ball rotational throws, reactive direction changes — expressing power in the transverse plane. Key exercises: Hip Airplanes (glute activation + hip rotation), Single-Leg KB Swings (power + stability), Thoracic Rotation Drills (spine mobility), Cable Rotational Press (functional pressing power), Pallof Press (anti-rotation foundation), Landmine Rotations (loaded transverse plane), Med Ball Throws (nervous system speed). Real-world power applications: avoiding falls, lifting luggage overhead, changing direction, getting up from the ground.",
+    sourceRef: "Power After 40 Blueprint — Dr. Jon Mike"
+  },
+
+  // ── Elliot Hulse ──────────────────────────────────────────────────
+  {
+    id: "fr-322",
+    speakerId: "elliot-hulse",
+    topic: ["fatherlessness", "masculinity", "modern manhood", "identity"],
+    tags: ["fatherlessness", "masculinity", "manhood", "identity", "culture", "men over 40"],
+    content: "Elliot Hulse — founder of Strength Camp, former professional strongman, author, and men's mentor — identifies fatherlessness as the root crisis of modern masculinity. Not just absent fathers in a physical sense, but the systematic erosion of masculine leadership and paternal authority across culture. Boys growing up without the model of a strong, present, responsible man internalize a broken template for manhood. Elliot grew up with a strong father — but even with that foundation, he found himself in his late 20s turning against his own masculine nature because of cultural conditioning. Fatherhood changed him back. He realized that the cultural narrative aimed at men — that masculine strength, authority, and leadership are dangerous — is itself the danger. The strongest version of yourself is not just physical. It is mental, emotional, moral, and spiritual. A man who builds his body but neglects his soul is building a monument on sand.",
+    quote: "The strongest version of yourself is not just physical. It is mental, emotional, moral, and spiritual.",
+    sourceRef: "Elliot Hulse — Men Over 40 Summit Session"
+  },
+  {
+    id: "fr-323",
+    speakerId: "elliot-hulse",
+    topic: ["patriarch problem", "men feeling lost", "leadership", "family"],
+    tags: ["patriarch", "responsibility", "authority", "leadership", "family", "purpose", "men over 40"],
+    content: "Elliot Hulse names what he calls the Patriarch Problem: men today carry enormous responsibility but possess little authority within their own families. A man can work 60 hours a week, pay every bill, and be physically present in the home — and still feel like a guest. Culture has systematically stripped men of the authority that makes leadership possible and meaningful. The result is men who feel lost despite careers, material success, relationships, and social standing. They have built everything the culture told them to build and still feel empty. This emptiness is not a personal failure — it is the predictable result of living according to a blueprint designed to diminish masculine purpose. Men over 40 are especially vulnerable because they have spent decades executing that blueprint and have just enough self-awareness to know something essential is missing.",
+    quote: "Men today carry enormous responsibility but possess little authority. That gap is where the emptiness lives.",
+    sourceRef: "Elliot Hulse — Men Over 40 Summit Session"
+  },
+  {
+    id: "fr-324",
+    speakerId: "elliot-hulse",
+    topic: ["attack on masculinity", "testosterone", "return to faith", "hope"],
+    tags: ["testosterone", "toxins", "faith", "culture", "masculinity", "hope", "men over 40"],
+    content: "Elliot Hulse documents the multi-front attack on masculinity: declining testosterone — environmental toxins, xenoestrogens in plastics and food, sedentary lifestyles, and chronic stress are biologically altering men. Physical and chemical — men are literally being feminized at a hormonal level. Cultural messaging — masculinity has been rebranded as toxic. The very qualities that make men providers and protectors (strength, assertiveness, risk tolerance, protectiveness) are framed as pathologies. Institutional — education systems, media, corporate environments all systematically discourage masculine expression. Yet Elliot sees reason for hope: young men are returning to faith in record numbers. After decades of secular decline, a generation that was promised meaning through technology, politics, and material success is turning to God because nothing else filled the void. This is not regression — it is diagnosis. The hunger for something transcendent is the masculine soul asserting itself.",
+    quote: "Young men returning to faith in record numbers. That's not regression — that's diagnosis. The soul asserting itself.",
+    sourceRef: "Elliot Hulse — Men Over 40 Summit Session"
+  },
+  {
+    id: "fr-325",
+    speakerId: "elliot-hulse",
+    topic: ["Strongest Version Blueprint", "daily non-negotiables", "30-day challenge", "protocol"],
+    tags: ["Strongest Version Blueprint", "30-day", "pillars", "daily practice", "physical", "spiritual", "men over 40"],
+    content: "Elliot Hulse's Strongest Version of Yourself Blueprint is a 30-day, 5-pillar reclamation framework: Pillar 1 — Reclaim Physical Strength: train with iron, move daily, eat like a man building something. Pillar 2 — Reclaim Mental Discipline: read for 30 minutes daily, eliminate passive entertainment, replace scrolling with reflection. Pillar 3 — Reclaim Leadership: lead in your home first — not at work, not in the gym — in your family. Make one decision per day from your own authority, not from what others expect. Pillar 4 — Reclaim Spiritual Alignment: prayer, silence, truth. Connect with God — not through performance or religion as social obligation, but through the Kingdom Within. Lasting peace does not come through politics, money, or status. Pillar 5 — Reclaim Purpose: define your mission as a man, not a role. Not 'I am a father' or 'I am a businessman' but 'I am a man called to X.' The 30-Day Patriarch Challenge: daily non-negotiables in four domains — physical (move, train, eat well), mental (read, learn, reflect), emotional (be present, practice gratitude, control your reactions), spiritual (pray, be still, seek truth). Elliot's definition: the strongest version of yourself is the man God designed you to be — physically capable, mentally sharp, emotionally present, and spiritually grounded.",
+    quote: "The strongest version of yourself is the man God designed you to be — physically capable, mentally sharp, emotionally present, and spiritually grounded.",
+    sourceRef: "Strongest Version Blueprint — Elliot Hulse"
+  },
+
+  // ── Eric Bach ──────────────────────────────────────────────────────
+  {
+    id: "fr-326",
+    speakerId: "eric-bach",
+    topic: ["training synergy", "system load", "stress", "recovery"],
+    tags: ["synergy", "system load", "stress", "recovery", "men over 40", "training"],
+    content: "Eric Bach — strength coach and founder of Bach Performance — built his entire coaching philosophy around one insight: your body doesn't distinguish between work stress, relationship stress, parenting stress, financial stress, and training stress. It is all system load. The Synergy framework recognizes that training, nutrition, recovery, stress management, and lifestyle must all work together — pulling in the same direction — for a man over 40 to make consistent progress. The reason most men over 40 are stuck is not that they lack information or effort. It is that they are applying age-25 strategies on age-25 volume with age-40 recovery capacity and age-40 life complexity. A man with a stressful job, three kids, poor sleep, and a troubled marriage cannot tolerate the same training load as a 25-year-old with no obligations. The math doesn't work. Synergy is about honest accounting — of total stress, total recovery, and total capacity — and designing a training life that fits inside that honest picture.",
+    quote: "Your body doesn't distinguish between work stress, relationship stress, and training stress. It's all system load.",
+    sourceRef: "The Synergy Performance System — Eric Bach Summit Session"
+  },
+  {
+    id: "fr-327",
+    speakerId: "eric-bach",
+    topic: ["all-in all-out trap", "lifestyle audit", "consistency", "sustainable training"],
+    tags: ["all-in all-out", "consistency", "80%", "lifestyle audit", "sustainable", "men over 40"],
+    content: "Eric Bach identifies the All-In/All-Out Trap as one of the most common failure patterns in men over 40. It looks like this: a man decides to get serious, commits to a perfect program, perfect nutrition, perfect sleep — and sustains it for 3-6 weeks before life intervenes. One bad week collapses the whole structure because it was built on 100% compliance. When 100% is the standard, 95% feels like failure. The trap reinforces itself: heroic restart, inevitable collapse, shame, repeat. The antidote is the 80% Rule: 80% consistency over 12 months beats 100% intensity over 6 weeks every time. The math is simple — 80% over 52 weeks is 416 good efforts. 100% over 6 weeks is 42. Eric's 5-Pillar Synergy Framework: (1) Audit Your System Load — total the stress load across all life domains before designing training volume; (2) Align Training With Life — design around life, not against it; (3) Simplify Nutrition — remove friction, add structure; (4) Maintain Athleticism — preserve the qualities that make you capable, not just strong; (5) Train For Longevity — program for the man you want to be at 60, 70, and 80.",
+    quote: "80% consistency over 12 months beats 100% intensity over 6 weeks every single time. The math doesn't lie.",
+    sourceRef: "The Synergy Performance System — Eric Bach Summit Session"
+  },
+  {
+    id: "fr-328",
+    speakerId: "eric-bach",
+    topic: ["ADE framework", "nutrition", "75% rule", "carbohydrates"],
+    tags: ["ADE framework", "nutrition", "carbohydrates", "cortisol", "75% rule", "simplify", "men over 40"],
+    content: "Eric Bach's ADE Framework simplifies nutrition for men over 40: Automate — build default meals that require zero decision-making. The same breakfast three days a week eliminates willpower drain before 9am. Delegate — outsource nutrition tasks that create friction: meal prep services, pre-cut produce, bulk cooking on Sundays. Eliminate — remove the decisions, environments, and foods that derail consistency more than any single meal choice. The 75% Rule: if 75% of your meals in a week are solid — adequate protein, quality carbs, vegetables, minimal ultra-processed food — you will make dramatic progress. That is roughly 15 out of 21 meals. Stop optimizing the 25% and stop blaming the 25% for the absence of progress. A critical insight men over 40 miss: carbohydrates buffer cortisol. When training hard under high life stress, cutting carbs too aggressively raises cortisol further and suppresses testosterone. The men who benefit most from strategic carbohydrate inclusion are often the ones cutting them hardest based on outdated diet culture messaging.",
+    quote: "Carbohydrates buffer cortisol. The man cutting carbs hardest under the highest stress is often the one who needs them most.",
+    sourceRef: "The Synergy Performance System — Eric Bach Summit Session"
+  },
+  {
+    id: "fr-329",
+    speakerId: "eric-bach",
+    topic: ["Athleticism System", "training rules", "longevity", "relative strength"],
+    tags: ["Athleticism System", "warm up", "relative strength", "longevity", "training rules", "men over 40"],
+    content: "Eric Bach's Athleticism System for men over 40 follows a four-phase session structure: Mobilize (5-10 min: joint circles, hip mobility, thoracic rotation) → Activate (3-5 min: glute bridges, band work, activation drills) → Prime (nervous system preparation: explosive movement, medicine ball work, or plyometrics at low volume) → Strength Train (the primary session). Over-40 Training Rules: (1) Warm up properly — the warmup is not optional, it is the first workout; (2) Respect recovery — schedule easy weeks, deload intentionally, don't wait for injury to force rest; (3) Avoid ego lifting — load selection should be driven by what you can control, not what you can survive; (4) Maintain relative strength — strength relative to bodyweight is a better longevity marker than absolute load; (5) Train around pain intelligently — modify, don't avoid movement; find the range that works and build from there. Relative Strength Check for men over 40: 20 push-ups with perfect form, 5 chin-ups, waist circumference under 40 inches. If those three markers are in range, you have a strong foundation. The 30-Day Synergy Reset: one month of honest system load accounting, simplified nutrition, and aligned training volume — not a crash program but a recalibration.",
+    quote: "The warmup is not optional. It is the first workout. Skip it and you are not saving time — you are spending injury.",
+    sourceRef: "The Synergy Performance System — Eric Bach Summit Session"
+  },
+
 ];
 
 export const topicIndex: Record<string, string[]> = {
