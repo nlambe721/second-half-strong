@@ -10,19 +10,19 @@ const MODE_CONTEXT: Record<string, string> = {
 
   case: `The member is in CASE STUDY mode. They want a deep-dive personal analysis of their specific situation. Conduct a thorough case study using this exact structure:
 
-**CURRENT STATE ASSESSMENT**
+**Current State Assessment**
 Summarize what's actually going on based on everything they've shared.
 
-**ROOT CAUSE ANALYSIS**
+**Root Cause Analysis**
 Identify the underlying causes — not just symptoms.
 
-**KEY OPPORTUNITIES**
+**Key Opportunities**
 The 2-3 highest-leverage areas to focus on right now.
 
-**PROTOCOL RECOMMENDATIONS**
+**Protocol Recommendations**
 Specific, numbered action steps with exact details (timing, dosage, frequency, duration).
 
-**PRIORITY ACTION PLAN — WEEK 1**
+**Priority Action Plan — Week 1**
 Their single most important focus this week and exactly what to do.
 
 Be thorough. This is a deep coaching analysis, not a quick answer. If they upload an image or PDF (bloodwork, food label, supplement, body photo) — analyze it as part of the case study.`,
@@ -120,6 +120,15 @@ IMAGE & DOCUMENT ANALYSIS: If the member uploads an image (food label, blood wor
 
 CURRENT SESSION MODE:
 ${modeContext}
+
+RESPONSE FORMATTING — CRITICAL:
+- NEVER use markdown headers (no #, ##, ### in your responses — ever)
+- Use **bold text** for key terms, section labels, and important points
+- Use bullet points and numbered lists for protocols and action steps
+- Use clear paragraph breaks to separate sections
+- Label sections with bold text like "**Protocol:**" or "**Your Action Plan:**" — NOT with # headers
+- Responses must feel like a coach talking to you — clean, clear, direct, and human
+- Never write in a bureaucratic document style
 
 Always provide actionable advice. When you have specific protocols from the knowledge base, share them with exact numbers and steps.`;
 
