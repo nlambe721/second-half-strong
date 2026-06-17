@@ -4251,6 +4251,115 @@ Evening: Wind-down 60 min before bed → breathwork → meditation/journaling �
     content: "Mike Dolce's 30-Day Dolce Plan — a phased nutrition and lifestyle reset for men over 40: Week 1 (Clean Up): audit and eliminate fake health foods, alcohol, ultra-processed foods, sugary beverages, and excess saturated fats; replace with single-ingredient whole foods. Week 2 (Build the Dolce Plate): structure meals around protein + complex carbohydrates + vegetables + healthy fats; practice eating until satisfied not full; establish 2–4 hour eating rhythm. Week 3 (Optimize Recovery): target 7.5–9 hours of sleep nightly; add daily walking (minimum 20–30 minutes); reduce or eliminate alcohol; use recovery as a performance variable, not an afterthought. Week 4 (Dial in Longevity): make the habits automatic; remove friction from food preparation; build a food environment that defaults to good choices; track energy and performance as the primary metrics, not scale weight.",
     sourceRef: "Mike Dolce — Men Over 40 Health Summit"
   },
+
+  // Nick Lambe — Behavioral Sleep Coaching (fr-382–385)
+  {
+    id: "fr-382",
+    speakerId: "nick-lambe",
+    topic: ["sleep", "behavior", "recovery", "psychology", "men over 40"],
+    tags: ["sleep behavior", "sleep confidence", "willpower and sleep", "relationship with sleep", "conditioned arousal"],
+    content: "Nick Lambe — sleep behavior coach who has coached thousands of individuals through sleep challenges — argues that most men don't have a sleep problem; they have a relationship with sleep problem. Sleep is fundamentally different from exercise and nutrition: you cannot force sleep, you cannot discipline yourself into sleep, and the harder you try, the worse it becomes. The three mechanisms required for sleep are: (1) Sleep Pressure (adenosine buildup from wakefulness); (2) Circadian Rhythms (internal body clock governing sleep timing); (3) The Arousal System (nervous system activation — the dimmer switch that must be turned down for sleep to occur). All three operate independently. Shortchanging any one makes sleep suboptimal. Most sleep interventions fail because they address the environment or supplements but ignore the behavioral cascade that has developed.",
+    quote: "Most men don't have a sleep problem. They have a relationship with sleep problem.",
+    sourceRef: "Nick Lambe — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-383",
+    speakerId: "nick-lambe",
+    topic: ["sleep", "caffeine", "naps", "sleep pressure", "recovery"],
+    tags: ["adenosine", "caffeine half-life", "nap timing", "sleep debt", "sleep pressure"],
+    content: "Nick Lambe on the sleep pressure system and its two biggest disruptors — naps and caffeine. Sleep pressure is adenosine accumulating in the brain during wakefulness; sleep clears it. Naps taken too late or too long prevent sleep pressure from rebuilding to the peak needed for nighttime sleep — allow at least 8 hours between the end of a nap and bedtime. Caffeine works by binding to adenosine receptors, blocking the sleepiness signal. The critical issue for men over 40: caffeine's half-life can be 8–14 hours in slow metabolizers, meaning a 2pm coffee can still have circulating caffeine at midnight. While you may still fall asleep, caffeine present at sleep time measurably reduces sleep quality and depth even if you don't feel it. The practical rule: cut off caffeine by noon for most men; earlier for slow metabolizers or those already struggling with sleep quality.",
+    sourceRef: "Nick Lambe — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-384",
+    speakerId: "nick-lambe",
+    topic: ["sleep", "insomnia", "conditioned arousal", "psychology", "behavior"],
+    tags: ["conditioned arousal", "stimulus control", "predisposing factors", "perpetuating factors", "chronic insomnia"],
+    content: "Nick Lambe's model of how sleep problems develop: Predisposing factors (anxiety, stress sensitivity, genetic tendencies — why some men are more vulnerable); Precipitating factors (life events, work stress, travel, illness — what triggers the initial disruption); Perpetuating factors (the behaviors and beliefs that turn temporary disruption into chronic struggle — sleep anxiety, loss of confidence, negative beliefs, spending time awake in bed). The hidden mechanism that sustains chronic sleep problems is conditioned arousal — the bed and bedroom become associated with wakefulness, frustration, and anxiety rather than sleep. This is why men sleep better on vacation or on the couch: no conditioned arousal in those environments. Identifying which layer (predisposing, precipitating, perpetuating) is dominant determines which intervention will work. Most men only address precipitating factors (stressors) while the perpetuating factors continue to drive the problem.",
+    sourceRef: "Nick Lambe — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-385",
+    speakerId: "nick-lambe",
+    topic: ["sleep", "behavior", "strategies", "recovery", "confidence"],
+    tags: ["thought restructuring", "stimulus control", "paradoxical intention", "constructive worry", "sleep restriction", "TRUST framework"],
+    content: "Nick Lambe's five behavioral strategies for improving sleep: (1) Thought Restructuring — identify and challenge negative sleep beliefs ('I'm a bad sleeper', 'I must get 8 hours'); replace with accurate, lower-pressure alternatives; rebuild sleep confidence. (2) Stimulus Control — use the bed only for sleep and intimacy; get out of bed after ~20 minutes of wakefulness (the 20/20 Rule); return only when truly sleepy; this rebuilds bed-sleep association. (3) Paradoxical Intention — try to stay awake with eyes open (reverse psychology reduces sleep performance anxiety). (4) Constructive Worry — write problems and next steps each evening before bed; tell yourself 'I've already dealt with this today'; removes the mental activation that delays sleep. (5) Sleep Restriction — temporarily compress time in bed to build stronger sleep pressure, then gradually expand. The T.R.U.S.T. framework: Trust sleep, Restructure thoughts, Use stimulus control, Strengthen sleep pressure, Take the pressure off. The Sleep Confidence Reset: 14-day behavioral reboot starting with the Sleep Relationship Audit.",
+    quote: "When you stop fighting sleep, sleep often starts fighting for you.",
+    sourceRef: "Nick Lambe — Men Over 40 Health Summit"
+  },
+
+  // Shane McLean — No Time Training (fr-386–389)
+  {
+    id: "fr-386",
+    speakerId: "shane-mclean",
+    topic: ["training", "time management", "programming", "men over 40", "consistency"],
+    tags: ["no time training", "minimum effective dose", "competing demands", "stop training for the time you wish you had", "old playbook"],
+    content: "Shane McLean — 17-year veteran strength coach and fitness writer for Men's Fitness and Muscle & Fitness, currently 56 — frames the central challenge for men over 40 as a time and energy problem, not a knowledge problem. Energy comes from one pool: the same pool that powers work, family, training, and recovery. Competing demands drain it all. The most common mistakes men over 40 make: using the old playbook from their 20s and 30s (high volume, no warm-up, assuming their body can still do what it used to); waiting for perfect conditions; failing to schedule workouts (if it's not in the calendar, it's not happening); and trying to do their old workout in the time they wish they had rather than the time they actually have. The critical mindset shift: stop training for the time you wish you had — start training for the time you actually have. Men often feel exercise is selfish, which puts them last after work and family, compounding the time problem.",
+    quote: "Stop training for the time you wish you had. Start training for the time you actually have.",
+    sourceRef: "Shane McLean — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-387",
+    speakerId: "shane-mclean",
+    topic: ["training", "programming", "minimum effective dose", "efficiency", "time"],
+    tags: ["minimum effective dose", "MED", "20-minute sweet spot", "10-minute rule", "time vs effectiveness", "EMOM", "density training"],
+    content: "Shane McLean's Minimum Effective Dose (MED) framework for men over 40 with limited time. MED comes from pharmacology: the smallest dose that achieves the desired effect. As little as 10 minutes of movement has measurable health benefits — 10 minutes is the floor, not the ceiling. The 20-minute sweet spot: a circuit at 30 seconds work / 30 seconds rest × 5 minutes yields 20 sets of 30-second intervals. That is a substantial training stimulus. Time-efficient methods: EMOM (Every Minute on the Minute — e.g., 6 goblet squats minute 1, 6 push-ups minute 2, 6 rows minute 3, repeat 6 rounds = 18 minutes); Density training (set a 20-minute timer, complete as many quality rounds as possible of squat × 8, push-up × 8, row × 8, farmer carry × 40 yards). Time and intensity have an inverse relationship — less time demands higher intensity. Focus on one quality per session (weights or cardio) rather than trying to combine both into 20 minutes.",
+    sourceRef: "Shane McLean — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-388",
+    speakerId: "shane-mclean",
+    topic: ["training", "strength", "programming", "longevity", "movement patterns"],
+    tags: ["resistance training first", "Big 5 movements", "squat push pull hinge carry", "muscle mass longevity", "cardio after 40"],
+    content: "Shane McLean's training priority hierarchy for men over 40 with limited time: resistance training comes first, always. Muscle mass is the primary longevity variable — it drives metabolic health, hormone function, structural resilience, and independence. When time is limited, never sacrifice resistance training for cardio. The Big 5 Fundamental Human Movements provide the highest ROI with minimum exercise selection: Squat (goblet squat, split squat), Push (push-up, dumbbell press), Pull (row, pull-down), Hinge (RDL, hip thrust), Carry (farmer carry, suitcase carry). Build every workout around this framework — it eliminates decision fatigue and ensures no major pattern is neglected. Cardio after 40: Zone 2 low-intensity cardio (walking) is prioritized over high-intensity cardio for men over 40 because high-intensity adds significant stress on top of existing life stress, compounding the recovery problem. Walk 8,000–10,000 steps or 20–30 minutes daily — walking is recovery, stress management, and longevity insurance.",
+    sourceRef: "Shane McLean — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-389",
+    speakerId: "shane-mclean",
+    topic: ["training", "programming", "lifestyle", "consistency", "flexibility"],
+    tags: ["Flexibility Scale", "never go to zero", "realistic weekly plan", "No Time Training System", "busy executive", "busy parent", "frequent traveler"],
+    content: "Shane McLean's No Time Training System implementation for real-life scenarios. The Flexibility Scale: when life gets busier, scale down the session rather than skip it entirely — Level 1 (30 min) → Level 2 (20 min) → Level 3 (10 min) → Level 4 (walk) → Level 5 (mobility session). Never go to zero. The realistic weekly minimum: 2 strength sessions + 2 cardio/walking sessions. Reduce time, never frequency. Scenario solutions: Busy executive (lunchtime workout, calendar block as unbreakable appointment); busy parent (home workout with bodyweight or minimal equipment); shift worker (prioritize recovery, manage fatigue, protect sleep window); frequent traveler (hotel bodyweight workouts, mobility sessions, walking). The No Time Training System: Step 1 establish minimum standard (10/15/20/30 min); Step 2 build fitness calendar (schedule workouts first, everything else around them); Step 3 master the Big 5; Step 4 use the 20-Minute Blueprint; Step 5 walk daily; Step 6 use the Flexibility Scale.",
+    quote: "If it's not scheduled, it's optional.",
+    sourceRef: "Shane McLean — Men Over 40 Health Summit"
+  },
+
+  // Travis Stoetzel — Forged Man Reset (fr-390–393)
+  {
+    id: "fr-390",
+    speakerId: "travis-stoetzel",
+    topic: ["mindset", "identity", "discipline", "men over 40", "purpose"],
+    tags: ["Forged Father", "ex-athlete identity", "drift", "standard", "ownership"],
+    content: "Travis Stoetzel — founder of Forged Father, former college and professional football player, CrossFit Games Masters competitor (7th in the world, 2018), father of five — addresses the specific crisis of the ex-athlete man over 40 who has lost his edge. Men who were high performers — athletes, competitors, disciplined leaders — often drift slowly away from that identity after their competitive phase ends. One missed workout becomes a week. One bad habit becomes a lifestyle. The drift is subtle and cumulative. The #1 sign you're falling off: you are tolerating things you once would not have accepted. Stoetzel's own moment came after a period of partying and loss of discipline post-football: he saw himself in the mirror — soft, inflamed — and made a decision. The problem is not age, work, or family — it is identity loss compounded by low standards. Men tell themselves the story that they can't get it back. The story is false.",
+    quote: "You don't drift into greatness. You decide — and you build.",
+    sourceRef: "Travis Stoetzel — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-391",
+    speakerId: "travis-stoetzel",
+    topic: ["identity", "purpose", "mindset", "transformation", "standards"],
+    tags: ["MVP framework", "Mission Vision Purpose", "transformation vs change", "personal standards", "identity-level change"],
+    content: "Travis Stoetzel distinguishes between change (temporary behavior modification) and transformation (identity-level shift). Men seeking change tweak habits and relapse. Men seeking transformation rebuild who they are. The MVP Framework — Mission, Vision, Purpose — is Stoetzel's identity reconstruction tool: Mission (what you are called to do), Vision (the clear picture of the man you are becoming), Purpose (the deep why that makes quitting non-negotiable). Setting personal standards is not goal-setting — it is deciding what you will no longer tolerate from yourself. Standards must be specific and non-negotiable: daily movement minimum, no junk food on weekdays, consistent wake time, no alcohol. The Don't Miss Twice Rule: miss once and get back immediately — missing twice is not allowed. The trap of transformation: men set unrealistic targets, fail immediately, and use the failure as evidence they cannot change. Start small, make it real, and build from there.",
+    quote: "You become what you tolerate.",
+    sourceRef: "Travis Stoetzel — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-392",
+    speakerId: "travis-stoetzel",
+    topic: ["fitness", "discipline", "leadership", "family", "structure"],
+    tags: ["4 core buckets", "fitness family faith finances", "fitness as gateway", "Forged Father Method", "daily structure"],
+    content: "Travis Stoetzel's Forged Father Method centers on four core buckets that every man must build simultaneously: Fitness, Family, Faith, and Finances. These are not competing priorities — they reinforce each other. Fitness is the gateway to self-mastery: when a man rebuilds his physical discipline, the discipline spreads. He becomes more present with his family, clearer in his finances, more grounded in his faith. The daily check-in: Did I move my body? Did I connect with my family? Did I take time to reflect or pray? Did I improve financially or mentally? The daily structure that removes overwhelm: morning routine (movement plus mindset) → work block → family time → reflection. Stoetzel's warning about burnout: men who come back after a long drift try to do everything immediately — train twice a day, overhaul nutrition, fix finances, reconnect with faith — and burn out within two weeks. Start with fitness first. Build the discipline engine before adding complexity.",
+    sourceRef: "Travis Stoetzel — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-393",
+    speakerId: "travis-stoetzel",
+    topic: ["accountability", "brotherhood", "discipline", "identity", "30-day reset"],
+    tags: ["brotherhood", "accountability", "Forged Man Reset", "30-day plan", "integrity", "stop drifting"],
+    content: "Travis Stoetzel's Forged Man Reset — a 30-day phased identity and discipline rebuild. Phase 1 — Truth and Decision (Days 1–7): Write honestly where you have let yourself go, what standards you have lowered, what you are tolerating. Make the decision verbally and in writing: I'm done drifting. Phase 2 — Rebuild Standards (Days 8–21): Set 3 non-negotiable standards (daily movement, food quality, wake time, alcohol). Train 3–4 times per week. Walk daily. Apply the Don't Miss Twice Rule. Phase 3 — Build Structure and Balance (Days 22–30): Fill the 4 Buckets daily. Create a simple daily structure. Find accountability — a group, a brother, a coach. Men fail alone and win together. Brotherhood is not optional for sustained transformation — it is a structural requirement. The identity shift statement: stop saying 'I used to be that guy.' Start saying 'I'm becoming that man again.' Integrity means doing what you said you would do, when you said you would do it, even when no one is watching.",
+    quote: "I'm becoming that man again.",
+    sourceRef: "Travis Stoetzel — Men Over 40 Health Summit"
+  },
 ];
 
 export const topicIndex: Record<string, string[]> = {
