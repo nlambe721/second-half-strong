@@ -4143,6 +4143,114 @@ Evening: Wind-down 60 min before bed → breathwork → meditation/journaling �
     quote: "Your body is no longer asking 'how much can you survive?' It is asking 'how well can you continue to perform for life?'",
     sourceRef: "Bryan Krahn — Men Over 40 Health Summit, Bryan Krahn Blueprint for Men Over 40"
   },
+
+  // Marc Azoulay — Warrior to King (fr-370–373)
+  {
+    id: "fr-370",
+    speakerId: "marc-azoulay",
+    topic: ["mindset", "masculinity", "identity", "leadership", "personal development"],
+    tags: ["warrior to king", "masculine identity", "midlife transition", "emotional leadership", "men over 40"],
+    content: "Marc Azoulay teaches the Warrior to King framework — the essential identity transition men over 40 must make to thrive. The Warrior phase is built on performance: discipline, compartmentalization, execution, provider identity. It builds success but eventually becomes a ceiling. Warrior energy is a means to an end, not a permanent identity. The King phase is characterized by emotional leadership, connection, mentorship, and legacy. The King leads from wholeness, not from fear of failure. Men who skip this transition experience what looks like a midlife crisis — which Azoulay frames as identity transition grief, not crisis. The shift is not about abandoning strength but expanding it to include emotional precision and relational depth.",
+    quote: "You built your life as a Warrior. Now it's time to lead it as a King.",
+    sourceRef: "Marc Azoulay — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-371",
+    speakerId: "marc-azoulay",
+    topic: ["masculinity", "emotional health", "relationships", "communication", "inner work"],
+    tags: ["the shield", "the sword", "nice guy trap", "masculine communication", "emotional precision"],
+    content: "Marc Azoulay's three masculine archetypes: The Shield (healthy boundaries — protecting energy, time, and relationships without aggression), The Sword (emotional precision — choosing words with intention and delivering them with calm authority), and Riding the Horse (mastery — being in full command of one's emotional and behavioral responses). The Nice Guy trap is a core Warrior failure mode: over-giving, seeking approval, and avoiding conflict in exchange for perceived safety. Azoulay's masculine communication drill: slow your pace, lower your pitch, use fewer words, let silence work. Emotional processing tool: the shitty first draft — write a raw, unfiltered letter expressing exactly what you feel (never sent), then extract the real core need underneath the emotion.",
+    quote: "The Nice Guy isn't nice. He's afraid. And everyone around him knows it.",
+    sourceRef: "Marc Azoulay — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-372",
+    speakerId: "marc-azoulay",
+    topic: ["family", "leadership", "legacy", "relationships", "purpose"],
+    tags: ["family ecosystem", "King phase", "legacy building", "mentorship", "relational leadership"],
+    content: "In the King phase, the primary domain shifts from career performance to family ecosystem. Marc Azoulay's Family Ecosystem Audit asks: Is your home a place your family wants to be? Are you present or just physically in the room? Are you mentoring your children intentionally? Are you building a legacy or just accumulating achievements? King leadership in the family means setting the emotional tone of the home — being the regulator, not the reactor. Men who remain in pure Warrior mode at home often find their family has emotionally left even while physically present. The King builds containers of safety, challenges his family toward growth, and models the character he wants to pass forward.",
+    sourceRef: "Marc Azoulay — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-373",
+    speakerId: "marc-azoulay",
+    topic: ["identity", "personal development", "mindset", "men over 40", "transformation"],
+    tags: ["warrior audit", "identity transition", "midlife", "purpose", "King leadership"],
+    content: "Marc Azoulay's Warrior Audit is a self-assessment tool for men over 40: (1) List your current roles — which ones energize you vs drain you? (2) Where are you still performing for approval rather than leading from values? (3) What parts of yourself have you suppressed to maintain Warrior identity? (4) What would it mean to lead your life as a King instead of executing it as a Warrior? The transition is not a single event but a progressive reorientation. Men often resist the shift because Warrior identity provided clear metrics for success. King identity requires tolerating ambiguity, sitting with emotion, and measuring success in terms of relational depth and legacy rather than output. The midlife crisis is what happens when a man refuses to make this transition voluntarily.",
+    quote: "The Warrior earns respect. The King earns love. You need both — but only one of them can lead.",
+    sourceRef: "Marc Azoulay — Men Over 40 Health Summit"
+  },
+
+  // Melody Schoenfeld — Grip Strength & Longevity (fr-374–377)
+  {
+    id: "fr-374",
+    speakerId: "melody-schoenfeld",
+    topic: ["training", "grip strength", "longevity", "strength", "performance"],
+    tags: ["grip strength", "longevity marker", "limiting factor", "functional strength", "men over 40"],
+    content: "Melody Schoenfeld makes the case that grip strength is the single most overlooked factor in both longevity and training performance for men over 40. Research consistently links grip strength to lifespan, independence, and all-cause mortality — it is one of the strongest predictors of how well a man will function in his 70s and 80s. In training, grip is always the first thing to fail: your glutes and hamstrings have more in the tank, but your hands give out first. This means every time you use straps or gloves to compensate for weak grip, you are training around the real limitation rather than addressing it. Most men have dramatically undertrained hands relative to the rest of their bodies.",
+    quote: "Your grip tells me more about your future than your squat does.",
+    sourceRef: "Melody Schoenfeld — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-375",
+    speakerId: "melody-schoenfeld",
+    topic: ["training", "grip strength", "programming", "strength", "technique"],
+    tags: ["crush grip", "support grip", "pinch grip", "vertical grip", "grip training"],
+    content: "Melody Schoenfeld identifies four distinct grip types that must all be trained: (1) Crush grip — squeezing an object (handshakes, pulling exercises); (2) Support grip — sustaining a hold under load over time (farmer carries, deadlift lockouts, bar hangs); (3) Pinch grip — thumb opposition strength (plate pinches, thick bar work); (4) Vertical grip — wrist and forearm stability in vertical pulling patterns. Most gym programs only train crush grip incidentally through pulling exercises. Support grip, pinch grip, and vertical grip are systematically neglected. Each type has unique functional value and specific exercises. Schoenfeld's programming principle: if you only have time for one grip exercise, farmer carries train the most grip types simultaneously.",
+    sourceRef: "Melody Schoenfeld — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-376",
+    speakerId: "melody-schoenfeld",
+    topic: ["training", "grip strength", "exercise", "programming", "technique"],
+    tags: ["farmer carries", "deadlift holds", "bar hangs", "plate pinches", "towel pulls", "Bulgarian bag"],
+    content: "Melody Schoenfeld's grip training toolkit: Deadlift lockout holds (load a bar, pull to lockout, hold for 20–30 seconds — trains support grip under maximal load); farmer carries (loaded walks for distance or time — trains support grip, posture, and full-body tension simultaneously); bar hangs (passive hang for endurance, active hang for scapular health, towel hang for crush and pinch grip combined); plate pinches (two plates smooth-side out, pinch and hold — isolates pinch grip); Bulgarian bag swings and rope/towel pulling (vertical grip and wrist stability); sled drags with rope (full arm and grip endurance). Strategic strap use: use straps when the goal is maximal loading for back development; avoid straps for accessory work and when under 80% of max load. Keep double overhand grip as long as technically possible — it forces the hands to develop.",
+    sourceRef: "Melody Schoenfeld — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-377",
+    speakerId: "melody-schoenfeld",
+    topic: ["training", "tension", "performance", "technique", "strength"],
+    tags: ["full-body tension", "energy leaks", "squeeze the bar", "grip technique", "training performance"],
+    content: "Melody Schoenfeld's tension creation principle: grip is not just hand strength — it is the entry point for full-body tension. When you squeeze a bar with genuine intent, irradiation occurs: neural drive spreads up the arm, through the shoulder, across the back. Energy leaks (slack grip, soft wrists, loose lats) reduce force production throughout the entire movement. Schoenfeld's technique cue: before any pulling or pressing movement, squeeze the bar as if you're trying to leave fingerprints in the steel. This single cue improves performance on deadlifts, rows, pull-ups, and presses simultaneously. Men over 40 who add deliberate grip work and tension creation to existing programs typically see immediate performance gains without adding any new exercises — they are simply removing the limiting factor that was already there.",
+    quote: "Every ounce of tension starts in your hands. Lose your grip and you've already lost the rep.",
+    sourceRef: "Melody Schoenfeld — Men Over 40 Health Summit"
+  },
+
+  // Mike Dolce — Nutrition & Recovery (fr-378–381)
+  {
+    id: "fr-378",
+    speakerId: "mike-dolce",
+    topic: ["nutrition", "recovery", "performance", "whole foods", "men over 40"],
+    tags: ["Dolce Diet", "whole foods", "single ingredient", "recovery first", "no margin for error"],
+    content: "Mike Dolce — four-time MMA Trainer of the Year and creator of The Dolce Diet — centers his nutrition philosophy on a single principle: it's not how hard you train, it's how well you recover. For men over 40, there is no longer a margin of error. Alcohol, ultra-processed foods, chronic poor sleep, and chronic stress are not recoverable in 24 hours the way they were at 25. The foundational principle of the Dolce Diet is single-ingredient whole foods — the same foods Dolce used with UFC Champion Ronda Rousey are the same foods he used with his elderly grandmother. Volume and frequency differ based on activity level; the food itself does not. As Stan Efferding says: compliance is the science. The most sophisticated nutrition plan fails if you can't follow it.",
+    quote: "It's not how hard you train. It's how well you recover.",
+    sourceRef: "Mike Dolce — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-379",
+    speakerId: "mike-dolce",
+    topic: ["nutrition", "diet principles", "whole foods", "hydration", "lifestyle"],
+    tags: ["5 Dolce principles", "earth grown nutrients", "eating frequency", "eat until satisfied", "water", "stress management"],
+    content: "Mike Dolce's 5 Core Dolce Diet Principles: (1) Eat earth-grown nutrients — if it grew from the ground or grazed on the ground, eat it; if it was manufactured in a facility, minimize it. (2) Eat every 2–4 hours based on your activity level — avoid long gaps that lead to poor food choices and metabolic signaling disruption. (3) Eat until satisfied, not full — fullness is overconsumption; satisfaction is optimization. (4) Drink mostly water — eliminate liquid calories, sugary beverages, and excess alcohol. (5) Enjoy life and manage stress — chronic stress elevates cortisol, suppresses testosterone, and disrupts every metabolic process. Foods to eliminate: fake health foods, alcohol, ultra-processed foods, excess saturated fats, and sugary beverages. Why intermittent fasting often fails men over 40: under-eat all day, arrive at dinner ravenous, overeat at night, create an unhealthy and punishing relationship with food.",
+    sourceRef: "Mike Dolce — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-380",
+    speakerId: "mike-dolce",
+    topic: ["nutrition", "testosterone", "hormones", "inflammation", "gut health"],
+    tags: ["Vitamin D", "magnesium", "zinc", "testosterone", "gut inflammation", "processed foods"],
+    content: "Mike Dolce on nutrition and testosterone: most men over 40 are deficient in the three nutrients most critical to testosterone production — Vitamin D, Magnesium, and Zinc. These deficiencies are dietary and lifestyle-driven, not inevitable aging. Fix lifestyle before considering TRT: sleep is the primary driver of testosterone (deep sleep is when LH pulses trigger testosterone production); reduce alcohol (directly suppresses testosterone); eliminate processed foods (systemic inflammation starts in the gut — processed foods trigger gut lining breakdown, which creates body-wide inflammatory signaling that suppresses hormone function). Dolce's hierarchy: food quality → sleep → stress management → supplementation → medical intervention. Testosterone optimization is downstream from lifestyle — not the other way around.",
+    sourceRef: "Mike Dolce — Men Over 40 Health Summit"
+  },
+  {
+    id: "fr-381",
+    speakerId: "mike-dolce",
+    topic: ["nutrition", "programming", "recovery", "longevity", "lifestyle"],
+    tags: ["30-Day Dolce Plan", "clean up", "Dolce plate", "recovery habits", "longevity"],
+    content: "Mike Dolce's 30-Day Dolce Plan — a phased nutrition and lifestyle reset for men over 40: Week 1 (Clean Up): audit and eliminate fake health foods, alcohol, ultra-processed foods, sugary beverages, and excess saturated fats; replace with single-ingredient whole foods. Week 2 (Build the Dolce Plate): structure meals around protein + complex carbohydrates + vegetables + healthy fats; practice eating until satisfied not full; establish 2–4 hour eating rhythm. Week 3 (Optimize Recovery): target 7.5–9 hours of sleep nightly; add daily walking (minimum 20–30 minutes); reduce or eliminate alcohol; use recovery as a performance variable, not an afterthought. Week 4 (Dial in Longevity): make the habits automatic; remove friction from food preparation; build a food environment that defaults to good choices; track energy and performance as the primary metrics, not scale weight.",
+    sourceRef: "Mike Dolce — Men Over 40 Health Summit"
+  },
 ];
 
 export const topicIndex: Record<string, string[]> = {
