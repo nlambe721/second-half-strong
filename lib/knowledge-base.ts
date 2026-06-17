@@ -3566,6 +3566,98 @@ Evening: Wind-down 60 min before bed → breathwork → meditation/journaling �
     sourceRef: "Calvin Richard — The Rise to Roar Reset"
   },
 
+
+  {
+    id: "fr-307",
+    speakerId: "dr-ashley-froese",
+    topic: ["optimization", "supplements", "hormones", "men-over-40"],
+    tags: ["Dr. Ashley Froese", "peptides", "amino acids", "cellular messengers", "insulin", "peptide science", "how peptides work", "receptors"],
+    content: "Dr. Ashley Froese is a health educator, researcher, and science communicator specializing in translating complex science — particularly peptides, hormones, metabolism, and cellular health — into practical, actionable guidance for everyday people. Her core message on peptides: peptides are chains of amino acids (the same building blocks as proteins) that function as cellular messengers. When introduced into the body, a peptide finds a receptor that already exists naturally and hits it like pushing an on button — enabling the body to do something it already knows how to do, more effectively. The body is not given something foreign; it is helped to perform its own existing functions. Insulin was one of the first synthesized peptides. Five categories every man over 40 should understand: Fat Loss and Metabolic Health, Muscle Building and Recovery, Injury Repair and Healing, Hormone Optimization, and Longevity and Cellular Energy. Peptides are tools, not magic — they work best when nutrition, sleep, exercise, and recovery are already in place.",
+    sourceRef: "Dr. Ashley Froese — Peptides for Men Over 40"
+  },
+  {
+    id: "fr-308",
+    speakerId: "dr-ashley-froese",
+    topic: ["optimization", "supplements", "fat-loss", "men-over-40"],
+    tags: ["GLP-1", "Ozempic", "semaglutide", "tirzepatide", "Mounjaro", "retatrutide", "weight loss", "insulin resistance", "metabolic health", "diabetes", "GIP"],
+    content: "Dr. Ashley Froese on GLP-1 peptides and metabolic health: Ozempic (semaglutide) was originally developed for diabetes — a GLP-1 receptor agonist that slowed digestion and improved blood sugar. People started losing weight on it, it got rebranded as a weight loss drug, COVID-era demand led to compounding pharmacy availability, and adoption exploded. Tirzepatide (Mounjaro/Zepbound) came next — it hits both GLP-1 and GIP receptors, produces greater fat loss, and causes fewer side effects (less nausea, less vomiting, better compliance). Retatrutide is the next iteration currently generating significant attention — hits GLP-1, GIP, and glucagon receptors simultaneously. These compounds are transforming metabolic health for men dealing with insulin resistance, visceral fat, and blood sugar dysregulation. The concern for men: GLP-1 use without adequate protein intake and resistance training can accelerate muscle loss. Always pair with strength training and high protein.",
+    sourceRef: "Dr. Ashley Froese — Peptides for Men Over 40"
+  },
+  {
+    id: "fr-309",
+    speakerId: "dr-ashley-froese",
+    topic: ["optimization", "supplements", "training", "recovery"],
+    tags: ["BPC-157", "TB-500", "CJC-1295", "Sermorelin", "Tesamorelin", "Ipamorelin", "GHK-Cu", "KPV", "Wolverine Stack", "repair peptides", "growth hormone", "IGF-1", "injury healing"],
+    content: "Dr. Ashley Froese on muscle, repair, and recovery peptides: Growth hormone-releasing peptides for muscle building: CJC-1295, Sermorelin, Tesamorelin, and Ipamorelin — all stimulate natural growth hormone release, supporting improved sleep, enhanced recovery, increased IGF-1 production, and greater training adaptations. Repair and recovery peptides (the most popular category among active men over 40): BPC-157 signals injury sites and accelerates healing; TB-500 directs recovery resources to damaged tissues; GHK-Cu supports collagen production; KPV helps regulate inflammation. Peptide stacks: the Wolverine Stack (BPC-157 + TB-500) is used for accelerated injury repair; the Glow Stack targets skin and connective tissue; the CLO Stack targets combined longevity outcomes. Before starting any peptide protocol, get baseline blood work: Total and Free Testosterone, Estradiol, PSA, Liver function, Kidney function, Vitamin D, Thyroid panel, HS-CRP.",
+    sourceRef: "Dr. Ashley Froese — Peptides for Men Over 40"
+  },
+  {
+    id: "fr-310",
+    speakerId: "dr-ashley-froese",
+    topic: ["longevity", "optimization", "supplements", "mitochondria"],
+    tags: ["MOTS-c", "SS-31", "mitochondria", "longevity peptides", "cellular energy", "kisspeptin", "hormone optimization", "peptide safety", "blood work", "Peptide Optimization Blueprint"],
+    content: "Dr. Ashley Froese on longevity peptides and safety: MOTS-c improves mitochondrial adaptation and supports endurance and resilience; SS-31 helps stabilize mitochondrial function and may improve cellular energy production. Mitochondrial health is the next frontier in longevity medicine — energy production at the cellular level affects everything from physical performance to the rate of aging. On hormone optimization: Kisspeptin may indirectly support testosterone production; blood work must always come first before any peptide protocol. The Peptide Optimization Blueprint for men over 40: Week 1 — build the foundation (sleep, training, nutrition, stress); Week 2 — get baseline blood work; Week 3 — identify your primary goal (fat loss, muscle, repair, hormone optimization, or longevity); Week 4 — create targeted strategy with a qualified professional. Key principle: choose one lane rather than chasing multiple goals simultaneously.",
+    sourceRef: "Dr. Ashley Froese — The Peptide Optimization Blueprint"
+  },
+  {
+    id: "fr-311",
+    speakerId: "dr-dan-gartenberg",
+    topic: ["sleep", "recovery", "men-over-40", "health"],
+    tags: ["Dr. Dan Gartenberg", "SleepSpace", "sleep apnea", "obstructive sleep apnea", "central sleep apnea", "snoring", "hypoxic events", "SpO2", "sleep science", "men over 40"],
+    content: "Dr. Dan Gartenberg is a sleep scientist, experimental psychologist, and founder of SleepSpace — a sleep improvement platform combining behavioral science, technology, and personalized insights. He has dedicated his career to understanding how sleep influences human performance, recovery, mental health, and longevity. His core message for men over 40: sleep apnea is one of the most common and most overlooked health threats in this demographic — men over 50 are at significantly higher risk. Sleep apnea is defined as five or more brief interruptions per hour where breathing stops, causing hypoxic events (SpO2 dips, oxygen desaturation). Three types: obstructive (most common — airway physically closes), central (brain fails to signal properly), and complex (both). Diagnosis threshold: 5 events per hour = mild apnea. 30+ events per hour = severe. The critical message: if you snore, get tested. At-home sleep tests are cheap, accurate, and take one night. The risk of ignoring it is too high.",
+    sourceRef: "Dr. Dan Gartenberg — Sleep Apnea After 40"
+  },
+  {
+    id: "fr-312",
+    speakerId: "dr-dan-gartenberg",
+    topic: ["sleep", "recovery", "health", "men-over-40"],
+    tags: ["sleep apnea symptoms", "snoring", "non-rhythmic snoring", "teeth grinding", "acid reflux", "dry mouth", "daytime fatigue", "at-home sleep test", "CPAP", "mandibular advancement device", "Inspire", "ENT", "sleep testing", "Wesper"],
+    content: "Dr. Dan Gartenberg on sleep apnea symptoms and treatment options: Warning signs beyond snoring — non-rhythmic snoring (abnormal; normal snoring has a rhythm), teeth grinding (bruxism is a strong indicator), acid reflux, dry mouth upon waking, daytime fatigue despite 7+ hours in bed, frequent nighttime wakeups, feelings of not breathing during dreams. Five primary treatment pathways: (1) CPAP — most effective for moderate to severe cases, highly effective especially when apnea is significant; (2) Mandibular advancement device — a medical oral appliance that pushes the jaw forward to open the airway; can be prescribed and often covered by insurance; (3) GLP-1 medications (e.g., SetBounds was approved for sleep apnea); (4) Inspire device — surgical implant for more severe cases that stimulates the airway; (5) ENT surgical procedures — modify throat anatomy; less common. Also: positional therapy (sleeping on side) and nasal breathing optimization. Dr. Gartenberg personally uses the mandibular advancement device for his own mild case.",
+    sourceRef: "Dr. Dan Gartenberg — Sleep Apnea After 40"
+  },
+  {
+    id: "fr-313",
+    speakerId: "dr-dan-gartenberg",
+    topic: ["sleep", "hormones", "recovery", "longevity"],
+    tags: ["sleep apnea health consequences", "testosterone", "cardiovascular health", "cognitive function", "energy", "hormones", "longevity", "recovery", "mood", "brain health"],
+    content: "Dr. Dan Gartenberg on the health consequences of untreated sleep apnea: This is not just a snoring problem — it is a systemic health crisis that men are ignoring because they've normalized the symptoms. Untreated sleep apnea directly causes: reduced testosterone and hormone disruption; impaired cardiovascular health (elevated blood pressure, elevated heart disease risk); reduced cognitive performance and brain health; chronic daytime fatigue and reduced productivity; impaired exercise recovery; mood dysregulation and emotional volatility. Men spend years chasing better energy, better testosterone, improved recovery, and weight loss without addressing one of the most common root causes hiding beneath the surface: poor breathing during sleep. Sometimes the most impactful performance upgrade is not another supplement, workout protocol, or productivity hack — it is simply breathing and sleeping better. The D.R.E.A.M. framework: Duration, Regularity, Environment (cool/dark/quiet), Airway (prioritize breathing quality), Movement.",
+    quote: "Sometimes the most impactful performance upgrade isn't another supplement, workout, or productivity hack. It's simply breathing — and sleeping — better.",
+    sourceRef: "Dr. Dan Gartenberg — The Breathe Better Blueprint"
+  },
+  {
+    id: "fr-314",
+    speakerId: "dr-izzy-justice",
+    topic: ["mindset", "performance", "men-over-40", "stress"],
+    tags: ["Dr. Izzy Justice", "Neuro580", "neuroscience", "EEG", "brain scans", "brain electricity", "performance", "peak performance", "mental wellness", "decision making", "regulation"],
+    content: "Dr. Izzy Justice is a neuroscientist, executive coach, author, and Chief Neuroscience Officer at Neuro580. He has conducted more than 18,000 live EEG brain scans on elite athletes, PGA golfers, UFC fighters, NASCAR drivers, and executives — studying what happens inside the brain in the seconds before breakthrough performance and before failure. His foundational insight: the brain communicates through electricity. Every thought, movement, emotion, and decision is driven by electrical activity among billions of neurons. EEG (electroencephalography) measures this electrical activity. Before 2015, brain measurement required clinical settings and complete stillness. Wireless EEG changed everything — allowing real-time observation of the brain during actual performance, movement, and task execution. His central argument for men over 40: men focus relentlessly on the body — fat loss, testosterone, muscle, nutrition, supplements, exercise. But the body follows where the brain leads. The brain is the quarterback. Optimize the quarterback and everything downstream improves.",
+    sourceRef: "Dr. Izzy Justice — The 10 Hertz Advantage"
+  },
+  {
+    id: "fr-315",
+    speakerId: "dr-izzy-justice",
+    topic: ["mindset", "performance", "stress", "men-over-40"],
+    tags: ["10 Hertz", "alpha waves", "flow state", "zone", "peak performance", "confidence", "sensory awareness", "memory access", "brain frequency", "focus", "decision making", "game slows down"],
+    content: "Dr. Izzy Justice on the 10 Hertz discovery: After 18,000+ EEG scans, a consistent pattern emerged across all elite performers — the best performers consistently operate at approximately 10 Hertz (alpha brainwave frequency) in the seconds before and during peak performance. At 10 Hertz: sensory input dramatically increases (you see more, hear more, feel more, become fully present); memory access improves (the brain gains access to experience, knowledge, skills, training, and accumulated wisdom). This is why confidence is really an access problem — confidence isn't about believing you can do it, it's about being in a state where you can access what you already know. This is the game slowing down that elite athletes describe — the hallmark of flow state. When brain frequency rises too high (from stress, overthinking, anxiety, pressure), the opposite happens: sensory awareness decreases, memory access blocks, performance degrades. Peak performance is not about motivation or effort — it's about brain regulation.",
+    quote: "Confidence is really an access problem — it's about being in a state where you can access what you already know.",
+    sourceRef: "Dr. Izzy Justice — The 10 Hertz Advantage"
+  },
+  {
+    id: "fr-316",
+    speakerId: "dr-izzy-justice",
+    topic: ["mindset", "stress", "performance", "men-over-40"],
+    tags: ["stress", "brain overload", "neurohacks", "10/10 method", "finger tracking", "sensory reset", "technology overstimulation", "social media", "notifications", "chronic stress", "mental noise", "brain noise"],
+    content: "Dr. Izzy Justice on why stress creates failure and the overloaded modern brain: When stress spikes brain frequency above 10 Hertz, the brain becomes crowded with noise — negative thoughts, worries, fear, past failures — which blocks access to useful information. Focus decreases, sensory awareness decreases, confidence disappears, and decision quality drops. This is not a character issue; it is a neurological state issue. Modern life makes this worse: smartphones, social media, news cycles, constant notifications, and information consumption create chronic neurological overstimulation that previous generations never experienced. Most men over 40 are operating in a persistent state of brain overload without knowing it. Two practical neurohacks: (1) The 10/10 Method — count from 0 to 10 quickly, then 10 to 1 slowly; this takes 10-20 seconds and immediately reduces mental noise and increases clarity; (2) Sensory Finger Tracking — place one hand up, use fingertips of the other hand to perform 3 fast passes then 3 slow passes, focusing entirely on physical sensation; 10-15 seconds; resets the nervous system and creates immediate presence.",
+    sourceRef: "Dr. Izzy Justice — The 10 Hertz Performance Protocol"
+  },
+  {
+    id: "fr-317",
+    speakerId: "dr-izzy-justice",
+    topic: ["mindset", "performance", "habits", "men-over-40"],
+    tags: ["10 Hertz lifestyle", "mental fitness", "moments that matter", "presence", "single task focus", "brain optimization", "daily protocol", "Life Explained", "Chasing 10 Hertz", "performance protocol", "brain as quarterback"],
+    content: "Dr. Izzy Justice on building a 10 Hertz lifestyle: Mental fitness is the next frontier for men over 40. Rather than chasing perfection or trying to be at peak capacity all the time, the strategy is: identify the 3 moments that matter most each day (important meeting, workout, difficult conversation, coaching call, family interaction, presentation), then use a neurohack to get to 10 Hertz before each one. The 10 Hertz Performance Protocol: Morning — identify 3 key moments; before pressure — use the 10/10 Method; during stress — use Finger Tracking Reset; evening — reduce unnecessary stimulation; daily — prioritize sleep and recovery. Reduce brain noise by auditing daily inputs: news, social media, notifications. Ask: is this helping me perform better? If not, reduce it. Train presence by single-tasking — when eating, just eat; when walking, just walk; when listening, just listen. His book: Life Explained: Chasing 10 Hertz. Core principle: the brain is the quarterback of your life. Regulate it and you unlock better performance, better health, better decisions, and a better life.",
+    sourceRef: "Dr. Izzy Justice — The 10 Hertz Performance Protocol"
+  },
+
 ];
 
 export const topicIndex: Record<string, string[]> = {
