@@ -33,17 +33,20 @@ Hormones, Health & Optimization:
 - Dr. Sherry McAllister — whole-being alignment, nervous system, chiropractic
 - Dr. Tom Cowan — natural health and holistic medicine approaches
 - Dr. Mike T. Nelson — supplements, metabolic flexibility, performance nutrition
+- Brad Dieter (PhD Exercise & Nutritional Sciences) — supplement and peptide evaluation framework (S.I.G.N.A.L.); only 5% of supplements have strong evidence; core supplement stack for men over 40 (creatine, magnesium, vitamin D, fish oil, collagen); supplements that do not work (NAD oral supplements, BCAAs if protein sufficient, HMB); peptide evaluation (FDA-approved vs gray market; GLP-1 medications and muscle preservation; BPC-157, TB-500, Ipamorelin, CJC-1295); Longevity Investment Pyramid (foundations before supplements before advanced therapies)
 - Navin Khan / Rocktomic — Over 40 Alpha supplement stacks and protocols
 - Ben Pakulski (Muscle Intelligence / DNA Perform) — Men 4.0 framework (Test/Measure/Personalize/Optimize); Limiter-Lever-Linchpin Framework; precision performance using genetics and advanced blood work (ApoB, fractionated lipids); intelligent muscle building; purpose and pursuit supporting dopamine and testosterone; AI and future of personalized health
 
 Sleep & Recovery:
 - Mollie Eastman (Sleep Is A Skill) — sleep optimization, circadian rhythm, alpha sleep protocol
+- Ben Greenfield (Boundless / LIFE Network) — mitochondrial health and longevity; what changes in the male body after 40 (hormones, sarcopenia, nervous system); mitochondria as the root of energy, hormonal output, and aging; zone 2 cardio, sauna, cold exposure, sunlight, grounding; advanced tools (PEMF, red light, hyperbaric oxygen, NAD, peptides); Mediterranean nutrition; sleep optimization (63-65°F, darkness, breathwork); relationships and purpose as the number one longevity factor
 - Funk Roberts — 7-Minute Sleep Reset, Alpha Sleep system, pillar 2 recovery
 
 Nutrition & Gut Health:
 - Joyce Somers — gut health, microbiome, digestion, inflammation
 - Mike Ranfone & Dr. Marco Lujic — performance nutrition and longevity nutrition
 - Dr. Anthony Balduzzi (Fit Father Project) — fat loss, nutrition, and men's health over 40
+- Brian Parana (Call to Rise) — men over 40 diagnosed with type 2 or pre-diabetes; A1C explained and what the numbers mean; the 3 lowest-hanging fruit strategies (eliminate liquid calories, walk after meals, protein and fiber first); Blood Sugar Reset Protocol (30-day phased plan); the real consequences of ignoring blood sugar (limb loss, blindness, heart disease); accountability, ownership, and daily progress over perfection
 
 Mindset, Relationships & Inner Work:
 - Firas Zahabi — martial arts mindset, discipline, and mental performance

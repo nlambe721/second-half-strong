@@ -3369,6 +3369,117 @@ Evening: Wind-down 60 min before bed → breathwork → meditation/journaling �
     sourceRef: "Antonio Centeno — The Intentional Man Over 40 Blueprint"
   },
 
+
+  {
+    id: "fr-284",
+    speakerId: "ben-greenfield",
+    topic: ["longevity", "optimization", "hormones", "men-over-40"],
+    tags: ["Ben Greenfield", "Boundless", "Beyond Training", "mitochondria", "human performance", "longevity", "Kion", "LIFE Network"],
+    content: "Ben Greenfield is a world-renowned human performance consultant, longevity expert, and New York Times bestselling author. Author of Boundless and Beyond Training, host of the Ben Greenfield Life podcast, co-founder of Kion and the LIFE Network, and a 13-time Ironman triathlete. His core message: aging is inevitable, but decline is not. The men who thrive after 40 are the ones who train intelligently, recover intentionally, sleep deeply, eat strategically, move daily, and stay connected spiritually and emotionally. His work covers mitochondrial health, hormonal optimization, sleep, recovery, advanced biohacking, and the connection between purpose and longevity.",
+    quote: "Aging is inevitable. Decline is not. The goal after 40 isn't just survival — it's becoming stronger, sharper, more energized, and more resilient than ever before.",
+    sourceRef: "Ben Greenfield — Optimizing the Human Machine for 40 and Beyond"
+  },
+  {
+    id: "fr-285",
+    speakerId: "ben-greenfield",
+    topic: ["longevity", "mitochondria", "energy", "hormones"],
+    tags: ["mitochondria", "testosterone decline", "energy", "hormonal shifts", "sarcopenia", "muscle loss", "brain health", "nervous system"],
+    content: "Ben Greenfield on what changes in the male body after 40: Around 35-40, the endocrine system begins adjusting. Testosterone downregulates, partly due to decreased mitochondrial efficiency. The most significant outcome is slower recovery and need for more rest days, followed by a drop in libido and energy. By 45-50, muscle protein synthesis decreases, sarcopenia begins — gradual muscle loss you may notice as more defined wrinkles around elbows and knees and a slight frailty in the hands. Brain health is not destined to decline if the mind is stimulated through learning new things, challenging activities (music, chess, dangerous pursuits), and a low-inflammation diet rich in minerals, colors, and omega-3s. The nervous system is also use-it-or-lose-it — hearing, HRV, vagal tone all decline with misuse or underuse. Almost all of these decline pathways run through mitochondrial health.",
+    sourceRef: "Ben Greenfield — Optimizing the Human Machine for 40 and Beyond"
+  },
+  {
+    id: "fr-286",
+    speakerId: "ben-greenfield",
+    topic: ["longevity", "mitochondria", "biohacking", "recovery"],
+    tags: ["mitochondrial health", "zone 2 cardio", "HIIT", "sauna", "cold exposure", "sunlight", "grounding", "PEMF", "red light therapy", "hyperbaric oxygen"],
+    content: "Ben Greenfield on improving mitochondrial health: mitochondria are the energy-producing organelles in cells that control performance, hormonal output, recovery speed, and aging rate. To improve mitochondrial function naturally: daily sunlight exposure, grounding and barefoot walking, sauna sessions, cold water exposure, breathwork, and strength training. Advanced tools used strategically after building foundations: PEMF therapy, red light therapy, hyperbaric oxygen therapy (HBO), NAD support, and mitochondria-targeting peptides (MOTS-C, SS31). Weekly training: strength training 3-4x weekly, daily walking, zone 2 cardio, HIIT 1-2x weekly. The rule: build foundations first. Never spend time and money on biohacking tools while ignoring sleep, nutrition, movement, and recovery.",
+    sourceRef: "Ben Greenfield — The Human Machine Optimization Protocol"
+  },
+  {
+    id: "fr-287",
+    speakerId: "ben-greenfield",
+    topic: ["nutrition", "longevity", "men-over-40", "supplements"],
+    tags: ["Mediterranean diet", "protein intake", "gut health", "inflammation", "peptides", "supplements", "NAD", "CoQ10", "methylene blue", "seed oils"],
+    content: "Ben Greenfield on nutrition and supplements after 40: Mediterranean-style eating — protein at every meal, healthy fats, colorful vegetables, fermented foods, whole foods only. Avoid seed oils, ultra-processed foods, excess sugar, excess alcohol. Protein target: 0.8-1 gram per pound of bodyweight. Add digestive enzymes and essential amino acids to protect muscle as you age. For supplements: prioritize mitochondrial support — NAD, CoQ10, methylene blue. For peptides: MOTS-C and SS31 target mitochondrial function; GLP-1 medications (semaglutide, tirzepatide) are powerful but require resistance training to preserve muscle. Sleep optimization: cool room 63-65°F, darkness, reduced blue light, stress management, breathwork before bed. Get comprehensive testing: blood work, hormones, gut testing, food sensitivity, DNA and genetic testing.",
+    sourceRef: "Ben Greenfield — The Human Machine Optimization Protocol"
+  },
+  {
+    id: "fr-288",
+    speakerId: "ben-greenfield",
+    topic: ["longevity", "relationships", "purpose", "mindset"],
+    tags: ["relationships", "purpose", "spirituality", "community", "recovery", "longevity", "quality of life", "second half of life"],
+    content: "Ben Greenfield's biggest longevity message: longevity isn't just physical. The quality of your relationships impacts longevity more than almost anything else. Prioritize family, connection, faith, purpose, and community. Recovery is active, not passive — recovery days include mobility work, foam rolling, sauna, contrast showers, stretching, and walking. Men can't train at the same volume or intensity they did in their 20s — nervous system fatigue accumulates and regeneration takes longer. Accept this and design smarter training rather than fighting biology. His Human Machine Optimization Protocol: Build foundations first (nutrition, sleep, strength training, walking, recovery). Prioritize daily movement. Eat for energy and longevity. Improve mitochondrial health daily. Create a real recovery protocol. Optimize sleep aggressively. Get proper testing. Use advanced tools only after foundations are solid.",
+    quote: "The quality of your relationships impacts longevity more than almost anything else.",
+    sourceRef: "Ben Greenfield — Optimizing the Human Machine for 40 and Beyond"
+  },
+  {
+    id: "fr-289",
+    speakerId: "brian-parana",
+    topic: ["nutrition", "men-over-40", "blood-sugar", "diabetes"],
+    tags: ["Brian Parana", "Call to Rise", "type 2 diabetes", "pre-diabetes", "A1C", "blood sugar", "insulin resistance", "men over 40"],
+    content: "Brian Parana is a men's health coach with 23+ years of experience, former CrossFit gym owner, personal trainer, and online coach with a record of coaching an Olympic silver medalist, two-time Olympian, and a CrossFit world champion. Creator of Call to Rise, a 100-day fat loss experience for driven men looking to drop 20-30 pounds. His core area: men over 40 diagnosed with type 2 or pre-diabetes. A1C is the three-month average of how much blood sugar is attaching to red blood cells. Pre-diabetic range: 5.7 to 6.2-6.3. Once in the high sixes, you are becoming a type 2 diabetic. Many men are blindsided by this diagnosis because the warning signs — tiredness, belly fat, constant thirst, and waking at night — are easily dismissed as just getting older. Men are conditioned to push discomfort aside and only see a doctor when something is truly serious.",
+    quote: "The early signs have been building for three to five years before diagnosis. Men assume it's just aging.",
+    sourceRef: "Brian Parana — Diagnosed With Type 2 Diabetes After 40"
+  },
+  {
+    id: "fr-290",
+    speakerId: "brian-parana",
+    topic: ["nutrition", "blood-sugar", "men-over-40", "habits"],
+    tags: ["blood sugar", "liquid calories", "post-meal walking", "protein first", "fiber", "processed foods", "insulin sensitivity", "plate structure"],
+    content: "Brian Parana's 3 lowest-hanging fruit strategies to lower blood sugar immediately: First, eliminate liquid calories — no soda, juice, sugary coffee drinks, limit alcohol. Replace with 2-4 liters of water daily. These liquid calories silently destroy blood sugar control and are the easiest removal. Second, walk 10-15 minutes after every meal, especially lunch and dinner — this is one of the most powerful blood sugar management tools available. Muscles absorb glucose during movement and dramatically reduce post-meal spikes. Third, structure every meal correctly: protein first (chicken, eggs, fish, beef), then fiber (vegetables), then optional fruit, then small portion of starch, then controlled healthy fats. The biggest mistake men make after diagnosis is all-or-nothing thinking — going all-in, crashing, and quitting. Progress beats perfection. Ask yourself daily: what is the next best thing for me to do?",
+    quote: "What's the next best thing for me to do? Not perfect. Just better.",
+    sourceRef: "Brian Parana — The Blood Sugar Reset Protocol"
+  },
+  {
+    id: "fr-291",
+    speakerId: "brian-parana",
+    topic: ["nutrition", "training", "blood-sugar", "habits"],
+    tags: ["strength training", "steps", "sleep", "stress", "cortisol", "blood sugar reset", "daily movement", "processed food"],
+    content: "Brian Parana's Blood Sugar Reset Protocol — 30-day phased approach: Phase 1 — Immediate Reset (Days 1-7): eliminate liquid calories, walk after every meal, structure meals (protein and fiber first). Phase 2 — Momentum (Days 8-21): target 8,000-10,000 steps per day, strength train 2-3x weekly (squats, pushups, rows, deadlifts), cut ultra-processed foods — anything in boxes, crinkly wrappers, or marketed as 'high protein' junk. Muscle is better glucose control. Phase 3 — Optimization (Days 22-30): prioritize sleep minimum 6-7 hours, target 7-8 hours — poor sleep equals higher blood sugar and cortisol spikes. Stress control: 5-10 minutes quiet time daily, walk without phone, breathe and reset. Weekly self-check: did I drink liquid calories? Did I move after meals? Did I hit my steps? Did I train at least 2x? Did I sleep 6+ hours?",
+    sourceRef: "Brian Parana — The Blood Sugar Reset Protocol"
+  },
+  {
+    id: "fr-292",
+    speakerId: "brian-parana",
+    topic: ["nutrition", "blood-sugar", "mindset", "men-over-40"],
+    tags: ["insulin resistance", "body composition", "skinny fat", "type 2 diabetes", "consequences", "accountability", "radical truth", "ownership"],
+    content: "Brian Parana on the real causes and real consequences of ignoring blood sugar: You can be at a normal body weight and still be type 2 diabetic based on what you put in your mouth. Body weight is not the only predictor of insulin resistance. The long-term consequences men avoid thinking about: limb loss, blindness, cardiovascular disease, kidney disease, erectile dysfunction, and dramatic loss of quality of life and independence. Brian's approach is radical truth — most doctors spend 10 minutes and tell you to lose weight without giving you a plan. His Call to Rise program gives men a clear, structured 100-day fat loss experience built around practical nutrition, training, sleep, and accountability. Ownership changes everything. Stop waiting for a second diagnosis to take action.",
+    sourceRef: "Brian Parana — Diagnosed With Type 2 Diabetes After 40"
+  },
+  {
+    id: "fr-293",
+    speakerId: "brad-dieter",
+    topic: ["supplements", "nutrition", "evidence-based", "men-over-40"],
+    tags: ["Brad Dieter", "supplements", "evidence-based", "signal vs noise", "S.I.G.N.A.L. framework", "supplement industry", "200 billion"],
+    content: "Dr. Brad Dieter holds a PhD and Master's in Exercise and Nutritional Sciences, completed a postdoc in metabolism and chronic disease, and has spent 10 years building consumer coaching platforms serving thousands of clients worldwide. Core message: the supplement industry approaches $200 billion annually, but only about 5% of supplements have strong evidence-based support. The other 95% have no evidence or rely on anecdotes. His framework — The S.I.G.N.A.L. Framework: S = Study the Mechanism (does it have a plausible biological pathway?), I = Inspect the Evidence (meta-analysis > RCTs > observational > animal > anecdotes — never build a health strategy on Level 5 anecdotes), G = Gauge the Effect Size (does it actually matter clinically, not just statistically?), N = Note the Risks (side effects, safety, drug interactions), A = Assess the Cost (financial, time, risk, opportunity cost), L = Look at the Foundation (fix sleep, nutrition, exercise, and stress first — if any is below 7/10, fix that before adding supplements).",
+    quote: "Don't ask 'does it work?' Ask 'how strong is the evidence that it works?'",
+    sourceRef: "Brad Dieter — The Signal vs Noise System"
+  },
+  {
+    id: "fr-294",
+    speakerId: "brad-dieter",
+    topic: ["supplements", "nutrition", "men-over-40", "longevity"],
+    tags: ["creatine", "magnesium", "vitamin D", "fish oil", "collagen", "supplement stack", "muscle longevity", "testosterone", "insulin sensitivity"],
+    content: "Brad Dieter on the core supplement stack for men over 40 — the Tier 1 foundation: Creatine — the single best supplement for men over 40. Clear mechanism of action (increases phosphocreatine stores, enables more ATP in the phosphogen system), 2,800+ studies, increases lean muscle mass 3-7% with resistance training, may expand musculoskeletal health span by nearly a decade, emerging evidence for cognition. Magnesium — widespread deficiency, linked to insulin sensitivity, testosterone production, and metabolic health. Vitamin D — widely deficient, impacts hormones, immunity, and performance. Fish oil — cardiovascular health, reduces triglycerides, quality matters. Collagen — skin health, joint support, and aging; contains glycine and proline critical for connective tissue. Secondary supplements worth considering: Vitamin B complex, cinnamon (blood glucose regulation), selenium (antioxidant). The rule: never spend $500/month on peptides while ignoring sleep, protein intake, resistance training, and stress management.",
+    sourceRef: "Brad Dieter — Supplements & Peptides for Men Over 40"
+  },
+  {
+    id: "fr-295",
+    speakerId: "brad-dieter",
+    topic: ["supplements", "peptides", "evidence-based", "men-over-40"],
+    tags: ["peptides", "BPC-157", "TB-500", "GLP-1", "semaglutide", "tirzepatide", "GHK Copper", "Ipamorelin", "CJC-1295", "FDA approved", "gray market", "muscle preservation"],
+    content: "Brad Dieter on peptides: Peptides are biological signaling molecules. The distinction that matters is FDA-approved vs research-grade (gray-market). FDA-approved GLP-1 medications (semaglutide/Ozempic, tirzepatide/Mounjaro) have strong evidence for weight loss but accelerate muscle loss if not paired with resistance training — this is critical for men over 40. Emerging research-grade peptides: BPC-157 (gut healing and recovery, promising but mostly animal studies), TB-500 (recovery, research stage), GHK Copper (cosmetic and anti-aging, mostly topical), Ipamorelin and CJC-1295 (growth hormone secretagogues), Semax and Selank (cognitive enhancement claims, limited human data). Gray-market peptide risks: quality control failures, mislabeling, unknown contaminants. His Peptide Decision Tree: Is it FDA approved? Does it have human data? Is the quality verified? If any answer is no, proceed with extreme caution or wait. Coaches cannot recommend peptides — that is a medical scope issue.",
+    sourceRef: "Brad Dieter — Supplements & Peptides for Men Over 40"
+  },
+  {
+    id: "fr-296",
+    speakerId: "brad-dieter",
+    topic: ["supplements", "evidence-based", "nutrition", "men-over-40"],
+    tags: ["NAD", "BCAAs", "HMB", "overhyped supplements", "supplement noise", "Longevity Investment Pyramid", "foundation before complexity"],
+    content: "Brad Dieter on supplements that do not deliver for men over 40: NAD supplements (orally taken NAD precursors like NMN and NR) — evidence remains weak for direct human longevity outcomes and the delivery mechanism is questionable. BCAAs — redundant if you are already consuming adequate protein; the muscle-building benefit disappears when total protein is sufficient. HMB — limited real-world applications and weak evidence for most healthy men. His Longevity Investment Pyramid, built bottom-up: Level 1 Sleep, Level 2 Nutrition, Level 3 Exercise, Level 4 Recovery, Level 5 Supplements, Level 6 Advanced Therapies. Build from the bottom up, never top down. The 30-Day Health ROI Audit: Week 1 review every supplement you take. Week 2 score each one on mechanism, evidence, effect size, and safety. Week 3 remove low-value supplements. Week 4 redirect that money toward food quality, coaching, recovery, blood work, and fitness.",
+    sourceRef: "Brad Dieter — Supplements & Peptides for Men Over 40"
+  },
+
 ];
 
 export const topicIndex: Record<string, string[]> = {
