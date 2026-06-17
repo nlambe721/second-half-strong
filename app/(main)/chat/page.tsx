@@ -131,7 +131,7 @@ function ChatInner() {
                 Ask anything about training, nutrition, sleep, hormones, or mindset after 40.
               </p>
               <p className="text-gray-600 text-xs mb-8">
-                146 knowledge chunks · 43 expert voices · Funk Roberts system
+                162 knowledge chunks · 43 expert voices · Funk Roberts system
               </p>
             </div>
 
@@ -276,7 +276,7 @@ function ChatInner() {
           </button>
         </form>
         <p className="text-center text-gray-700 text-xs mt-2">
-          AI Coach · 146 knowledge chunks · Men Over 40 Health Summit
+          AI Coach · 162 knowledge chunks · Men Over 40 Health Summit
         </p>
       </div>
     </div>
