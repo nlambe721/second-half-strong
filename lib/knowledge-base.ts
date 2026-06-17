@@ -3257,6 +3257,118 @@ Evening: Wind-down 60 min before bed → breathwork → meditation/journaling �
     sourceRef: "Alex Effer — The Rebuild Framework"
   },
 
+
+  {
+    id: "fr-271",
+    speakerId: "andrew-coates",
+    topic: ["training", "men-over-40", "evidence-based", "mindset"],
+    tags: ["Andrew Coates", "cutting through noise", "evidence-based", "strength coaching", "information overload", "men over 40"],
+    content: "Andrew Coates is a strength coach, writer, and speaker with 23,000+ hours coaching on the gym floor and over a decade working with real everyday people. Featured in T-Nation, Men's Health, and Arnold Schwarzenegger's Pump Club, his core message is this: men over 40 today are not lacking information — they are drowning in it. Social media algorithms are designed to keep you outraged, emotionally dysregulated, and addicted to content. TikTok and YouTube shifted from social feeds to interest-based algorithms that feed you more of whatever you click. Political outrage, fitness tribalism, extreme ideology — these hijack your attention and emotional wellbeing. His prescription: curate your environment. Your digital environment shapes your mindset as much as what's in your kitchen.",
+    quote: "The last two, three years, we've undergone a dramatic shift in the way social media is delivered to you. The things you interact with feed you more of what you're interested in, which often is not what you've traditionally followed.",
+    sourceRef: "Andrew Coates — Cutting Through the Noise"
+  },
+  {
+    id: "fr-272",
+    speakerId: "andrew-coates",
+    topic: ["training", "men-over-40", "load-management", "injury-prevention"],
+    tags: ["load management", "returning to gym", "injury prevention", "ego lifting", "smart progression", "consistency"],
+    content: "Andrew Coates on training after 40: Men over 40 do not need perfect programs. They need smart progression and consistency. The biggest training mistake when returning to the gym after time off is doing too much too soon. Ego is the primary reason men get hurt — trying to lift what they lifted years ago without rebuilding the foundation. Load management is critical. Your tissues need time to adapt. Exercise selection should be based on your body and its current capacity, not trends or what you used to do. You adapt exercises to suit your body, not the other way around. The goal is sustainable training, not the most impressive workout.",
+    quote: "After 40, success isn't about doing more. It's about doing what matters — and ignoring the rest.",
+    sourceRef: "Andrew Coates — Cutting Through the Noise"
+  },
+  {
+    id: "fr-273",
+    speakerId: "andrew-coates",
+    topic: ["training", "longevity", "movement", "men-over-40"],
+    tags: ["non-negotiables", "walking", "power training", "explosiveness", "cardiovascular health", "functional strength", "7000 steps"],
+    content: "Andrew Coates's non-negotiables for health after 40: Sleep, daily movement, strength training, and cardiovascular health. Walking 7,000-10,000 steps daily is one of the most powerful longevity tools available — it is the baseline. Strength training 2-4x per week with controlled progression builds muscle and protects against decline. Two to three low-intensity cardio sessions per week builds endurance without burning out recovery. Power and explosiveness training (kettlebell swings, medicine ball throws, power skipping) 1-2x per week is the overlooked key — losing mobility and power is more dangerous than losing muscle because it predicts falls, injury, and functional decline. Train for real life, not just aesthetics.",
+    sourceRef: "Andrew Coates — Cutting Through the Noise"
+  },
+  {
+    id: "fr-274",
+    speakerId: "andrew-coates",
+    topic: ["mindset", "habits", "information", "men-over-40"],
+    tags: ["Noise-Free Strength System", "digital environment", "habits", "attention management", "credible experts", "identity shift"],
+    content: "Andrew Coates's Noise-Free Strength and Life System: Phase 1 — Eliminate the Noise (Days 1-7): clean your digital environment, unfollow political outrage and unrealistic fitness influencers, follow evidence-based experts, set attention boundaries during meals and evenings. Phase 2 — Build the Foundation (Days 8-21): strength train 2-4x per week, hit 7,000-10,000 steps daily, add simple cardio. Phase 3 — Upgrade Performance (Days 22-30): add power and explosive training, train ground movement (crawls, planks, get-ups), prioritize recovery. Core identity shift: stop saying 'I don't know what works.' Start saying 'I focus on what actually matters.' You don't need more information. You need better filters.",
+    sourceRef: "Andrew Coates — The Noise-Free Strength & Life System"
+  },
+  {
+    id: "fr-275",
+    speakerId: "andrew-coates",
+    topic: ["mindset", "training", "evidence-based", "men-over-40"],
+    tags: ["credibility", "fitness tribalism", "nutrition ideology", "keto", "carnivore", "expert identification", "bias"],
+    content: "Andrew Coates on identifying credible fitness information: Nutrition is tribal — carnivore, keto, vegan, high-volume, low-volume training each have extreme ideological camps. These are false dichotomies presented as wars. Most fitness experts online don't actually care about your results — they care about attention. Incentives in content creation reward outrage and tribal allegiance, not nuance. Ask: does this person have real-world coaching experience with everyday people? Do they update their views based on evidence? Are they selling you certainty or helping you think? Hypertrophy training is not a war between high volume and high intensity — both work depending on context. The goal is finding what works consistently for your body and your life.",
+    sourceRef: "Andrew Coates — Cutting Through the Noise"
+  },
+  {
+    id: "fr-276",
+    speakerId: "ben-pakulski",
+    topic: ["longevity", "optimization", "muscle-building", "hormones", "men-over-40"],
+    tags: ["Ben Pakulski", "Men 4.0", "Muscle Intelligence", "precision performance", "intelligent muscle building", "DNA Perform"],
+    content: "Ben Pakulski is a former IFBB Professional Bodybuilder, founder of Muscle Intelligence, and creator of the Men 4.0 framework. Known as the Godfather of Intelligent Muscle Building, Ben has spent 25+ years studying human performance, muscle growth, longevity, hormone optimization, mitochondria, and genetics. He competed at the Arnold Classic and Mr. Olympia before shifting his focus to helping entrepreneurs, executives, and high performers optimize every dimension of health. His mission: help people become the highest-performing version of themselves by aligning biology, technology, and behavior. Quote: 'Don't solve for outcome. Solve for trajectory.'",
+    quote: "Don't solve for outcome. Solve for trajectory.",
+    sourceRef: "Ben Pakulski — Men 4.0"
+  },
+  {
+    id: "fr-277",
+    speakerId: "ben-pakulski",
+    topic: ["longevity", "optimization", "precision-health", "men-over-40"],
+    tags: ["Men 4.0", "precision testing", "genetics", "blood work", "AI health", "personalized optimization", "guessing vs measuring"],
+    content: "Ben Pakulski's Men 4.0 concept: the evolution from generic health optimization to precision performance. The old model was train hard, eat healthy, take supplements. The new model is test, measure, personalize, optimize. Ten years ago, the healthiest guy you knew was doing all the right things generally — but sometimes those people dropped dead at 55. Modern technology including genetic testing, advanced bloodwork, AI-driven analysis, and wearables allows us to look inside each individual's unique physiology and find the specific constraints and opportunities limiting their performance. The future: waking up, running a drop of blood, and getting precise recommendations for supplements, training load, and nutrition based on what your biology needs today.",
+    quote: "If you're doing what you think is best without testing and objectifying everything, you're leaving so much meat on the bone. The beautiful evolution from 3.0 to 4.0 is this fully measured, integrated version of ourselves.",
+    sourceRef: "Ben Pakulski — Men 4.0"
+  },
+  {
+    id: "fr-278",
+    speakerId: "ben-pakulski",
+    topic: ["longevity", "optimization", "blood-work", "genetics"],
+    tags: ["Limiter Lever Linchpin", "genetics testing", "ApoB", "root cause", "advanced blood work", "cardiovascular risk", "precision health"],
+    content: "Ben Pakulski's Limiter-Lever-Linchpin Framework: identify your Limiter (what is holding you back — low energy, poor sleep, belly fat, recovery, hormones), pull the right Lever (if sleep is the limiter, reduce evening screens; if recovery is the limiter, reduce training volume; if hormones are the limiter, run comprehensive testing), and find the Linchpin (the one thing that creates the biggest impact). Advanced blood work beyond standard panels: track ApoB, fractionated lipids, insulin sensitivity, inflammation markers, testosterone, and glucose. Genetics testing identifies recovery capacity, training volume tolerance, inflammation tendencies, mitochondrial function, and cardiovascular risk. Do it once, use the information forever.",
+    sourceRef: "Ben Pakulski — Men 4.0 Precision Performance Blueprint"
+  },
+  {
+    id: "fr-279",
+    speakerId: "ben-pakulski",
+    topic: ["longevity", "purpose", "mindset", "testosterone", "men-over-40"],
+    tags: ["pursuit", "purpose", "dopamine", "testosterone", "anti-aging", "challenge", "continuous improvement"],
+    content: "Ben Pakulski on purpose, pursuit, and testosterone: one of his most powerful insights is that pursuit itself is an anti-aging strategy. Pursuit creates dopamine. Dopamine supports testosterone. Men need goals, challenge, and purpose. When pursuit disappears — when men stop growing, stop chasing, stop being challenged — many begin to decline physically and mentally. The Men 4.0 implementation plan includes creating a new pursuit: a fitness goal, business goal, learning goal, adventure, or skill. Pursuit creates momentum. Momentum creates confidence. Phase 1 is always foundation first: master sleep (7-9 hours), strength train 3-4x per week, prioritize protein, walk 8,000+ steps daily. Without a foundation, advanced strategies fail.",
+    quote: "Pursuit creates dopamine. Dopamine supports testosterone. Men need goals. Men need challenge. Men need purpose. When pursuit disappears, many men begin to decline physically and mentally.",
+    sourceRef: "Ben Pakulski — Men 4.0"
+  },
+  {
+    id: "fr-280",
+    speakerId: "antonio-centeno",
+    topic: ["confidence", "style", "intentional-living", "men-over-40"],
+    tags: ["Antonio Centeno", "Real Men Real Style", "style after 40", "men's style", "intentional living", "Marine Corps", "confidence"],
+    content: "Antonio Centeno is the founder of Real Men Real Style, a former Marine Corps officer, and one of the world's leading experts on men's style, grooming, and intentional self-presentation. His core argument: dressing well after 40 is not about chasing trends or trying to look younger — it is about looking intentional, capable, masculine, and aligned with who you are today. A mature man should not drift through life passively. After 40, intentionality matters in every domain: how you look, how you move, how you sleep, how you eat, how you connect, how you lead yourself. This is not about vanity. It is about alignment, confidence, health, energy, and self-respect.",
+    sourceRef: "Antonio Centeno — The Modern Mature Man"
+  },
+  {
+    id: "fr-281",
+    speakerId: "antonio-centeno",
+    topic: ["confidence", "style", "men-over-40", "presentation"],
+    tags: ["style mistakes", "fit", "oversized clothing", "logos", "structured jacket", "masculine presence", "tailoring"],
+    content: "Antonio Centeno on style after 40: if your casual style at 41 looks the same as it did at 21, you probably don't look relaxed — you look lost. There is a massive difference between dressing casually as a boy and dressing casually as a man. Young men seek identity through logos, tribal signals, and comfort only. A man knows who he is and dresses accordingly. The single most important rule: fit. Shoulder seams sit at the shoulder. Sleeves end at the wrist bone. Pants have no break or a quarter break. No excess fabric ballooning. A grown man uses his clothing to improve his appearance, not to be swallowed by it. Common mistakes to retire: distressed denim, oversized clothing, hoodies as outerwear, graphic tees, and excessive branding. Avoid logos unless you're paid to wear them.",
+    quote: "A man, on the other hand, knows who he is, dresses accordingly, and understands he can still dress comfortably while still looking stylish, intentional, and in control.",
+    sourceRef: "Antonio Centeno — The Modern Mature Man"
+  },
+  {
+    id: "fr-282",
+    speakerId: "antonio-centeno",
+    topic: ["confidence", "style", "grooming", "men-over-40"],
+    tags: ["structured clothing", "blazer", "sports jacket", "masculine silhouette", "grooming", "skincare", "oral health", "beard"],
+    content: "Antonio Centeno on structured clothing and grooming for mature men: the bread and butter of a grown man's wardrobe is structured — shirts with collars, jackets with structured shoulders, clothing that defines a masculine and classic silhouette. Every man should own one well-fitting suit in charcoal gray or navy. A versatile sports jacket or blazer can be worn with denim and elevates any outfit without the formality of a full suit. Grooming matters more, not less, as men age: daily face wash, moisturizer with SPF, oral hygiene, and beard maintenance. Weekly: eyebrow and nose/ear hair maintenance, neckline cleanup. Teeth, skin, and grooming create presence before you say a word. Antonio also addresses mortality and urgency — embracing the finite nature of life creates the clarity and urgency needed to live intentionally.",
+    sourceRef: "Antonio Centeno — The Intentional Man Over 40 Blueprint"
+  },
+  {
+    id: "fr-283",
+    speakerId: "antonio-centeno",
+    topic: ["intentional-living", "health", "fitness", "men-over-40"],
+    tags: ["intentional living", "muscle mass", "resistance training", "sleep", "relationships", "mortality", "purpose", "second half of life"],
+    content: "Antonio Centeno's Intentional Man Over 40 Blueprint covers seven domains: Style and appearance (fit matters more than brand names). Grooming (daily skincare, oral hygiene, beard care). Wardrobe foundation (dark fitted denim, structured jackets, one great suit, leather footwear). Physical foundation (resistance training 2-4x per week, cardio, mobility). Sleep and recovery (track bedtime, caffeine timing, deep sleep and REM). Relationships and connection (audit who you're connected to; reach out to someone you've lost touch with). Mortality and purpose: if you truly accepted that life is finite, what would you stop delaying? Who would you reconnect with? The goal is not perfection. The goal is ownership and intentional living. Men over 40 don't need to chase youth — they need to become more intentional, refined, disciplined, connected, and aligned with who they want to become.",
+    sourceRef: "Antonio Centeno — The Intentional Man Over 40 Blueprint"
+  },
+
 ];
 
 export const topicIndex: Record<string, string[]> = {

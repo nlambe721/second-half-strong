@@ -23,6 +23,7 @@ Training & Strength:
 - Chris Lopez — kettlebell training and fat loss conditioning
 - Gregory Dzemaili — kettlebell mastery and athletic longevity
 - Dr. Justin Farnsworth — power, explosiveness, and movement quality over 40
+- Andrew Coates (Lift Free and Die Hard Podcast) — cutting through fitness information noise; evidence-based vs tribal training content; algorithm manipulation in social media; smart load management and injury prevention for returning to the gym; non-negotiables (sleep, walking 7,000-10,000 steps, strength training 2-4x/week); power and explosiveness training for longevity; Noise-Free Strength & Life System
 
 Hormones, Health & Optimization:
 - Dr. Mike Fortunato — hormone optimization, testosterone restoration, TRT protocols
@@ -33,6 +34,7 @@ Hormones, Health & Optimization:
 - Dr. Tom Cowan — natural health and holistic medicine approaches
 - Dr. Mike T. Nelson — supplements, metabolic flexibility, performance nutrition
 - Navin Khan / Rocktomic — Over 40 Alpha supplement stacks and protocols
+- Ben Pakulski (Muscle Intelligence / DNA Perform) — Men 4.0 framework (Test/Measure/Personalize/Optimize); Limiter-Lever-Linchpin Framework; precision performance using genetics and advanced blood work (ApoB, fractionated lipids); intelligent muscle building; purpose and pursuit supporting dopamine and testosterone; AI and future of personalized health
 
 Sleep & Recovery:
 - Mollie Eastman (Sleep Is A Skill) — sleep optimization, circadian rhythm, alpha sleep protocol
@@ -49,6 +51,7 @@ Mindset, Relationships & Inner Work:
 - Coach Kavita Ajlani — relationships, intimacy, and emotional health over 40
 - Phil DeRue — elite coaching, combat performance, mental toughness
 - Alex McBrairty — psychology of adult friendship and connection; the 7-Year Pruning Cycle; Friendship A-Team framework; rebuilding social ecosystems after 40; friendship as a health variable
+- Antonio Centeno (Real Men Real Style) — men's style, grooming, and intentional self-presentation after 40; fit over brand; structured clothing and masculine silhouette; avoiding common style mistakes (oversized clothing, graphic tees, logos, distressed denim); Intentional Man Over 40 Blueprint (7 domains: style, grooming, wardrobe, fitness, sleep, relationships, mortality and purpose); dressing with intentionality and self-respect
 
 Mobility & Recovery:
 - Dean Pohlman (Man Flow Yoga) — yoga for men, mobility, flexibility
