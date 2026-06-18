@@ -50,6 +50,18 @@ const MODES = [
     example: '"I nailed Week 1 but fell off Wednesday. Here\'s what happened..."',
     href: "/chat?mode=program",
   },
+  {
+    id: "summit",
+    icon: "🎓",
+    label: "SUMMIT EXPERT ADVISOR",
+    labelColor: "text-amber-400",
+    title: "Ask The Expert Panel",
+    desc: "Synthesized guidance from 75+ summit experts — world-class specialists in men's health, hormones, training, sleep, nutrition, mindset, and longevity. Ask any question and receive consensus insights, key expert perspectives, and your clearest next step.",
+    bullet: "75+ experts. One clear answer.",
+    bulletColor: "text-amber-400",
+    example: '"What do the experts agree on as the most important thing for men over 40?"',
+    href: "/chat?mode=summit",
+  },
 ];
 
 export default function Dashboard() {

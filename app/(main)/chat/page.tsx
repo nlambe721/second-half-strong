@@ -16,7 +16,7 @@ interface Source {
   topic: string;
 }
 
-type Mode = "chat" | "case" | "diagnose" | "program" | "photo";
+type Mode = "chat" | "case" | "diagnose" | "program" | "photo" | "summit";
 
 // Strip all markdown — guaranteed clean output regardless of model behavior
 function stripMarkdown(text: string): string {
@@ -35,6 +35,7 @@ const MODE_META: Record<Mode, { icon: string; title: string; sub: string; placeh
   diagnose: { icon: "🔍", title: "Personal Analysis",             sub: "Deep personal analysis — the coach interviews you first",  placeholder: 'Type "Start" to begin your personal analysis...' },
   program:  { icon: "🏆", title: "Accountability Check-In", sub: "Progress report · What broke down · Recalibrated plan",  placeholder: "Share your check-in — wins, breakdowns, this week's stats..." },
   photo:    { icon: "📷", title: "Photo & Document Analysis", sub: "Upload an image or PDF — analyzed with M40 context",  placeholder: "Attach a photo or file, or describe what you'd like analyzed..." },
+  summit:   { icon: "🎓", title: "Summit Expert Advisor",       sub: "Ask any question — get synthesized insights from 75+ summit experts", placeholder: "Ask any health question — I'll consult the full expert panel and synthesize their collective guidance..." },
 };
 
 const MODE_INTRO: Record<Mode, React.ReactNode> = {
@@ -77,6 +78,14 @@ const MODE_INTRO: Record<Mode, React.ReactNode> = {
       <p className="text-purple-400">Use the camera or attachment button below to get started.</p>
     </div>
   ),
+  summit: (
+    <div className="text-sm leading-relaxed space-y-3">
+      <p className="text-amber-400">Summit Expert Advisor</p>
+      <p className="text-gray-300">Ask any question and receive synthesized guidance from the full panel of 75+ summit experts — their collective knowledge distilled into clear, actionable recommendations for your situation.</p>
+      <p className="text-gray-400">I identify which experts are most relevant, synthesize areas of consensus, surface important differences in perspective, and translate it all into your next best step.</p>
+      <p className="text-amber-500">What do you want the expert panel to weigh in on?</p>
+    </div>
+  ),
 };
 
 const QUICK_STARTS: Record<Mode, { icon: string; title: string; sub: string; query: string }[]> = {
@@ -109,6 +118,12 @@ const QUICK_STARTS: Record<Mode, { icon: string; title: string; sub: string; que
     { icon: "🩸", title: "Blood Work",  sub: "Interpret my lab results",    query: "Here are my blood work results. Please interpret every marker with M40 reference ranges and flag what I need to address." },
     { icon: "💊", title: "Supplement",  sub: "Check my supplement bottle",  query: "Analyze this supplement for a man over 40. Check the dosage, quality, and whether it is worth taking." },
     { icon: "🍽️", title: "My Meal",     sub: "Break down what I'm eating",  query: "Analyze this meal photo. Give me a macro breakdown and M40 coaching feedback." },
+  ],
+  summit: [
+    { icon: "🧠", title: "Expert Consensus",    sub: "What do the experts agree on?",          query: "What does the full panel of summit experts generally agree on as the highest-leverage health priorities for men over 40? Give me the consensus view across training, hormones, sleep, nutrition, and mindset." },
+    { icon: "🔬", title: "My Specific Question", sub: "Get the expert panel's take",            query: "I have a specific health question I want the expert panel to weigh in on. Here it is:" },
+    { icon: "⚡", title: "Testosterone",          sub: "Expert consensus on hormones",          query: "What do the summit experts collectively say about testosterone optimization for men over 40? Give me the consensus, the key differences in approach, and the most important action for me to take." },
+    { icon: "🎯", title: "Where To Start",        sub: "If the experts were coaching me...",    query: "If the full panel of summit experts were sitting across from me right now, what would they collectively tell me to focus on first as a man over 40 who wants to optimize his health?" },
   ],
 };
 
@@ -236,7 +251,7 @@ function useVoice() {
 function ChatInner() {
   const searchParams = useSearchParams();
   const rawMode = (searchParams.get("mode") as Mode) || "chat";
-  const mode: Mode = ["chat", "case", "diagnose", "program", "photo"].includes(rawMode) ? rawMode : "chat";
+  const mode: Mode = ["chat", "case", "diagnose", "program", "photo", "summit"].includes(rawMode) ? rawMode : "chat";
 
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState("");
